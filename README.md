@@ -1,17 +1,17 @@
 - toolings
   - Ide
     - vscode
-      - [code-server](https://github.com/cdr/code-server) Run VS Code on any machine anywhere and access it in the browser.
+      - [code-server](https://github.com/cdr/code-server) - Run VS Code on any machine anywhere and access it in the browser.
 
 - Frontend
   - Vue
-    - [Vueuse](https://vueuse.js.org/) Collection of essential Vue Composition Utilities
+    - [Vueuse](https://vueuse.js.org/) - Collection of essential Vue Composition Utilities
 - Backend
   - database
     - NoSQL
       - PostgreSQL
-        - [pg-sql.com](https://pg-sql.com/) playground
+        - [pg-sql.com](https://pg-sql.com/) - playground
       - HarperDB
-        - [HarperDB vs MongoDB](https://harperdb.io/harperdb-vs-mongodb/) 37.9 times faster than mongodb on average
+        - [HarperDB vs MongoDB](https://harperdb.io/harperdb-vs-mongodb/) - 37.9 times faster than mongodb on average
     - SQL
 - Devops
