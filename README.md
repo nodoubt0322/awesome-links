@@ -1,17 +1,44 @@
+- clean code
+  - function programming
+    - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
+  - design pattern
+    - [重学Java设计模式](https://github.com/fuzhengwei/itstack-demo-design) - 互联网真实案例实践书籍
 - toolings
   - Ide
     - vscode
       - [code-server](https://github.com/cdr/code-server) - Run VS Code on any machine anywhere and access it in the browser.
-
+    - Vim
+  - [n](https://github.com/tj/n) - Node version management by tj
+  - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
 - Frontend
-  - Vue
-    - [Vueuse](https://vueuse.js.org/) - Collection of essential Vue Composition Utilities
+  - css
+    - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)
+  - javascript  
+    - Svelte
+      - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next <project name>
+    - Vue
+      - [Vueuse](https://vueuse.js.org/) - Collection of essential Vue Composition Utilities
+    - GSAP
+      - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
+    - Three.js
+      - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
 - Backend
+  - Rust
+    - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
+  - Node.js
+  - Golang
   - database
     - NoSQL
       - PostgreSQL
         - [pg-sql.com](https://pg-sql.com/) - playground
       - HarperDB
         - [HarperDB vs MongoDB](https://harperdb.io/harperdb-vs-mongodb/) - 37.9 times faster than mongodb on average
+      - Prisma
+        - [why prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm) - more control and productive
     - SQL
+- Fullstack
+  - meteor
+    - [meteor.js evangelist youtube](https://www.youtube.com/c/Howtocreateanappdev/videos)
+  - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
 - Devops
+- other
