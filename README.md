@@ -1,5 +1,5 @@
 ## architecture
- > ### learning resource
+ #### learning resource
   - github
     - [ddia中文版](https://github.com/Vonng/ddia) - Designing Data-Intensive Application中文翻译
     - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
