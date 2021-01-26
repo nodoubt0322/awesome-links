@@ -19,12 +19,17 @@
       - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go) - golang
       - [leetcode-with-javascript](https://github.com/zenghongtu/leetcode-with-javascript) - javascript
       - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - explanation with gif
+      - [S版剑指offer题解](https://github.com/luvsunlight/js-offer-algo)
+      - [leetcode解题之路](https://github.com/azl397985856/leetcode) - very detail by azl397985856
+      - 
       
 - clean code
   - function programming
     - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
   - design pattern
     - [重学Java设计模式](https://github.com/fuzhengwei/itstack-demo-design) - 互联网真实案例实践书籍
+  - github
+    - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - by yanmcdermott
   - misc
     - [30secondsofcode](https://www.30secondsofcode.org/)
     
@@ -78,6 +83,10 @@
     - [loading.io](https://loading.io/) - loading animation  
   
 - Frontend
+  - interview
+    - github
+      - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 木易杨，公众号「高级前端进阶」
+      - [front-end-face-questions](https://github.com/dolymood/front-end-face-questions) - 史上最全 前端开发面试问题及答案整理
   - concept
     - [frontend ecosystem mind map](https://www.yuque.com/roadup/frontend/slnils)
     - [瀏覽器原理](https://www.yuque.com/roadup/frontend/io2zp2)
@@ -244,6 +253,7 @@
     - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
   - Node.js
     - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
+    - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
   - deno.js
   - Golang
     - [CoolShell](https://coolshell.cn/) - 左耳朵耗子blog
@@ -253,8 +263,12 @@
     - youtube
       - [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ/videos)
   - Java
-    - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
-    - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
+    - github
+      - [Java工程师进阶知识](https://github.com/doocs/advanced-java) - by doocs
+      - [java学习+面试指南](https://github.com/Snailclimb/JavaGuide) - by Snailclimb
+    - misc
+      - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
+      - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
   - Haskell 
     - [Yesod](https://www.yesodweb.com/) - Haskell web framework for productive development of type-safe, RESTful api
   - python
@@ -330,6 +344,7 @@
   - github
     - [realworld](https://github.com/gothinkster/realworld)
     - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+    - [电商系统](https://github.com/macrozheng/mall) - 前台(vuejs)商城系统及后台管理系统(SpringBoot+MyBatis), by macrozheng
   
 - other
   - misc
