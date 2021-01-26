@@ -1,3 +1,8 @@
+- architecture
+- algorithm
+  - learning resource
+    - youtube
+      - [CS Dojo](https://www.youtube.com/c/CSDojo/videos)
 - clean code
   - function programming
     - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
@@ -22,6 +27,19 @@
       - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
     - Three.js
       - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
+  - learning resource
+    - youtube
+      - [Traversy Media](https://www.youtube.com/c/TraversyMedia/videos)
+      - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+      - [LevelUpTuts](https://www.youtube.com/c/LevelUpTuts/videos)
+      - [Program With Erik](https://www.youtube.com/c/ProgramWithErik/videos)
+      - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp/videos)
+      - [Treehouse](https://www.youtube.com/c/gotreehouse/videos)
+      - [The Net Ninja](https://www.youtube.com/c/TheNetNinja/videos)
+      - [Svelte Mastery](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA/videos)
+      - [Ihatetomatoes](https://www.youtube.com/c/Ihatetomatoes/videos)
+      - [Academind](https://www.youtube.com/c/Academind/videos)
+      - [Meth Meth Method](https://www.youtube.com/c/MethMethMethod/videos) - building game
 - Backend
   - Rust
     - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
@@ -36,9 +54,25 @@
       - Prisma
         - [why prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm) - more control and productive
     - SQL
+    - learning resource
+      - youtube
+        - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
 - Fullstack
   - meteor
     - [meteor.js evangelist youtube](https://www.youtube.com/c/Howtocreateanappdev/videos)
   - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
 - Devops
+  - learning resource
+    - youtube
+      - Kubernetes
+        - (wenkatn-justmeandopensource)[https://www.youtube.com/c/wenkatn-justmeandopensource/videos]
+      - It
+        - [David Bombal](https://www.youtube.com/c/DavidBombal/videos)
+        - [InfoQ](https://www.youtube.com/nctv/videos)
 - other
+  - learning resource
+    - youtube(主題分散)
+      - [Coding Tech](https://www.youtube.com/c/CodingTech/videos)
+      - [the roadmap](https://www.youtube.com/c/theroadmap/videos)
+      - [Derek Banas](https://www.youtube.com/c/derekbanas/videos)
+    
