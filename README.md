@@ -1,80 +1,93 @@
 ## architecture
-  - learning resource
-    - github
-      - [ddia中文版](https://github.com/Vonng/ddia) - Designing Data-Intensive Application中文翻译
-      - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+ ### learning resource
+  - github
+    - [ddia中文版](https://github.com/Vonng/ddia) - Designing Data-Intensive Application中文翻译
+    - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+        
 ## algorithm
+ ### website
   - [hackerrank](https://www.hackerrank.com/)
-  - learning resource
-    - youtube
-      - [CS Dojo](https://www.youtube.com/c/CSDojo/videos)
-      - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)      
-      - [Errichto](https://www.youtube.com/c/Errichto/videos)
-      - [Errichto 2](https://www.youtube.com/c/Errichto2/videos)
-      - [Rachit Jain](https://www.youtube.com/c/RachitJain/videos)
-      - [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ/videos)
-      - [interviewingio](https://www.youtube.com/c/interviewingio/videos) - interview
-      - [abrarisme](https://www.youtube.com/c/abrarisme/videos) - interview
-    - github
-      - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go) - golang
-      - [leetcode-with-javascript](https://github.com/zenghongtu/leetcode-with-javascript) - javascript
-      - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - explanation with gif
-      - [S版剑指offer题解](https://github.com/luvsunlight/js-offer-algo)
-      - [leetcode解题之路](https://github.com/azl397985856/leetcode) - very detail by azl397985856
-      - 
+  
+ ### learning resource
+  - youtube
+    - [CS Dojo](https://www.youtube.com/c/CSDojo/videos)
+    - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)      
+    - [Errichto](https://www.youtube.com/c/Errichto/videos)
+    - [Errichto 2](https://www.youtube.com/c/Errichto2/videos)
+    - [Rachit Jain](https://www.youtube.com/c/RachitJain/videos)
+    - [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ/videos)
+    - [interviewingio](https://www.youtube.com/c/interviewingio/videos) - interview
+    - [abrarisme](https://www.youtube.com/c/abrarisme/videos) - interview
+  - github
+    - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go) - golang
+    - [leetcode-with-javascript](https://github.com/zenghongtu/leetcode-with-javascript) - javascript
+    - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - explanation with gif
+    - [S版剑指offer题解](https://github.com/luvsunlight/js-offer-algo)
+    - [leetcode解题之路](https://github.com/azl397985856/leetcode) - very detail by azl397985856
+      
       
 ## clean code
-  - function programming
-    - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
-  - design pattern
-    - [重学Java设计模式](https://github.com/fuzhengwei/itstack-demo-design) - 互联网真实案例实践书籍
-  - github
-    - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - by yanmcdermott
-  - misc
-    - [30secondsofcode](https://www.30secondsofcode.org/)
+ ### function programming
+  - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
+ 
+ ### design pattern
+  - [重学Java设计模式](https://github.com/fuzhengwei/itstack-demo-design) - 互联网真实案例实践书籍
+
+ ### github
+  - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - by yanmcdermott
+  
+ ### misc
+  - [30secondsofcode](https://www.30secondsofcode.org/)
     
 ## toolings
-  - typescript
-  - lint
-    - eslint
-    - prettier
-    - standard
-  - bundler
-    - webpack
-      - [深入淺出線上版](http://webpack.wuhaolin.cn/)
-    - vite
-    - parcel
-    - rollup
-    - [snowpack](https://github.com/snowpackjs/snowpack) - leverage javascript native esm module
-    - [esbuild](https://github.com/evanw/esbuild) - built by golang
-    - babel
-  - git
-    - [gitflow](https://github.com/nvie/gitflow) - git flow command
-    - [introduction to Git Flow](https://vimeo.com/16018419) - video by Mark Derricutt
-    - husky
-  - IDE
-    - vscode
-      - [code-server](https://github.com/cdr/code-server) - Run VS Code on any machine anywhere and access it in the browser.
-      - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - recommended by egghead
-      - [vscode-dimmer](https://github.com/AndrewMorsillo/vscode-dimmer) - good for teaching
-      - [sdras.vue-vscode-extensionpack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack) - collection of Vue extensions by Sdras
-    - Vim
-    - regex
-      - [ihateregex](https://ihateregex.io/) - match condition and flow chart
-  - Storybook
-    - react-doc-gen
-  - API
-    - client
-      - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
-    - mock
-      - mock.js
-  - misc  
-    - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
-    - [n](https://github.com/tj/n) - Node version management by tj
-    - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
-    - [ngrok](https://ngrok.com/) - tunnel
-    - [JAVASCRIPT AST VISUALIZER](https://resources.jointjs.com/demos/javascript-ast) - by jointjs
-    - [astexplorer](https://astexplorer.net/)
+ ### typescript
+  
+ ### lint
+  - eslint
+  - prettier
+  - standard
+  
+ ### bundler
+  - webpack
+    - [深入淺出線上版](http://webpack.wuhaolin.cn/)
+  - vite
+  - parcel
+  - rollup
+  - [snowpack](https://github.com/snowpackjs/snowpack) - leverage javascript native esm module
+  - [esbuild](https://github.com/evanw/esbuild) - built by golang
+  - babel
+  
+ ### git
+  - [gitflow](https://github.com/nvie/gitflow) - git flow command
+  - [introduction to Git Flow](https://vimeo.com/16018419) - video by Mark Derricutt
+  - husky
+    
+ ### IDE
+  - vscode
+    - [code-server](https://github.com/cdr/code-server) - Run VS Code on any machine anywhere and access it in the browser.
+    - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - recommended by egghead
+    - [vscode-dimmer](https://github.com/AndrewMorsillo/vscode-dimmer) - good for teaching
+    - [sdras.vue-vscode-extensionpack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack) - collection of Vue extensions by Sdras
+  - Vim
+  - regex
+    - [ihateregex](https://ihateregex.io/) - match condition and flow chart
+    
+ ### Storybook
+  - react-doc-gen
+  
+ ### API
+  - client
+    - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
+  - mock
+    - mock.js
+    
+ ### misc  
+  - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
+  - [n](https://github.com/tj/n) - Node version management by tj
+  - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
+  - [ngrok](https://ngrok.com/) - tunnel
+  - [JAVASCRIPT AST VISUALIZER](https://resources.jointjs.com/demos/javascript-ast) - by jointjs
+  - [astexplorer](https://astexplorer.net/)
       
 ## Frontend
   - interview
@@ -156,26 +169,7 @@
       - [Reso Coder](https://www.youtube.com/c/ResoCoder/videos)
       - [London App Brewery](https://www.youtube.com/c/Londonappbrewery/videos)
       - [Code With Andrea](https://www.youtube.com/c/CodeWithAndrea/videos)
-    
-  - game
-    - youtube
-      - [Unity3dCollege](https://www.youtube.com/c/Unity3dCollege/videos) - unity
-      - [Sykoo](https://www.youtube.com/c/Sykoo/videos) - unity
-      - [FusedVR](https://www.youtube.com/c/FusedVR/videos)
-      - [DaniDev](https://www.youtube.com/c/DaniDev/videos)
-      - [gamefromscratch](https://www.youtube.com/c/gamefromscratch/videos)
-      - [Blackthornprod ](https://www.youtube.com/c/Blackthornprod/videos)
-      - [snomangaming](https://www.youtube.com/user/snomangaming/videos)
-      - [Gdconf](https://www.youtube.com/c/Gdconf/videos)
-      - [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw/videos)
-      - [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ/videos)
-      - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos)
-      - [Molly Rocket](https://www.youtube.com/c/MollyRocket/videos)
-      - [Hopsonn](https://www.youtube.com/c/Hopsonn/videos)
-      - [Gdquest](https://www.youtube.com/c/Gdquest/videos)
-      - [Brackeys](https://www.youtube.com/c/Brackeys/videos)
-    - misc
-      - [zenva](https://academy.zenva.com/) - phaser.js
+   
   - learning resource
     - github
       - [awesome-learning](https://github.com/afontcu/awesome-learning) - A living curated list of awesome learning material
@@ -287,6 +281,26 @@
 ## Fullstack
   - meteor
   - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
+
+## game
+  - youtube
+    - [Unity3dCollege](https://www.youtube.com/c/Unity3dCollege/videos) - unity
+    - [Sykoo](https://www.youtube.com/c/Sykoo/videos) - unity
+    - [FusedVR](https://www.youtube.com/c/FusedVR/videos)
+    - [DaniDev](https://www.youtube.com/c/DaniDev/videos)
+    - [gamefromscratch](https://www.youtube.com/c/gamefromscratch/videos)
+    - [Blackthornprod ](https://www.youtube.com/c/Blackthornprod/videos)
+    - [snomangaming](https://www.youtube.com/user/snomangaming/videos)
+    - [Gdconf](https://www.youtube.com/c/Gdconf/videos)
+    - [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw/videos)
+    - [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ/videos)
+    - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos)
+    - [Molly Rocket](https://www.youtube.com/c/MollyRocket/videos)
+    - [Hopsonn](https://www.youtube.com/c/Hopsonn/videos)
+    - [Gdquest](https://www.youtube.com/c/Gdquest/videos)
+    - [Brackeys](https://www.youtube.com/c/Brackeys/videos)
+  - misc
+    - [zenva](https://academy.zenva.com/) - phaser.js
 
 ## inspiration
   - website
