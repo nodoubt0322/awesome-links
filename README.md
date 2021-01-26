@@ -25,13 +25,16 @@
   - Ide
     - vscode
       - [code-server](https://github.com/cdr/code-server) - Run VS Code on any machine anywhere and access it in the browser.
+      - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - recommended by egghead
+      - [vscode-dimmer](https://github.com/AndrewMorsillo/vscode-dimmer) - good for teaching
     - Vim
     - regex
       - [ihateregex](https://ihateregex.io/) - match condition and flow chart
   - misc  
     - [n](https://github.com/tj/n) - Node version management by tj
     - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
-    - [JAVASCRIPT AST VISUALIZER](https://resources.jointjs.com/demos/javascript-ast)
+    - [JAVASCRIPT AST VISUALIZER](https://resources.jointjs.com/demos/javascript-ast) - by jointjs
+    - [astexplorer](https://astexplorer.net/)
   
 - Frontend
   - css
@@ -85,6 +88,7 @@
   - Golang
     - [CoolShell](https://coolshell.cn/) - 左耳朵耗子blog
     - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
+    - [golangresource](https://golangresources.com/) - learning resource
   - Java
     - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
     - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
@@ -127,6 +131,8 @@
       - [kong](https://github.com/Kong/kong) - cloud-native, fast, scalable, and distributed Microservice API Gateway
       - [Kong 在好大夫的落地实践](https://www.infoq.cn/article/i7ypjly3fquydleoehcp)
       - [微服务 API 网关 Kong 实践](https://segmentfault.com/a/1190000022843318)
+  - misc
+    - [rocky](https://github.com/rocky-linux/rocky) - replace centos , centos8 only supported till 2021/12/31
   - learning resource
     - youtube
       - Kubernetes
