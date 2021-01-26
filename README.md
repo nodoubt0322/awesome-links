@@ -40,6 +40,13 @@
       - [Ihatetomatoes](https://www.youtube.com/c/Ihatetomatoes/videos)
       - [Academind](https://www.youtube.com/c/Academind/videos)
       - [Meth Meth Method](https://www.youtube.com/c/MethMethMethod/videos) - building game
+      - [thenewboston](https://www.youtube.com/user/thenewboston/videos)
+      - [Coding Garden](https://www.youtube.com/c/CodingGarden/videos)
+      - [Wes Bos](https://www.youtube.com/c/WesBos/videos)
+      - [knowthen](https://www.youtube.com/c/knowthen/videos) - fp
+      - [awwwards](https://www.youtube.com/c/AwwwardsTV/videos)
+      - [David Connelly](https://www.youtube.com/user/davidjconnelly/videos)
+      
 - Backend
   - Rust
     - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
@@ -57,6 +64,7 @@
     - learning resource
       - youtube
         - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
+        - [CodeSheep程序羊](https://www.youtube.com/channel/UC9PZ_j30JhfgjOrJZAtYzRw/videos)
 - Fullstack
   - meteor
     - [meteor.js evangelist youtube](https://www.youtube.com/c/Howtocreateanappdev/videos)
@@ -69,10 +77,13 @@
       - It
         - [David Bombal](https://www.youtube.com/c/DavidBombal/videos)
         - [InfoQ](https://www.youtube.com/nctv/videos)
+        - [Cloud Academy](https://www.youtube.com/c/Cloudacademy/videos)
+        - [Linux Academy](https://www.youtube.com/c/LinuxAcademycom/videos)
 - other
   - learning resource
     - youtube(主題分散)
       - [Coding Tech](https://www.youtube.com/c/CodingTech/videos)
       - [the roadmap](https://www.youtube.com/c/theroadmap/videos)
       - [Derek Banas](https://www.youtube.com/c/derekbanas/videos)
+      - [代码真香](https://www.youtube.com/c/biezhi/videos) - 中文
     
