@@ -1,14 +1,14 @@
 ## architecture
- #### learning resource
+ `learning resource`
   - github
     - [ddia中文版](https://github.com/Vonng/ddia) - Designing Data-Intensive Application中文翻译
     - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
         
 ## algorithm
- ### website
+ `website`
   - [hackerrank](https://www.hackerrank.com/)
   
- ### learning resource
+`learning resource`
   - youtube
     - [CS Dojo](https://www.youtube.com/c/CSDojo/videos)
     - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)      
@@ -27,27 +27,27 @@
       
       
 ## clean code
- ### function programming
+`function programming`
   - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
  
- ### design pattern
+`design pattern`
   - [重学Java设计模式](https://github.com/fuzhengwei/itstack-demo-design) - 互联网真实案例实践书籍
 
- ### github
+`github`
   - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - by yanmcdermott
   
- ### misc
+`misc`
   - [30secondsofcode](https://www.30secondsofcode.org/)
     
 ## toolings
- ### typescript
+`typescript`
   
- ### lint
+`lint`
   - eslint
   - prettier
   - standard
   
- ### bundler
+`bundler`
   - webpack
     - [深入淺出線上版](http://webpack.wuhaolin.cn/)
   - vite
@@ -57,12 +57,12 @@
   - [esbuild](https://github.com/evanw/esbuild) - built by golang
   - babel
   
- ### git
+`git`
   - [gitflow](https://github.com/nvie/gitflow) - git flow command
   - [introduction to Git Flow](https://vimeo.com/16018419) - video by Mark Derricutt
   - husky
     
- ### IDE
+`IDE`
   - vscode
     - [code-server](https://github.com/cdr/code-server) - Run VS Code on any machine anywhere and access it in the browser.
     - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - recommended by egghead
@@ -72,16 +72,16 @@
   - regex
     - [ihateregex](https://ihateregex.io/) - match condition and flow chart
     
- ### Storybook
+`Storybook`
   - react-doc-gen
   
- ### API
+`API`
   - client
     - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
   - mock
     - mock.js
     
- ### misc  
+`misc`
   - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
   - [n](https://github.com/tj/n) - Node version management by tj
   - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
