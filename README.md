@@ -1,22 +1,38 @@
 - architecture
+
 - algorithm
   - learning resource
     - youtube
       - [CS Dojo](https://www.youtube.com/c/CSDojo/videos)
+      
 - clean code
   - function programming
     - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
   - design pattern
     - [重学Java设计模式](https://github.com/fuzhengwei/itstack-demo-design) - 互联网真实案例实践书籍
+    
+- trend
+  - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
+  
 - toolings
+  - bundler
+    - webpack
+    - vite
+    - parcel
+    - rollup
+    - [snowpack](https://github.com/snowpackjs/snowpack) - leverage javascript native esm module
+    - [esbuild](https://github.com/evanw/esbuild) - built by golang
   - Ide
     - vscode
       - [code-server](https://github.com/cdr/code-server) - Run VS Code on any machine anywhere and access it in the browser.
     - Vim
     - regex
       - [ihateregex](https://ihateregex.io/) - match condition and flow chart
-  - [n](https://github.com/tj/n) - Node version management by tj
-  - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
+  - misc  
+    - [n](https://github.com/tj/n) - Node version management by tj
+    - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
+    - [JAVASCRIPT AST VISUALIZER](https://resources.jointjs.com/demos/javascript-ast)
+  
 - Frontend
   - css
     - Houdini
@@ -37,6 +53,11 @@
       - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
     - tiny
       - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx
+    - testing
+      - unit test
+        - jest
+      - e2e test
+        - [Playwright](https://playwright.dev/) - Support for all browsers
   - learning resource
     - youtube
       - [Traversy Media](https://www.youtube.com/c/TraversyMedia/videos)
@@ -66,32 +87,46 @@
     - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
   - Java
     - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
-    - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)
-  - database
-    - NoSQL
-      - PostgreSQL
-        - [pg-sql.com](https://pg-sql.com/) - playground
-      - HarperDB
-        - [HarperDB vs MongoDB](https://harperdb.io/harperdb-vs-mongodb/) - 37.9 times faster than mongodb on average
-      - Prisma
-        - [why prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm) - more control and productive
-      - Redis
-        - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
-    - SQL
-    - learning resource
-      - youtube
-        - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
-        - [CodeSheep程序羊](https://www.youtube.com/channel/UC9PZ_j30JhfgjOrJZAtYzRw/videos)
+    - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
+  - Haskell 
+    - [Yesod](https://www.yesodweb.com/) - Haskell web framework for productive development of type-safe, RESTful api
+  - learning resource
+    - youtube
+      - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
+      - [CodeSheep程序羊](https://www.youtube.com/channel/UC9PZ_j30JhfgjOrJZAtYzRw/videos)
   - runetime
     - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
+    
 - Fullstack
   - meteor
     - [meteor.js evangelist youtube](https://www.youtube.com/c/Howtocreateanappdev/videos)
   - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
+  
+- database
+  - NoSQL
+    - PostgreSQL
+      - [pg-sql.com](https://pg-sql.com/) - playground
+    - HarperDB
+      - [HarperDB vs MongoDB](https://harperdb.io/harperdb-vs-mongodb/) - 37.9 times faster than mongodb on average
+    - Prisma
+      - [why prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm) - more control and productive
+    - Redis
+      - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
+  - SQL  
+  
 - Devops
+  - docker
+    - [Buildah](https://buildah.io/) - tool facilitates building OCI container images
   - Kubernetes
-  - grafana
-    - [grafana playground](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1) - official
+  - monitoring  
+    - grafana
+      - [grafana playground](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1) - official
+  - gateway
+    - nginx
+    - kong
+      - [kong](https://github.com/Kong/kong) - cloud-native, fast, scalable, and distributed Microservice API Gateway
+      - [Kong 在好大夫的落地实践](https://www.infoq.cn/article/i7ypjly3fquydleoehcp)
+      - [微服务 API 网关 Kong 实践](https://segmentfault.com/a/1190000022843318)
   - learning resource
     - youtube
       - Kubernetes
@@ -101,8 +136,10 @@
         - [InfoQ](https://www.youtube.com/nctv/videos)
         - [Cloud Academy](https://www.youtube.com/c/Cloudacademy/videos)
         - [Linux Academy](https://www.youtube.com/c/LinuxAcademycom/videos)
+        
 - building project
   - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - youtube by SonnySangha
+  
 - other
   - learning resource
     - youtube(主題分散)
