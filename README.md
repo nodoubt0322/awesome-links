@@ -1,9 +1,9 @@
-- architecture
+## architecture
   - learning resource
     - github
       - [ddia中文版](https://github.com/Vonng/ddia) - Designing Data-Intensive Application中文翻译
       - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
-- algorithm
+## algorithm
   - [hackerrank](https://www.hackerrank.com/)
   - learning resource
     - youtube
@@ -23,7 +23,7 @@
       - [leetcode解题之路](https://github.com/azl397985856/leetcode) - very detail by azl397985856
       - 
       
-- clean code
+## clean code
   - function programming
     - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
   - design pattern
@@ -33,14 +33,7 @@
   - misc
     - [30secondsofcode](https://www.30secondsofcode.org/)
     
-- inspiration
-  - website
-    - [angel of darkness](https://the-alienist-s2.us.dev.monkapps.com/)
-  
-- trend
-  - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
-  
-- toolings
+## toolings
   - typescript
   - lint
     - eslint
@@ -82,18 +75,8 @@
     - [ngrok](https://ngrok.com/) - tunnel
     - [JAVASCRIPT AST VISUALIZER](https://resources.jointjs.com/demos/javascript-ast) - by jointjs
     - [astexplorer](https://astexplorer.net/)
-    
-- UI
-  - tools
-    - [flinto](https://www.flinto.com/) - create interactive and animated prototypes
-    - sketch
-    - invision
-    - [figma](https://www.figma.com/) - most popular at 2021
-    - AdobeXD
-  - icon
-    - [loading.io](https://loading.io/) - loading animation  
-  
-- Frontend
+      
+## Frontend
   - interview
     - github
       - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 木易杨，公众号「高级前端进阶」
@@ -263,8 +246,8 @@
       - [CodeLyon](https://www.youtube.com/c/CodeLyon/videos) - discord.js
       - [Coding with Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A/videos)
       - [bxjs weekly](https://www.youtube.com/c/TimErmilov/videos) - js news
-      
-- Backend
+
+## Backend
   - Rust
     - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
   - Node.js
@@ -301,17 +284,34 @@
   - runetime
     - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
     
-- Fullstack
+## Fullstack
   - meteor
   - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
 
-- AI
+## inspiration
+  - website
+    - [angel of darkness](https://the-alienist-s2.us.dev.monkapps.com/)
+  
+## trend
+  - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
+  
+## UI
+  - tools
+    - [flinto](https://www.flinto.com/) - create interactive and animated prototypes
+    - sketch
+    - invision
+    - [figma](https://www.figma.com/) - most popular at 2021
+    - AdobeXD
+  - icon
+    - [loading.io](https://loading.io/) - loading animation    
+
+## AI
   - youtube
     - [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg/videos)
     - [Jeremy Howard](https://www.youtube.com/user/howardjeremyp/videos)
     - [WhatsAI](https://www.youtube.com/c/WhatsAI/videos)
     
-- database
+## database
   - NoSQL
     - PostgreSQL
       - [pg-sql.com](https://pg-sql.com/) - playground
@@ -325,7 +325,7 @@
     - Cassandra
   - SQL  
   
-- Devops
+## Devops
   - docker
     - [Buildah](https://buildah.io/) - tool facilitates building OCI container images
   - Kubernetes
@@ -356,7 +356,7 @@
         - [Linux Academy](https://www.youtube.com/c/LinuxAcademycom/videos)
         - [That DevOps Guy](https://www.youtube.com/c/MarcelDempers/videos)
         
-- building project
+## building project
   - youtube
     - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - at youtube by SonnySangha
   - github
@@ -364,7 +364,7 @@
     - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
     - [电商系统](https://github.com/macrozheng/mall) - 前台(vuejs)商城系统及后台管理系统(SpringBoot+MyBatis), by macrozheng
   
-- other
+## other
   - misc
     - [fiverr](https://www.fiverr.com/) - freelancer
   - learning resource
