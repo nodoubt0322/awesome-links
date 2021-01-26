@@ -305,6 +305,8 @@
       - [why prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm) - more control and productive
     - Redis
       - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
+    - CouchDB
+    - Cassandra
   - SQL  
   
 - Devops
