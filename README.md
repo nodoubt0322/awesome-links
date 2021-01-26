@@ -1,5 +1,8 @@
 - architecture
-
+  - learning resource
+    - github
+      - [ddia中文版](https://github.com/Vonng/ddia) - Designing Data-Intensive Application中文翻译
+      - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 - algorithm
   - [hackerrank](https://www.hackerrank.com/)
   - learning resource
@@ -12,6 +15,10 @@
       - [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ/videos)
       - [interviewingio](https://www.youtube.com/c/interviewingio/videos) - interview
       - [abrarisme](https://www.youtube.com/c/abrarisme/videos) - interview
+    - github
+      - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go) - golang
+      - [leetcode-with-javascript](https://github.com/zenghongtu/leetcode-with-javascript) - javascript
+      - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - explanation with gif
       
 - clean code
   - function programming
@@ -162,6 +169,8 @@
     - misc
       - [zenva](https://academy.zenva.com/) - phaser.js
   - learning resource
+    - github
+      - [awesome-learning](https://github.com/afontcu/awesome-learning) - A living curated list of awesome learning material
     - youtube
       - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers/videos) - build beautiful stuff
       - [DarkCode](https://www.youtube.com/c/DarkCodeOnline/videos) - animation focus
@@ -316,7 +325,11 @@
         - [That DevOps Guy](https://www.youtube.com/c/MarcelDempers/videos)
         
 - building project
-  - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - at youtube by SonnySangha
+  - youtube
+    - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - at youtube by SonnySangha
+  - github
+    - [realworld](https://github.com/gothinkster/realworld)
+    - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
   
 - other
   - misc
