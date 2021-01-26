@@ -43,7 +43,7 @@
     - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)
   - javascript  
     - Svelte
-      - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - start Svelte project template, npx create-svelte@next my-app
+      - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next my-app (start Svelte project template)
     - React
     - Angular
     - Vue
