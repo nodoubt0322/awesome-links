@@ -4,6 +4,8 @@
   - learning resource
     - youtube
       - [CS Dojo](https://www.youtube.com/c/CSDojo/videos)
+      - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
+      -
       
 - clean code
   - function programming
@@ -53,7 +55,7 @@
     - GSAP
       - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
     - Three.js
-      - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
+      - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course    
     - tiny
       - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx
     - testing
@@ -61,12 +63,24 @@
         - jest
       - e2e test
         - [Playwright](https://playwright.dev/) - Support for all browsers
+  - app
+    - flutter
+      - youtube
+        - [flutterdev](https://www.youtube.com/c/flutterdev/videos) - official
+  - unity
+    - youtube
+      - [Unity3dCollege](https://www.youtube.com/c/Unity3dCollege/videos)
+      - [Sykoo](https://www.youtube.com/c/Sykoo/videos)
   - learning resource
     - youtube
+      - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers/videos) - build beautiful stuff
+      - [meteor.js evangelist youtube](https://www.youtube.com/c/Howtocreateanappdev/videos)
+      - [css-tricks](https://www.youtube.com/user/realcsstricks/videos)
       - [Traversy Media](https://www.youtube.com/c/TraversyMedia/videos)
-      - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+      - [Fun Fun Function](https://www.youtube.com/c/funfunfunction/videos)
       - [LevelUpTuts](https://www.youtube.com/c/LevelUpTuts/videos)
       - [Program With Erik](https://www.youtube.com/c/ProgramWithErik/videos)
+      - [DesignCourse](https://www.youtube.com/c/DesignCourse/videos)
       - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp/videos)
       - [Treehouse](https://www.youtube.com/c/gotreehouse/videos)
       - [The Net Ninja](https://www.youtube.com/c/TheNetNinja/videos)
@@ -80,6 +94,32 @@
       - [knowthen](https://www.youtube.com/c/knowthen/videos) - fp
       - [awwwards](https://www.youtube.com/c/AwwwardsTV/videos)
       - [David Connelly](https://www.youtube.com/user/davidjconnelly/videos)
+      - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh/videos)
+      - [codecourse](https://www.youtube.com/c/codecourse/videos)
+      - [DevTipsForDesigners](https://www.youtube.com/c/DevTipsForDesigners/videos)
+      - [DevEd](https://www.youtube.com/c/DevEd/videos)
+      - [Andre Madarang](https://www.youtube.com/c/drehimself/videos)
+      - [HiteshChoudharydotcom](https://www.youtube.com/c/HiteshChoudharydotcom/videos)
+      - [Fireship](https://www.youtube.com/c/AngularFirebase/videos)
+      - [BenAwad97](https://www.youtube.com/c/BenAwad97/videos)
+      - [Kevin Powell](https://www.youtube.com/kepowob/videos)      
+      - [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified/videos)
+      - [Codingthesmartway](https://www.youtube.com/c/Codingthesmartway/videos)
+      - [RedStapler](https://www.youtube.com/c/RedStapler_channel/videos)
+      - [LearnWebCode](https://www.youtube.com/user/LearnWebCode/videos)
+      - [WebsiteLearners](https://www.youtube.com/c/WebsiteLearners/videos)
+      - [Darrelwilsonbug](https://www.youtube.com/c/Darrelwilsonbug/videos) - wordpress
+      - [WPCasts](https://www.youtube.com/c/WPCasts/videos) - wordpress
+      - [LayoutLand](https://www.youtube.com/c/LayoutLand/videos) - css layout, no updating
+      - [QiroLab](https://www.youtube.com/c/QiroLab/videos)
+      - [Kirupa Chinnathambi](https://www.youtube.com/c/KirupaChinnathambi/videos)
+      - [Coding Addict](https://www.youtube.com/c/CodingAddict/videos)
+      - [Codecourse](https://www.youtube.com/user/phpacademy/videos)
+      - [Steve Griffith](https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3/videos)
+      - [Classsed](https://www.youtube.com/c/Classsed/videos)
+      - [Chris Courses](https://www.youtube.com/c/ChrisCourses/videos)
+      - [ColtSteeleCode](https://www.youtube.com/c/ColtSteeleCode/videos)
+      - [OverSeas Media](https://www.youtube.com/c/OverSeasMedia/videos)
       
 - Backend
   - Rust
@@ -94,16 +134,17 @@
     - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
   - Haskell 
     - [Yesod](https://www.yesodweb.com/) - Haskell web framework for productive development of type-safe, RESTful api
-  - learning resource
+  - python
     - youtube
-      - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
-      - [CodeSheep程序羊](https://www.youtube.com/channel/UC9PZ_j30JhfgjOrJZAtYzRw/videos)
+      - [Corey Schafer](https://www.youtube.com/c/Coreyms/videos)
+      - [John Philip Jones](https://www.youtube.com/c/johnphilipjones/videos)
+      - [A Plus Coding](https://www.youtube.com/c/APlusCoding/videos)
+      - [real python](https://www.youtube.com/c/realpython/videos)
   - runetime
     - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
     
 - Fullstack
   - meteor
-    - [meteor.js evangelist youtube](https://www.youtube.com/c/Howtocreateanappdev/videos)
   - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
   
 - database
@@ -136,7 +177,8 @@
   - learning resource
     - youtube
       - Kubernetes
-        - (wenkatn-justmeandopensource)[https://www.youtube.com/c/wenkatn-justmeandopensource/videos]
+        - [wenkatn-justmeandopensource](https://www.youtube.com/c/wenkatn-justmeandopensource/videos)
+        - [KodeKloud](https://www.youtube.com/c/KodeKloud/videos)
       - It
         - [David Bombal](https://www.youtube.com/c/DavidBombal/videos)
         - [InfoQ](https://www.youtube.com/nctv/videos)
@@ -148,9 +190,19 @@
   
 - other
   - learning resource
-    - youtube(主題分散)
+    - youtube(not js and devops focused)
+      - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
+      - [CodeSheep程序羊](https://www.youtube.com/channel/UC9PZ_j30JhfgjOrJZAtYzRw/videos) -- java
+      - [programmingwithmosh](https://www.youtube.com/c/programmingwithmosh/videos) -- python    
       - [Coding Tech](https://www.youtube.com/c/CodingTech/videos)
       - [the roadmap](https://www.youtube.com/c/theroadmap/videos)
       - [Derek Banas](https://www.youtube.com/c/derekbanas/videos)
       - [代码真香](https://www.youtube.com/c/biezhi/videos) - 中文
-    
+      - [CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&app=desktop) - Computer Science series
+      - [TechPrimers](https://www.youtube.com/c/TechPrimers/videos)
+      - [TechWithTim](https://www.youtube.com/c/TechWithTim/videos)
+      - [Dani Krossing](https://www.youtube.com/c/TheCharmefis/videos)
+      - [ProgrammingKnowledge](https://www.youtube.com/c/ProgrammingKnowledge/videos)
+      - [MTECHVIRAL](https://www.youtube.com/c/MTechViral/videos)
+      - [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey/videos)
+      
