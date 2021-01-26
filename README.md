@@ -13,20 +13,30 @@
     - vscode
       - [code-server](https://github.com/cdr/code-server) - Run VS Code on any machine anywhere and access it in the browser.
     - Vim
+    - regex
+      - [ihateregex](https://ihateregex.io/) - match condition and flow chart
   - [n](https://github.com/tj/n) - Node version management by tj
   - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
 - Frontend
   - css
+    - Houdini
+      - [houdini.how](https://houdini.how/) - 
     - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)
   - javascript  
     - Svelte
       - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next <project name>
+    - React
+    - Angular
     - Vue
       - [Vueuse](https://vueuse.js.org/) - Collection of essential Vue Composition Utilities
+      - [VueTelescope](https://vuetelescope.com/explore) - Discover websites made with vue
+      - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
     - GSAP
       - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
     - Three.js
       - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
+    - tiny
+      - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx
   - learning resource
     - youtube
       - [Traversy Media](https://www.youtube.com/c/TraversyMedia/videos)
@@ -52,6 +62,11 @@
     - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
   - Node.js
   - Golang
+    - [CoolShell](https://coolshell.cn/) - 左耳朵耗子blog
+    - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
+  - Java
+    - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
+    - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)
   - database
     - NoSQL
       - PostgreSQL
@@ -60,16 +75,23 @@
         - [HarperDB vs MongoDB](https://harperdb.io/harperdb-vs-mongodb/) - 37.9 times faster than mongodb on average
       - Prisma
         - [why prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm) - more control and productive
+      - Redis
+        - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
     - SQL
     - learning resource
       - youtube
         - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
         - [CodeSheep程序羊](https://www.youtube.com/channel/UC9PZ_j30JhfgjOrJZAtYzRw/videos)
+  - runetime
+    - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
 - Fullstack
   - meteor
     - [meteor.js evangelist youtube](https://www.youtube.com/c/Howtocreateanappdev/videos)
   - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
 - Devops
+  - Kubernetes
+  - grafana
+    - [grafana playground](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1) - official
   - learning resource
     - youtube
       - Kubernetes
@@ -79,6 +101,8 @@
         - [InfoQ](https://www.youtube.com/nctv/videos)
         - [Cloud Academy](https://www.youtube.com/c/Cloudacademy/videos)
         - [Linux Academy](https://www.youtube.com/c/LinuxAcademycom/videos)
+- building project
+  - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - youtube by SonnySangha
 - other
   - learning resource
     - youtube(主題分散)
