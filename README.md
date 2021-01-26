@@ -21,6 +21,9 @@
   - misc
     - [30secondsofcode](https://www.30secondsofcode.org/)
     
+- inspiration
+  - website
+    - [angel of darkness](https://the-alienist-s2.us.dev.monkapps.com/)
   
 - trend
   - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
@@ -68,10 +71,14 @@
     - Houdini
       - [houdini.how](https://houdini.how/) 
     - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)
-  - javascript  
+  - javascript
+    - js concept
+      - [A mostly complete guide to error handling in JavaScript.](https://www.valentinog.com/blog/error/)
+      - [frontend ecosystem mind map](https://www.yuque.com/roadup/frontend/slnils)
     - Svelte
       - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next my-app (start Svelte project template)
     - React
+      - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx but tiny
     - Angular
     - Vue
       - UI framework
@@ -95,20 +102,22 @@
     - GSAP
       - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
     - Three.js
-      - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course    
-    - tiny
-      - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx    
+      - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
+    - monitoring
+      - [前端监控方案](https://www.yuque.com/roadup/frontend/bk4ewd)
+      - [sentry](https://github.com/getsentry/sentry) - cross-platform application monitoring, with a focus on error reporting.
+      - [sentry onpremise](https://github.com/getsentry/onpremise) - self-host with docker-compose
     - testing
       - unit test
         - jest
       - e2e test
         - [Playwright](https://playwright.dev/) - Support for all browsers
-      -misc
-        - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance
-        - [revealjs](https://revealjs.com/) - THE HTML PRESENTATION FRAMEWORK
-        - [iHaveQuestion](http://owo.herokuapp.com/) - HTML Slide透過「我有問題」，即時且匿名發問
-        - [gridstackjs](https://github.com/gridstack/gridstack.js) - draggable, resizable, responsive layouts, pure js
-        - [golden-layout](https://github.com/golden-layout/golden-layout) - multi-screen layout manager for webapps, with jquery dependence
+    - js plugin
+      - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance
+      - [revealjs](https://revealjs.com/) - THE HTML PRESENTATION FRAMEWORK
+      - [iHaveQuestion](http://owo.herokuapp.com/) - HTML Slide透過「我有問題」，即時且匿名發問
+      - [gridstackjs](https://github.com/gridstack/gridstack.js) - draggable, resizable, responsive layouts, pure js
+      - [golden-layout](https://github.com/golden-layout/golden-layout) - multi-screen layout manager for webapps, with jquery dependence
   - app
     - youtube    
       - [flutterdev](https://www.youtube.com/c/flutterdev/videos) - official, flutter
