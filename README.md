@@ -41,6 +41,11 @@
   - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
   
 - toolings
+  - typescript
+  - lint
+    - eslint
+    - prettier
+    - standard
   - bundler
     - webpack
       - [深入淺出線上版](http://webpack.wuhaolin.cn/)
@@ -49,9 +54,11 @@
     - rollup
     - [snowpack](https://github.com/snowpackjs/snowpack) - leverage javascript native esm module
     - [esbuild](https://github.com/evanw/esbuild) - built by golang
+    - babel
   - git
     - [gitflow](https://github.com/nvie/gitflow) - git flow command
     - [introduction to Git Flow](https://vimeo.com/16018419) - video by Mark Derricutt
+    - husky
   - IDE
     - vscode
       - [code-server](https://github.com/cdr/code-server) - Run VS Code on any machine anywhere and access it in the browser.
@@ -62,8 +69,12 @@
     - regex
       - [ihateregex](https://ihateregex.io/) - match condition and flow chart
   - Storybook
+    - react-doc-gen
   - API
-    - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
+    - client
+      - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
+    - mock
+      - mock.js
   - misc  
     - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
     - [n](https://github.com/tj/n) - Node version management by tj
@@ -99,6 +110,7 @@
     - Houdini
       - [houdini.how](https://houdini.how/) 
     - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)
+    - fontawesome
   - javascript
     - js concept
       - [A mostly complete guide to error handling in JavaScript.](https://www.valentinog.com/blog/error/)      
@@ -109,6 +121,8 @@
         - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next my-app (start Svelte project template)
     - React
       - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later
+      - react-testing-library
+      - react-transition
     - Angular
     - Vue
       - UI framework
@@ -142,7 +156,7 @@
         - jest
       - e2e test
         - [Playwright](https://playwright.dev/) - Support for all browsers
-    - js plugin
+    - js package
       - [alpine.js](https://github.com/alpinejs/alpine) - Think of it like Tailwind for JavaScript
       - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx but tiny
       - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance
@@ -150,6 +164,8 @@
       - [iHaveQuestion](http://owo.herokuapp.com/) - HTML Slide透過「我有問題」，即時且匿名發問
       - [gridstackjs](https://github.com/gridstack/gridstack.js) - draggable, resizable, responsive layouts, pure js
       - [golden-layout](https://github.com/golden-layout/golden-layout) - multi-screen layout manager for webapps, with jquery dependence
+      - axios.js
+      - 
   - app
     - youtube    
       - [flutterdev](https://www.youtube.com/c/flutterdev/videos) - official, flutter
