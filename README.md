@@ -81,6 +81,7 @@
     - youtube
       - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers/videos) - build beautiful stuff
       - [DarkCode](https://www.youtube.com/c/DarkCodeOnline/videos) - animation focus
+      - [Adam Wathan](https://www.youtube.com/c/AdamWathan/videos) - css focus      
       - [Codevolution](https://www.youtube.com/c/Codevolution/videos) - relative new stuff
       - [Maksim Ivanov](https://www.youtube.com/c/satansdeer1/videos) - relative new stuff
       - [meteor.js evangelist youtube](https://www.youtube.com/c/Howtocreateanappdev/videos)
@@ -97,10 +98,12 @@
       - [Svelte Mastery](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA/videos)
       - [Ihatetomatoes](https://www.youtube.com/c/Ihatetomatoes/videos)
       - [Academind](https://www.youtube.com/c/Academind/videos)
+      - [The Coding Train](https://www.youtube.com/c/TheCodingTrain/videos) - live coding
+      - [Coding Garden](https://www.youtube.com/c/CodingGarden/videos) - live coding
+      - [Jack Herrington](https://www.youtube.com/user/jherr2006/videos) - live coding
       - [Meth Meth Method](https://www.youtube.com/c/MethMethMethod/videos) - building game
       - [Code with Ania Kubów](https://www.youtube.com/c/AniaKub%C3%B3w/videos) - building game
       - [thenewboston](https://www.youtube.com/user/thenewboston/videos)
-      - [Coding Garden](https://www.youtube.com/c/CodingGarden/videos)
       - [Wes Bos](https://www.youtube.com/c/WesBos/videos)
       - [knowthen](https://www.youtube.com/c/knowthen/videos) - fp
       - [awwwards](https://www.youtube.com/c/AwwwardsTV/videos)
@@ -141,7 +144,7 @@
       - [Techsithtube](https://www.youtube.com/c/Techsithtube/videos)
       - [CodeLyon](https://www.youtube.com/c/CodeLyon/videos) - discord.js
       - [Coding with Justin](https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A/videos)
-      - 
+      - [bxjs weekly](https://www.youtube.com/c/TimErmilov/videos) - js news
       
 - Backend
   - Rust
@@ -168,6 +171,7 @@
       - [Dennis Ivy](https://www.youtube.com/c/DennisIvy/videos)
       - [Pyplane](https://www.youtube.com/c/Pyplane/videos)
       - [Pretty Printed](https://www.youtube.com/c/PrettyPrintedTutorials/videos)
+      - [anthonywritescode](https://www.youtube.com/c/anthonywritescode/videos)
   - runetime
     - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
     
@@ -255,4 +259,5 @@
       - [SimpleSnippets](https://www.youtube.com/c/SimpleSnippets/videos)
       - [Scaler Academy](https://www.youtube.com/c/ScalerAcademy/videos)
       - [NetworkChuck](https://www.youtube.com/c/NetworkChuck/videos)
+      - [More Bits inside by René Rebe](https://www.youtube.com/c/MoreReneRebe/videos)
       
