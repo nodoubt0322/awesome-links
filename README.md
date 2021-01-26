@@ -61,24 +61,38 @@
     - [astexplorer](https://astexplorer.net/)
     
 - UI
-  -tools
+  - tools
     - [flinto](https://www.flinto.com/) - create interactive and animated prototypes
-  -icon
+    - sketch
+    - invision
+    - [figma](https://www.figma.com/) - most popular at 2021
+    - AdobeXD
+  - icon
     - [loading.io](https://loading.io/) - loading animation  
   
 - Frontend
+  - concept
+    - [frontend ecosystem mind map](https://www.yuque.com/roadup/frontend/slnils)
+    - [瀏覽器原理](https://www.yuque.com/roadup/frontend/io2zp2)
+    - [network](https://www.yuque.com/roadup/frontend/ropvuh)
+  - performance
+    - [前端性能優化](https://www.yuque.com/roadup/frontend/ropvuh)
+  - devtools
+    - [The definitive guide to JavaScript Debugging [2021 Edition]](https://dev.to/atapas/the-definitive-guide-to-javascript-debugging-2021-edition-116n)
   - css
     - Houdini
       - [houdini.how](https://houdini.how/) 
     - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)
   - javascript
     - js concept
-      - [A mostly complete guide to error handling in JavaScript.](https://www.valentinog.com/blog/error/)
-      - [frontend ecosystem mind map](https://www.yuque.com/roadup/frontend/slnils)
+      - [A mostly complete guide to error handling in JavaScript.](https://www.valentinog.com/blog/error/)      
     - Svelte
-      - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next my-app (start Svelte project template)
+      - UI framework
+        - [svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - most stared so far
+      - tools      
+        - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next my-app (start Svelte project template)
     - React
-      - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx but tiny
+      - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later
     - Angular
     - Vue
       - UI framework
@@ -113,6 +127,8 @@
       - e2e test
         - [Playwright](https://playwright.dev/) - Support for all browsers
     - js plugin
+      - [alpine.js](https://github.com/alpinejs/alpine) - Think of it like Tailwind for JavaScript
+      - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx but tiny
       - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance
       - [revealjs](https://revealjs.com/) - THE HTML PRESENTATION FRAMEWORK
       - [iHaveQuestion](http://owo.herokuapp.com/) - HTML Slide透過「我有問題」，即時且匿名發問
@@ -224,6 +240,7 @@
     - [CoolShell](https://coolshell.cn/) - 左耳朵耗子blog
     - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
     - [golangresource](https://golangresources.com/) - learning resource
+    - [Go 语言设计与实现](https://draveness.me/golang/) - 
     - youtube
       - [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ/videos)
   - Java
@@ -271,6 +288,7 @@
   - docker
     - [Buildah](https://buildah.io/) - tool facilitates building OCI container images
   - Kubernetes
+    - [k8s playground](https://labs.play-with-k8s.com)
   - monitoring  
     - grafana
       - [grafana playground](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1) - official
