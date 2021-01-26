@@ -5,6 +5,12 @@
     - youtube
       - [CS Dojo](https://www.youtube.com/c/CSDojo/videos)
       - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)      
+      - [Errichto](https://www.youtube.com/c/Errichto/videos)
+      - [Errichto 2](https://www.youtube.com/c/Errichto2/videos)
+      - [Rachit Jain](https://www.youtube.com/c/RachitJain/videos)
+      - [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ/videos)
+      - [interviewingio](https://www.youtube.com/c/interviewingio/videos) - interview
+      - [abrarisme](https://www.youtube.com/c/abrarisme/videos) - interview
       
 - clean code
   - function programming
