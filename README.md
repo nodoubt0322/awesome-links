@@ -1,6 +1,7 @@
 - architecture
 
 - algorithm
+  - [hackerrank](https://www.hackerrank.com/)
   - learning resource
     - youtube
       - [CS Dojo](https://www.youtube.com/c/CSDojo/videos)
@@ -17,31 +18,50 @@
     - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
   - design pattern
     - [重学Java设计模式](https://github.com/fuzhengwei/itstack-demo-design) - 互联网真实案例实践书籍
+  - misc
+    - [30secondsofcode](https://www.30secondsofcode.org/)
     
+  
 - trend
   - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
   
 - toolings
   - bundler
     - webpack
+      - [深入淺出線上版](http://webpack.wuhaolin.cn/)
     - vite
     - parcel
     - rollup
     - [snowpack](https://github.com/snowpackjs/snowpack) - leverage javascript native esm module
     - [esbuild](https://github.com/evanw/esbuild) - built by golang
-  - Ide
+  - git
+    - [gitflow](https://github.com/nvie/gitflow) - git flow command
+    - [introduction to Git Flow](https://vimeo.com/16018419) - video by Mark Derricutt
+  - IDE
     - vscode
       - [code-server](https://github.com/cdr/code-server) - Run VS Code on any machine anywhere and access it in the browser.
       - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - recommended by egghead
       - [vscode-dimmer](https://github.com/AndrewMorsillo/vscode-dimmer) - good for teaching
+      - [sdras.vue-vscode-extensionpack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack) - collection of Vue extensions by Sdras
     - Vim
     - regex
       - [ihateregex](https://ihateregex.io/) - match condition and flow chart
+  - Storybook
+  - API
+    - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
   - misc  
+    - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
     - [n](https://github.com/tj/n) - Node version management by tj
     - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
+    - [ngrok](https://ngrok.com/) - tunnel
     - [JAVASCRIPT AST VISUALIZER](https://resources.jointjs.com/demos/javascript-ast) - by jointjs
     - [astexplorer](https://astexplorer.net/)
+    
+- UI
+  -tools
+    - [flinto](https://www.flinto.com/) - create interactive and animated prototypes
+  -icon
+    - [loading.io](https://loading.io/) - loading animation  
   
 - Frontend
   - css
@@ -54,20 +74,41 @@
     - React
     - Angular
     - Vue
-      - [Vueuse](https://vueuse.js.org/) - Collection of essential Vue Composition Utilities
-      - [VueTelescope](https://vuetelescope.com/explore) - Discover websites made with vue
-      - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+      - UI framework
+        - [element-ui](https://github.com/ElemeFE/element) - for vue2
+        - [element-plus](https://github.com/element-plus/element-plus) - for vue3 made by Element team
+        - [vuetify](https://github.com/vuetifyjs/vuetify)
+      - SSR
+        - Nuxt.js
+      - useful plugin
+        - [vue-tour](https://github.com/pulsardev/vue-tour) - customizable tour plugin
+      - misc      
+        - [Vueuse](https://vueuse.js.org/) - Collection of essential Vue Composition Utilities
+        - [VueTelescope](https://vuetelescope.com/explore) - Discover websites made with vue
+        - [vuejsexamples](https://vuejsexamples.com/) - website built with vues.js
+        - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+    - GraphQL
+    - rxjs
+      - [presentation from maxwell](https://docs.google.com/presentation/d/1Js18_A0ph2q2LH4KgZtmw7WA4fY3TNYp-N6edVuPLGI/edit#slide=id.g33163b3175_0_45)
+      - [RxJS - 封裝程式的藝術](https://www.slideshare.net/ssuserb9c983/rxjs-81598692) - from 洪名辰
+      - [30天精通 RxJS](https://ithelp.ithome.com.tw/users/20103367/ironman/1199) - from 洪名辰
     - GSAP
       - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
     - Three.js
       - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course    
     - tiny
-      - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx
+      - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx    
     - testing
       - unit test
         - jest
       - e2e test
         - [Playwright](https://playwright.dev/) - Support for all browsers
+      -misc
+        - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance
+        - [revealjs](https://revealjs.com/) - THE HTML PRESENTATION FRAMEWORK
+        - [iHaveQuestion](http://owo.herokuapp.com/) - HTML Slide透過「我有問題」，即時且匿名發問
+        - [gridstackjs](https://github.com/gridstack/gridstack.js) - draggable, resizable, responsive layouts, pure js
+        - [golden-layout](https://github.com/golden-layout/golden-layout) - multi-screen layout manager for webapps, with jquery dependence
   - app
     - youtube    
       - [flutterdev](https://www.youtube.com/c/flutterdev/videos) - official, flutter
@@ -93,7 +134,8 @@
       - [Hopsonn](https://www.youtube.com/c/Hopsonn/videos)
       - [Gdquest](https://www.youtube.com/c/Gdquest/videos)
       - [Brackeys](https://www.youtube.com/c/Brackeys/videos)
-      
+    - misc
+      - [zenva](https://academy.zenva.com/) - phaser.js
   - learning resource
     - youtube
       - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers/videos) - build beautiful stuff
@@ -167,6 +209,8 @@
   - Rust
     - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
   - Node.js
+    - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
+  - deno.js
   - Golang
     - [CoolShell](https://coolshell.cn/) - 左耳朵耗子blog
     - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
@@ -227,6 +271,8 @@
       - [kong](https://github.com/Kong/kong) - cloud-native, fast, scalable, and distributed Microservice API Gateway
       - [Kong 在好大夫的落地实践](https://www.infoq.cn/article/i7ypjly3fquydleoehcp)
       - [微服务 API 网关 Kong 实践](https://segmentfault.com/a/1190000022843318)
+  - CI/CD
+    - [zenhub](https://www.zenhub.com/) - better way to manage github but charged
   - misc
     - [rocky](https://github.com/rocky-linux/rocky) - replace centos , centos8 only supported till 2021/12/31
   - learning resource
@@ -246,6 +292,8 @@
   - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - at youtube by SonnySangha
   
 - other
+  - misc
+    - [fiverr](https://www.fiverr.com/) - freelancer
   - learning resource
     - youtube(not js and devops focused)
       - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
