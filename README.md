@@ -4,8 +4,7 @@
   - learning resource
     - youtube
       - [CS Dojo](https://www.youtube.com/c/CSDojo/videos)
-      - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
-      -
+      - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)      
       
 - clean code
   - function programming
@@ -41,7 +40,7 @@
 - Frontend
   - css
     - Houdini
-      - [houdini.how](https://houdini.how/) - 
+      - [houdini.how](https://houdini.how/) 
     - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)
   - javascript  
     - Svelte
@@ -71,11 +70,23 @@
       - [London App Brewery](https://www.youtube.com/c/Londonappbrewery/videos)
       - [Code With Andrea](https://www.youtube.com/c/CodeWithAndrea/videos)
     
-  - unity
+  - game
     - youtube
-      - [Unity3dCollege](https://www.youtube.com/c/Unity3dCollege/videos)
-      - [Sykoo](https://www.youtube.com/c/Sykoo/videos)
+      - [Unity3dCollege](https://www.youtube.com/c/Unity3dCollege/videos) - unity
+      - [Sykoo](https://www.youtube.com/c/Sykoo/videos) - unity
       - [FusedVR](https://www.youtube.com/c/FusedVR/videos)
+      - [DaniDev](https://www.youtube.com/c/DaniDev/videos)
+      - [gamefromscratch](https://www.youtube.com/c/gamefromscratch/videos)
+      - [Blackthornprod ](https://www.youtube.com/c/Blackthornprod/videos)
+      - [snomangaming](https://www.youtube.com/user/snomangaming/videos)
+      - [Gdconf](https://www.youtube.com/c/Gdconf/videos)
+      - [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw/videos)
+      - [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ/videos)
+      - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos)
+      - [Molly Rocket](https://www.youtube.com/c/MollyRocket/videos)
+      - [Hopsonn](https://www.youtube.com/c/Hopsonn/videos)
+      - [Gdquest](https://www.youtube.com/c/Gdquest/videos)
+      - [Brackeys](https://www.youtube.com/c/Brackeys/videos)
       
   - learning resource
     - youtube
@@ -226,7 +237,7 @@
         - [That DevOps Guy](https://www.youtube.com/c/MarcelDempers/videos)
         
 - building project
-  - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - youtube by SonnySangha
+  - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - at youtube by SonnySangha
   
 - other
   - learning resource
