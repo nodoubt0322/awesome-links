@@ -306,6 +306,8 @@
 ## Fullstack  
   - meteor
   - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
+  - jamstack
+    - [redwood.js](https://github.com/redwoodjs/redwood)
 
 ## game  
 `youtube`  
