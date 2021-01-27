@@ -39,7 +39,11 @@
 `misc`
   - [30secondsofcode](https://www.30secondsofcode.org/)
   - [youmightnotneedjquery](http://youmightnotneedjquery.com/)
-    
+
+## learning sourcecode
+  - [若川 blog](https://lxchuan12.gitee.io/) - jquery, sentry, lodash, koa, vuex, underscore, recommended
+  - [冴羽](https://github.com/mqyqingfeng/) - JavaScript深入系列、JavaScript专题系列、ES6系列、React系列
+
 ## toolings
 `typescript`
   
