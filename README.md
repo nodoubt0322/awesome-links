@@ -90,24 +90,29 @@
   - [astexplorer](https://astexplorer.net/)
       
 ## Frontend
-  - interview
+  `interview`
     - github
       - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 木易杨，公众号「高级前端进阶」
       - [front-end-face-questions](https://github.com/dolymood/front-end-face-questions) - 史上最全 前端开发面试问题及答案整理
-  - concept
+      
+  `concept`
     - [frontend ecosystem mind map](https://www.yuque.com/roadup/frontend/slnils)
     - [瀏覽器原理](https://www.yuque.com/roadup/frontend/io2zp2)
     - [network](https://www.yuque.com/roadup/frontend/ropvuh)
-  - performance
+    
+  `performance`
     - [前端性能優化](https://www.yuque.com/roadup/frontend/ropvuh)
-  - devtools
+    
+  `devtools`
     - [The definitive guide to JavaScript Debugging [2021 Edition]](https://dev.to/atapas/the-definitive-guide-to-javascript-debugging-2021-edition-116n)
-  - css
+    
+  `css`
     - Houdini
       - [houdini.how](https://houdini.how/) 
     - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)
     - fontawesome
-  - javascript
+    
+  `javascript` 
     - js concept
       - [A mostly complete guide to error handling in JavaScript.](https://www.valentinog.com/blog/error/)      
     - Svelte
@@ -161,8 +166,8 @@
       - [gridstackjs](https://github.com/gridstack/gridstack.js) - draggable, resizable, responsive layouts, pure js
       - [golden-layout](https://github.com/golden-layout/golden-layout) - multi-screen layout manager for webapps, with jquery dependence
       - axios.js
-      - 
-  - app
+      
+   `app`
     - youtube    
       - [flutterdev](https://www.youtube.com/c/flutterdev/videos) - official, flutter
       - [FilledStacks](https://www.youtube.com/c/FilledStacks/videos)
@@ -170,9 +175,9 @@
       - [London App Brewery](https://www.youtube.com/c/Londonappbrewery/videos)
       - [Code With Andrea](https://www.youtube.com/c/CodeWithAndrea/videos)
    
-  - learning resource
+  `learning resource`
     - github
-      - [awesome-learning](https://github.com/afontcu/awesome-learning) - A living curated list of awesome learning material
+      - [awesome-learning](https://github.com/afontcu/awesome-learning) - A living curated list of awesome learning material      
     - youtube
       - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers/videos) - build beautiful stuff
       - [DarkCode](https://www.youtube.com/c/DarkCodeOnline/videos) - animation focus
@@ -242,29 +247,35 @@
       - [bxjs weekly](https://www.youtube.com/c/TimErmilov/videos) - js news
 
 ## Backend
-  - Rust
+  `Rust`
     - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
-  - Node.js
+    
+  `Node.js`
     - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
     - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
-  - deno.js
-  - Golang
+    
+  `deno.js`
+  
+  `Golang`
     - [CoolShell](https://coolshell.cn/) - 左耳朵耗子blog
     - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
     - [golangresource](https://golangresources.com/) - learning resource
     - [Go 语言设计与实现](https://draveness.me/golang/) - 
     - youtube
       - [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ/videos)
-  - Java
+      
+  `Java`
     - github
       - [Java工程师进阶知识](https://github.com/doocs/advanced-java) - by doocs
       - [java学习+面试指南](https://github.com/Snailclimb/JavaGuide) - by Snailclimb
     - misc
       - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
       - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
-  - Haskell 
+      
+  `Haskell`
     - [Yesod](https://www.yesodweb.com/) - Haskell web framework for productive development of type-safe, RESTful api
-  - python
+    
+  `python`
     - youtube
       - [Corey Schafer](https://www.youtube.com/c/Coreyms/videos)
       - [John Philip Jones](https://www.youtube.com/c/johnphilipjones/videos)
@@ -275,7 +286,8 @@
       - [Pyplane](https://www.youtube.com/c/Pyplane/videos)
       - [Pretty Printed](https://www.youtube.com/c/PrettyPrintedTutorials/videos)
       - [anthonywritescode](https://www.youtube.com/c/anthonywritescode/videos)
-  - runetime
+      
+  `runetime`
     - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
     
 ## Fullstack
@@ -283,7 +295,7 @@
   - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
 
 ## game
-  - youtube
+  `youtube`
     - [Unity3dCollege](https://www.youtube.com/c/Unity3dCollege/videos) - unity
     - [Sykoo](https://www.youtube.com/c/Sykoo/videos) - unity
     - [FusedVR](https://www.youtube.com/c/FusedVR/videos)
@@ -299,34 +311,35 @@
     - [Hopsonn](https://www.youtube.com/c/Hopsonn/videos)
     - [Gdquest](https://www.youtube.com/c/Gdquest/videos)
     - [Brackeys](https://www.youtube.com/c/Brackeys/videos)
-  - misc
+  `misc`
     - [zenva](https://academy.zenva.com/) - phaser.js
 
 ## inspiration
-  - website
+  `website`
     - [angel of darkness](https://the-alienist-s2.us.dev.monkapps.com/)
   
 ## trend
   - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
   
 ## UI
-  - tools
+  `tools`
     - [flinto](https://www.flinto.com/) - create interactive and animated prototypes
     - sketch
     - invision
     - [figma](https://www.figma.com/) - most popular at 2021
     - AdobeXD
-  - icon
+    
+  `icon`
     - [loading.io](https://loading.io/) - loading animation    
 
 ## AI
-  - youtube
+  `youtube`
     - [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg/videos)
     - [Jeremy Howard](https://www.youtube.com/user/howardjeremyp/videos)
     - [WhatsAI](https://www.youtube.com/c/WhatsAI/videos)
     
 ## database
-  - NoSQL
+  `NoSQL`
     - PostgreSQL
       - [pg-sql.com](https://pg-sql.com/) - playground
     - HarperDB
@@ -337,27 +350,34 @@
       - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
     - CouchDB
     - Cassandra
-  - SQL  
+    
+  `SQL`
   
 ## Devops
-  - docker
+  `docker`
     - [Buildah](https://buildah.io/) - tool facilitates building OCI container images
-  - Kubernetes
+    
+  `Kubernetes`
     - [k8s playground](https://labs.play-with-k8s.com)
-  - monitoring  
+    
+  `monitoring`
     - grafana
       - [grafana playground](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1) - official
-  - gateway
+      
+  `gateway`
     - nginx
     - kong
       - [kong](https://github.com/Kong/kong) - cloud-native, fast, scalable, and distributed Microservice API Gateway
       - [Kong 在好大夫的落地实践](https://www.infoq.cn/article/i7ypjly3fquydleoehcp)
       - [微服务 API 网关 Kong 实践](https://segmentfault.com/a/1190000022843318)
-  - CI/CD
+      
+  `CI/CD`
     - [zenhub](https://www.zenhub.com/) - better way to manage github but charged
-  - misc
+    
+  `misc`
     - [rocky](https://github.com/rocky-linux/rocky) - replace centos , centos8 only supported till 2021/12/31
-  - learning resource
+    
+  `learning resource`
     - youtube
       - Kubernetes
         - [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana/videos)
@@ -371,17 +391,19 @@
         - [That DevOps Guy](https://www.youtube.com/c/MarcelDempers/videos)
         
 ## building project
-  - youtube
+  `youtube`
     - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - at youtube by SonnySangha
-  - github
+    
+  `github`
     - [realworld](https://github.com/gothinkster/realworld)
     - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
     - [电商系统](https://github.com/macrozheng/mall) - 前台(vuejs)商城系统及后台管理系统(SpringBoot+MyBatis), by macrozheng
   
 ## other
-  - misc
+  `misc`
     - [fiverr](https://www.fiverr.com/) - freelancer
-  - learning resource
+    
+  `learning resource`
     - youtube(not js and devops focused)
       - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
       - [CodeSheep程序羊](https://www.youtube.com/channel/UC9PZ_j30JhfgjOrJZAtYzRw/videos) -- java
