@@ -124,6 +124,15 @@
     - tools      
       - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next my-app (start Svelte project template)  
   - React  
+    - state management  
+      - redux
+      - MobX
+      - Context
+      - Hooks
+      - Zustand
+      - Jotai, Recoil
+      - useSelectedContext  
+    - UI framework
     - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later  
     - react-testing-library  
     - react-transition  
