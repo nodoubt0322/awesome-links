@@ -537,6 +537,7 @@
   - [pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs. githun plugin
   - [ab](http://httpd.apache.org/docs/2.2/programs/ab.html) - Apache HTTP server benchmarking tool
   - [ruffle](https://github.com/ruffle-rs/ruffle) - Flash Player emulator written in Rust
+  - [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager , study source code
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
