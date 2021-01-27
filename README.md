@@ -82,14 +82,16 @@
   - react-doc-gen
   
 `API`
-  - client
-    - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
-  - mock
-    - mock.js  
+  - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
+  - mock.js  
+  - [json-server](https://github.com/typicode/json-server) - fake REST API server
+  - [lowdb](https://github.com/typicode/lowdb) - JSON database powered by Lodash
+  - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) - online fake REST API 
     
 `sandbox`  
-  - [codesandbox](https://codesandbox.io/) - support spa, best so far
+  - [codesandbox](https://codesandbox.io/) - support react, vue, angular etc.., best so far
   - [codepen](https://codepen.io/) - nice community
+  - [css-in-js playground](https://css-in-js-playground.com/)
 
 `misc`
   - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
@@ -186,7 +188,9 @@
     - [iHaveQuestion](http://owo.herokuapp.com/) - HTML Slide透過「我有問題」，即時且匿名發問
     - [gridstackjs](https://github.com/gridstack/gridstack.js) - draggable, resizable, responsive layouts, pure js
     - [golden-layout](https://github.com/golden-layout/golden-layout) - multi-screen layout manager for webapps, with jquery dependence
-    - axios.js
+    - [axios](https://github.com/axios/axios) - most popular  Promise based HTTP client
+    - [tlapse](https://github.com/typicode/tlapse) - take period screenshots with puppeteer, good for record development
+    - [amplitudejs](https://github.com/521dimensions/amplitudejs) - HTML5 Web Audio Library. No dependencies required.
 
   `app`
    - youtube    
@@ -396,6 +400,7 @@
 
 `misc`  
   - [rocky](https://github.com/rocky-linux/rocky) - replace centos , centos8 only supported till 2021/12/31
+  - [gotop](https://github.com/xxxserxxx/gotop) - terminal based graphical activity monitor written in Go
 
 `learning resource`  
   - youtube
