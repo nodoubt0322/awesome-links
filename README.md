@@ -33,6 +33,7 @@
 `function programming`
   - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
   - [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide) - by MostlyAdequate
+  - [joelthoms blog](https://hackernoon.com/u/joelthoms) - read later
  
 `design pattern`
   - [重学Java设计模式](https://github.com/fuzhengwei/itstack-demo-design) - 互联网真实案例实践书籍
@@ -112,6 +113,19 @@
   - [codesandbox](https://codesandbox.io/) - support react, vue, angular etc.., best so far
   - [codepen](https://codepen.io/) - nice community
   - [css-in-js playground](https://css-in-js-playground.com/)
+  
+`package management`
+  - [npm](https://github.com/npm/cli)
+  - [yarn](https://yarnpkg.com/)
+  - [pnpm](https://github.com/pnpm/pnpm)
+    - [awesome-pnpm](https://github.com/pnpm/awesome-pnpm)
+    - [WHY I STILL DON'T USE YARN](https://intoli.com/blog/node-package-manager-benchmarks/)
+    - [NPM vs PNPM vs Yarn](https://rushjs.io/pages/maintainer/package_managers/)
+  - [yarn pnp](https://yarnpkg.com/features/pnp)
+
+`Monorepo`
+  - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - by korfuri
+  - [lerna](https://github.com/lerna/lerna) - managing JavaScript projects with multiple packages
 
 `misc`
   - [polyfill.io](https://polyfill.io/v3/url-builder/) - polyfill-sets. very useful, study sourcecode?
@@ -471,6 +485,7 @@
   - [k8s playground](https://labs.play-with-k8s.com)
   - [k9s](https://github.com/derailed/k9s) -  terminal UI to interact with your Kubernetes clusters
   - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes
+  - [kubernetes for fullstack](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) - by digitalocean
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
