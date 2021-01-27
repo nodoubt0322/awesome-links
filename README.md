@@ -123,40 +123,6 @@
   - [瀏覽器原理](https://www.yuque.com/roadup/frontend/io2zp2)  
   - [network](https://www.yuque.com/roadup/frontend/ropvuh)  
   - [A mostly complete guide to error handling in JavaScript.](https://www.valentinog.com/blog/error/)  
-    
- `performance`  
-  - [前端性能優化](https://www.yuque.com/roadup/frontend/ropvuh)  
-
- `devtools`
-  - [The definitive guide to JavaScript Debugging [2021 Edition]](https://dev.to/atapas/the-definitive-guide-to-javascript-debugging-2021-edition-116n)  
-
- `GraphQL`  
- 
- `rxjs`
-  - [presentation from maxwell](https://docs.google.com/presentation/d/1Js18_A0ph2q2LH4KgZtmw7WA4fY3TNYp-N6edVuPLGI/edit#slide=id.g33163b3175_0_45)
-  - [RxJS - 封裝程式的藝術](https://www.slideshare.net/ssuserb9c983/rxjs-81598692) - from 洪名辰
-  - [30天精通 RxJS](https://ithelp.ithome.com.tw/users/20103367/ironman/1199) - from 洪名辰
-    
- `monitoring`  
-  - [前端监控方案](https://www.yuque.com/roadup/frontend/bk4ewd)
-  - [sentry](https://github.com/getsentry/sentry) - cross-platform application monitoring, with a focus on error reporting.
-  - [sentry onpremise](https://github.com/getsentry/onpremise) - self-host with docker-compose
-  
- `testing`
-  - unit test
-    - jest
-  - e2e test
-    - [Playwright](https://playwright.dev/) - Support for all browsers
-
- `GSAP`
-  - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
-  - [GSAP 2019 showcase](https://vimeo.com/showcase/7591001/video/370377710) - Sites list in the description
-  
- `Three.js`
-  - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
-  
- `animation`
-  - [barbajs](https://github.com/barbajs/barba)  
 
  `css`  
   - Tailwindcss
@@ -188,8 +154,6 @@
   - react-testing-library  
   - react-transition  
   
-`Angular`
-
 `Vue`
   - UI framework  
     - [element-ui](https://github.com/ElemeFE/element) - for vue2  
@@ -208,7 +172,9 @@
     - [VueTelescope](https://vuetelescope.com/explore) - Discover websites made with vue
     - [vuejsexamples](https://vuejsexamples.com/) - website built with vues.js
     - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
-    
+
+`Angular`
+
 `js package`
   - [sanctuary](https://github.com/sanctuary-js/sanctuary) - fp helper, stricter than Ramda
   - [ramda](https://ramdajs.com/) - fp helper, more popular
@@ -222,6 +188,40 @@
   - [axios](https://github.com/axios/axios) - most popular  Promise based HTTP client
   - [tlapse](https://github.com/typicode/tlapse) - take period screenshots with puppeteer, good for record development
   - [amplitudejs](https://github.com/521dimensions/amplitudejs) - HTML5 Web Audio Library. No dependencies required.
+
+ `testing`
+  - unit test
+    - jest
+  - e2e test
+    - [Playwright](https://playwright.dev/) - Support for all browsers
+
+ `monitoring`  
+  - [前端监控方案](https://www.yuque.com/roadup/frontend/bk4ewd)
+  - [sentry](https://github.com/getsentry/sentry) - cross-platform application monitoring, with a focus on error reporting.
+  - [sentry onpremise](https://github.com/getsentry/onpremise) - self-host with docker-compose
+
+ `performance`  
+  - [前端性能優化](https://www.yuque.com/roadup/frontend/ropvuh)  
+
+ `devtools`
+  - [The definitive guide to JavaScript Debugging [2021 Edition]](https://dev.to/atapas/the-definitive-guide-to-javascript-debugging-2021-edition-116n)  
+
+ `GraphQL`  
+ 
+ `rxjs`
+  - [presentation from maxwell](https://docs.google.com/presentation/d/1Js18_A0ph2q2LH4KgZtmw7WA4fY3TNYp-N6edVuPLGI/edit#slide=id.g33163b3175_0_45)
+  - [RxJS - 封裝程式的藝術](https://www.slideshare.net/ssuserb9c983/rxjs-81598692) - from 洪名辰
+  - [30天精通 RxJS](https://ithelp.ithome.com.tw/users/20103367/ironman/1199) - from 洪名辰
+      
+ `GSAP`
+  - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
+  - [GSAP 2019 showcase](https://vimeo.com/showcase/7591001/video/370377710) - Sites list in the description
+  
+ `Three.js`
+  - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
+  
+ `animation`
+  - [barbajs](https://github.com/barbajs/barba)  
 
   `app`
    - youtube    
