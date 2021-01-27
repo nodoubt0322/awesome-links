@@ -70,6 +70,7 @@
   - [conventional-changelog](https://github.com/conventional-changelog)
   - [commitizen](https://github.com/commitizen)
   - [cz-cli](https://github.com/commitizen/cz-cli) - prompted to fill out any required commit fields at commit time
+  - [bytedance git workflow](https://juejin.cn/post/6875874533228838925) - 
     
 `IDE`
   - vscode
@@ -77,6 +78,7 @@
     - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - recommended by egghead
     - [vscode-dimmer](https://github.com/AndrewMorsillo/vscode-dimmer) - good for teaching
     - [sdras.vue-vscode-extensionpack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack) - collection of Vue extensions by Sdras
+    - [Form Generator Plugin](https://marketplace.visualstudio.com/items?itemName=jakHuang.form-generator-plugin) - Element UI可视化表单设计及代码生成器
   - Vim
   
 `regex`
@@ -104,6 +106,7 @@
   - [css-in-js playground](https://css-in-js-playground.com/)
 
 `misc`
+  - [polyfill.io](https://polyfill.io/v3/url-builder/) - polyfill-sets. very useful, study sourcecode?
   - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
   - [purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS
   - [n](https://github.com/tj/n) - Node version management by tj
@@ -113,6 +116,12 @@
   - [astexplorer](https://astexplorer.net/)
   - [mkcert](https://github.com/FiloSottile/mkcert) - https with any names you'd like
   - [100 Public APIs for Developer](https://morioh.com/p/60f7f7f254c3?f=5ece1a68f0e6056e36305f65)
+  - [tunnelto](https://github.com/agrinman/tunnelto) - self-host ngrok
+  - [cors-anywhere](https://github.com/Rob--W/cors-anywhere/) - NodeJS proxy
+  - [devdocs](https://devdocs.io/) - useful language API documentations 
+  - [responsively](https://responsively.app/) - helps in responsive web development, built with electron  
+  - [Inspector iOS](https://developer.apple.com/library/archive/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
+  - [Inspector android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)  
       
 ## Frontend
 `interview`   
@@ -134,8 +143,13 @@
     - [houdini.how](https://houdini.how/) 
   - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)  
   - fontawesome  
+  - [iCSS](https://github.com/chokcoco/iCSS) - 国服第一切图仔, very good
 
 `Svelte`
+  - theory
+    - [deep-dive-into-svelte](https://lihautan.com/deep-dive-into-svelte/)
+    - [compile-svelte-in-your-head-part-1](https://lihautan.com/compile-svelte-in-your-head-part-1/)
+    - [the-svelte-compiler-handbook](https://lihautan.com/the-svelte-compiler-handbook/)
   - UI framework  
     - [svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - most stared so far  
   - tools      
@@ -155,7 +169,11 @@
   - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later  
   - react-testing-library  
   - react-transition  
-  
+
+`React Native`
+  - theory
+    - [React Native之原理浅析](http://blog.poetries.top/2019/10/02/rn-yuanli/) - by yuanli
+
 `Vue`
   - UI framework  
     - [element-ui](https://github.com/ElemeFE/element) - for vue2  
@@ -163,6 +181,7 @@
     - [vuetify](https://github.com/vuetifyjs/vuetify)
   - SSR
     - Nuxt.js
+    - [Nuxt.js cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf?fbclid=IwAR0YMNKXC8u6Ip6zfNxELHPExCUlBlh3dSsE59hDwM8mp1lTmiKI7a0FWRY)
   - SSG
     - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
     - [vuepress](https://github.com/vuejs/vuepress) - Vue-powered static site generator     
@@ -324,6 +343,7 @@
     - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
     - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
     - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+    - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - by goldbergyoni
     
 `deno.js`  
   
@@ -399,7 +419,7 @@
   - [figma](https://www.figma.com/) - most popular at 2021
   - AdobeXD
   - [photopea](https://www.photopea.com/) - online photo editor
-  - [http://sketch.land/](http://sketch.land/) - sketch plugin resource
+  - [sketch.land](http://sketch.land/) - sketch plugin resource
 
 `icon`  
   - [loading.io](https://loading.io/) - loading animation    
@@ -460,7 +480,6 @@
   - [gotop](https://github.com/xxxserxxx/gotop) - terminal based graphical activity monitor written in Go
   - [edex-ui](https://github.com/GitSquared/edex-ui) - fullscreen, cross-platform terminal emulator and system monitor
   - [termshark](https://github.com/gcla/termshark) - terminal user-interface for tshark
-  - [cors-anywhere](https://github.com/Rob--W/cors-anywhere/) - NodeJS proxy
 
 `learning resource`  
   - youtube
@@ -492,11 +511,7 @@
   - [github search](https://github.com/search/advanced)  
   - [gifer](https://gifer.com/en/) - gif search engine
   - [carbon](https://github.com/carbon-app/carbon) - Create code images
-  - [devdocs](https://devdocs.io/) - useful language API documentations 
-  - [responsively](https://responsively.app/) - helps in responsive web development, built with electron
   - [pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs. githun plugin
-  - [Inspector iOS](https://developer.apple.com/library/archive/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
-  - [Inspector android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)
   - [ab](http://httpd.apache.org/docs/2.2/programs/ab.html) - Apache HTTP server benchmarking tool
 
 `misc`  
