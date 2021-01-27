@@ -2,7 +2,8 @@
  `learning resource`
   - github
     - [ddia中文版](https://github.com/Vonng/ddia) - Designing Data-Intensive Application中文翻译
-    - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+    - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome) - by xingshaocheng
+    - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - by kamranahmedse
         
 ## algorithm
  `website`
@@ -218,6 +219,8 @@
   - [etherpad](https://github.com/ether/etherpad-lite) -  real-time collaborative editor
 
  `testing`
+  - concept
+    - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - by goldbergyoni
   - unit test
     - jest
   - e2e test
@@ -340,6 +343,7 @@
 ## Backend
 `Rust`  
   - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
+  - [在生产中使用 Rust 的著名公司及他们选择 Rust 的理由](https://www.infoq.cn/article/19SAqvrcT5YM3jjBbsc8)
     
 `Node.js`  
   - headless CMS
