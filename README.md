@@ -47,6 +47,9 @@
   - prettier
   - standard
   
+`share component`
+  - [bit](https://bit.dev/) - a scalable and collaborative way to build and reuse components  
+  
 `bundler`
   - webpack
     - [深入淺出線上版](http://webpack.wuhaolin.cn/)
@@ -83,7 +86,7 @@
   
 `API`
   - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
-  - mock.js  
+  - [mock.js](https://github.com/nuysoft/Mock) - simulation data generator
   - [json-server](https://github.com/typicode/json-server) - fake REST API server
   - [lowdb](https://github.com/typicode/lowdb) - JSON database powered by Lodash
   - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) - online fake REST API 
@@ -98,6 +101,7 @@
 
 `misc`
   - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
+  - [purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS
   - [n](https://github.com/tj/n) - Node version management by tj
   - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
   - [ngrok](https://ngrok.com/) - tunnel
@@ -121,6 +125,33 @@
 
  `devtools`
   - [The definitive guide to JavaScript Debugging [2021 Edition]](https://dev.to/atapas/the-definitive-guide-to-javascript-debugging-2021-edition-116n)  
+
+ `GraphQL`  
+ 
+ `rxjs`
+  - [presentation from maxwell](https://docs.google.com/presentation/d/1Js18_A0ph2q2LH4KgZtmw7WA4fY3TNYp-N6edVuPLGI/edit#slide=id.g33163b3175_0_45)
+  - [RxJS - 封裝程式的藝術](https://www.slideshare.net/ssuserb9c983/rxjs-81598692) - from 洪名辰
+  - [30天精通 RxJS](https://ithelp.ithome.com.tw/users/20103367/ironman/1199) - from 洪名辰
+    
+ `monitoring`  
+  - [前端监控方案](https://www.yuque.com/roadup/frontend/bk4ewd)
+  - [sentry](https://github.com/getsentry/sentry) - cross-platform application monitoring, with a focus on error reporting.
+  - [sentry onpremise](https://github.com/getsentry/onpremise) - self-host with docker-compose
+  
+ `testing`
+  - unit test
+    - jest
+  - e2e test
+    - [Playwright](https://playwright.dev/) - Support for all browsers
+
+ `GSAP`
+  - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
+  
+ `Three.js`
+  - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
+  
+ `animation`
+  - [barbajs](https://github.com/barbajs/barba)  
 
  `css`  
   - Houdini
@@ -169,25 +200,9 @@
       - [VueTelescope](https://vuetelescope.com/explore) - Discover websites made with vue
       - [vuejsexamples](https://vuejsexamples.com/) - website built with vues.js
       - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
-  - GraphQL
-  - rxjs
-    - [presentation from maxwell](https://docs.google.com/presentation/d/1Js18_A0ph2q2LH4KgZtmw7WA4fY3TNYp-N6edVuPLGI/edit#slide=id.g33163b3175_0_45)
-    - [RxJS - 封裝程式的藝術](https://www.slideshare.net/ssuserb9c983/rxjs-81598692) - from 洪名辰
-    - [30天精通 RxJS](https://ithelp.ithome.com.tw/users/20103367/ironman/1199) - from 洪名辰
-  - GSAP
-    - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
-  - Three.js
-    - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
-  - monitoring
-    - [前端监控方案](https://www.yuque.com/roadup/frontend/bk4ewd)
-    - [sentry](https://github.com/getsentry/sentry) - cross-platform application monitoring, with a focus on error reporting.
-    - [sentry onpremise](https://github.com/getsentry/onpremise) - self-host with docker-compose
-  - testing
-    - unit test
-      - jest
-    - e2e test
-      - [Playwright](https://playwright.dev/) - Support for all browsers
   - js package
+    - [sanctuary](https://github.com/sanctuary-js/sanctuary) - fp helper, stricter than Ramda
+    - [ramda](https://ramdajs.com/) - fp helper, more popular
     - [alpine.js](https://github.com/alpinejs/alpine) - Think of it like Tailwind for JavaScript
     - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx but tiny
     - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance
@@ -283,8 +298,11 @@
   - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
     
 `Node.js`  
-  - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
-  - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
+  - headless CMS
+    - [strapi](https://github.com/strapi/strapi) - headless CMS to build powerful APIs with no effort
+  - misc
+    - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
+    - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
     
 `deno.js`  
   
@@ -392,6 +410,9 @@
 `Kubernetes`  
   - [k8s playground](https://labs.play-with-k8s.com)
 
+`image storage`  
+  - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
+
 `monitoring`  
   - grafana
     - [grafana playground](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1) - official
@@ -406,9 +427,13 @@
 `CI/CD`  
   - [zenhub](https://www.zenhub.com/) - better way to manage github but charged
 
+`code quality`  
+  - [phabricator](https://github.com/phacility/phabricator) - code review, repository hosting, bug tracking, project management
+
 `misc`  
   - [rocky](https://github.com/rocky-linux/rocky) - replace centos , centos8 only supported till 2021/12/31
   - [gotop](https://github.com/xxxserxxx/gotop) - terminal based graphical activity monitor written in Go
+  - [edex-ui](https://github.com/GitSquared/edex-ui) - fullscreen, cross-platform terminal emulator and system monitor
   - [cors-anywhere](https://github.com/Rob--W/cors-anywhere/) - NodeJS proxy
 
 `learning resource`  
@@ -442,9 +467,11 @@
   - [gifer](https://gifer.com/en/) - gif search engine
   - [carbon](https://github.com/carbon-app/carbon) - Create code images
   - [devdocs](https://devdocs.io/) - useful language API documentations 
+  - [responsively](https://responsively.app/) - helps in responsive web development, built with electron
+  - [pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs. githun plugin
 
 `misc`  
-  - (https://www.needtomeet.com/)
+  - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
 
 `learning resource`  
   - youtube(not js and devops focused)
