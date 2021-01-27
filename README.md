@@ -95,6 +95,9 @@
 `Document`
   - [docsify](https://docsify.js.org/#/) - documentation site generator
 
+`collaboration`
+  - [飛書](https://www.feishu.cn/) - really strong service by bytedance
+
 `sandbox`  
   - [codesandbox](https://codesandbox.io/) - support react, vue, angular etc.., best so far
   - [codepen](https://codepen.io/) - nice community
@@ -396,6 +399,7 @@
   - [figma](https://www.figma.com/) - most popular at 2021
   - AdobeXD
   - [photopea](https://www.photopea.com/) - online photo editor
+  - [http://sketch.land/](http://sketch.land/) - sketch plugin resource
 
 `icon`  
   - [loading.io](https://loading.io/) - loading animation    
@@ -428,6 +432,8 @@
 
 `Kubernetes`  
   - [k8s playground](https://labs.play-with-k8s.com)
+  - [k9s](https://github.com/derailed/k9s) -  terminal UI to interact with your Kubernetes clusters
+  - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
@@ -453,6 +459,7 @@
   - [rocky](https://github.com/rocky-linux/rocky) - replace centos , centos8 only supported till 2021/12/31
   - [gotop](https://github.com/xxxserxxx/gotop) - terminal based graphical activity monitor written in Go
   - [edex-ui](https://github.com/GitSquared/edex-ui) - fullscreen, cross-platform terminal emulator and system monitor
+  - [termshark](https://github.com/gcla/termshark) - terminal user-interface for tshark
   - [cors-anywhere](https://github.com/Rob--W/cors-anywhere/) - NodeJS proxy
 
 `learning resource`  
