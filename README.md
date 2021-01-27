@@ -4,6 +4,7 @@
     - [ddia中文版](https://github.com/Vonng/ddia) - Designing Data-Intensive Application中文翻译
     - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome) - by xingshaocheng
     - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - by kamranahmedse
+    - [system-design-primer](https://github.com/donnemartin/system-design-primer) - design large-scale systems, by donnemartin
         
 ## algorithm
  `website`
@@ -20,13 +21,14 @@
     - [interviewingio](https://www.youtube.com/c/interviewingio/videos) - interview
     - [abrarisme](https://www.youtube.com/c/abrarisme/videos) - interview
   - github
+    - [CS-Notes](https://github.com/CyC2018/CS-Notes) - Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++ ,  by CyC2018  
     - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go) - golang
     - [leetcode-with-javascript](https://github.com/zenghongtu/leetcode-with-javascript) - javascript
     - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - explanation with gif
     - [S版剑指offer题解](https://github.com/luvsunlight/js-offer-algo)
     - [leetcode解题之路](https://github.com/azl397985856/leetcode) - very detail by azl397985856
-      
-      
+
+            
 ## clean code
 `function programming`
   - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
@@ -134,6 +136,7 @@
     - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 木易杨，公众号「高级前端进阶」, by Advanced-Frontend
     - [front-end-face-questions](https://github.com/dolymood/front-end-face-questions) - 史上最全 前端开发面试问题及答案整理, by dolymood
     - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - by h5bp
+    - [frontend interview question](https://github.com/qq449245884/xiaozhi) - by xiaozhi
 
  `concept`
   - [frontend ecosystem mind map](https://www.yuque.com/roadup/frontend/slnils)  
@@ -368,6 +371,8 @@
   - github
     - [Java工程师进阶知识](https://github.com/doocs/advanced-java) - by doocs
     - [java学习+面试指南](https://github.com/Snailclimb/JavaGuide) - by Snailclimb
+    - [Effective Java v3](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - 中譯, by clxering
+    - [On Java 8](https://github.com/LingCoder/OnJava8) - 中文, by LingCoder
   - misc
     - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
     - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
@@ -522,6 +527,7 @@
 `coding relad`  
   - [fiverr](https://www.fiverr.com/) - freelancer
   - [upwork](https://www.upwork.com/) - freelancer
+  - [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
   - [github search](https://github.com/search/advanced)  
   - [gifer](https://gifer.com/en/) - gif search engine
