@@ -164,6 +164,7 @@
     - [UI devtools](https://ui-devtools.com/)
   - Houdini
     - [houdini.how](https://houdini.how/) 
+  - [A Complete Guide to Dark Mode](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/) - by css-tricks
   - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)  
   - fontawesome  
   - [iCSS](https://github.com/chokcoco/iCSS) - 国服第一切图仔, very good
@@ -542,6 +543,7 @@
   
 ## other
 `coding relad`  
+  - [record-badass-screencasts-for-egghead-io](https://egghead.io/courses/record-badass-screencasts-for-egghead-io)
   - [fiverr](https://www.fiverr.com/) - freelancer
   - [upwork](https://www.upwork.com/) - freelancer
   - [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
