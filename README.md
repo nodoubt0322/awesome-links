@@ -62,7 +62,10 @@
 `git`
   - [gitflow](https://github.com/nvie/gitflow) - git flow command
   - [introduction to Git Flow](https://vimeo.com/16018419) - video by Mark Derricutt
-  - husky
+  - [husky](https://github.com/typicode/husky) - Git hooks
+  - [conventional-changelog](https://github.com/conventional-changelog)
+  - [commitizen](https://github.com/commitizen)
+  - [cz-cli](https://github.com/commitizen/cz-cli) - prompted to fill out any required commit fields at commit time
     
 `IDE`
   - vscode
@@ -82,8 +85,12 @@
   - client
     - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
   - mock
-    - mock.js
+    - mock.js  
     
+`sandbox`  
+  - [codesandbox](https://codesandbox.io/) - support spa, best so far
+  - [codepen](https://codepen.io/) - nice community
+
 `misc`
   - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
   - [n](https://github.com/tj/n) - Node version management by tj
@@ -95,8 +102,9 @@
 ## Frontend
 `interview`   
   - github
-    - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 木易杨，公众号「高级前端进阶」
-    - [front-end-face-questions](https://github.com/dolymood/front-end-face-questions) - 史上最全 前端开发面试问题及答案整理  
+    - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 木易杨，公众号「高级前端进阶」, by Advanced-Frontend
+    - [front-end-face-questions](https://github.com/dolymood/front-end-face-questions) - 史上最全 前端开发面试问题及答案整理, by dolymood
+    - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - by h5bp
 
  `concept`
   - [frontend ecosystem mind map](https://www.yuque.com/roadup/frontend/slnils)  
@@ -332,10 +340,7 @@
 ## inspiration  
 `website`  
   - [angel of darkness](https://the-alienist-s2.us.dev.monkapps.com/)
-  
-## trend  
- - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
-  
+    
 ## UI  
 `tools`  
   - [flinto](https://www.flinto.com/) - create interactive and animated prototypes
@@ -417,6 +422,11 @@
 ## other
 `misc`  
   - [fiverr](https://www.fiverr.com/) - freelancer
+  - [upwork](https://www.upwork.com/) - freelancer
+  - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
+  - [github search](https://github.com/search/advanced)  
+  - [gifer](https://gifer.com/en/) - gif search engine
+  - [carbon](https://github.com/carbon-app/carbon) - Create code images
 
 `learning resource`  
   - youtube(not js and devops focused)
