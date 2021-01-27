@@ -55,6 +55,8 @@
   - rollup
   - [snowpack](https://github.com/snowpackjs/snowpack) - leverage javascript native esm module
   - [esbuild](https://github.com/evanw/esbuild) - built by golang
+  
+`compiler`
   - babel
   
 `git`
@@ -69,8 +71,9 @@
     - [vscode-dimmer](https://github.com/AndrewMorsillo/vscode-dimmer) - good for teaching
     - [sdras.vue-vscode-extensionpack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack) - collection of Vue extensions by Sdras
   - Vim
-  - regex
-    - [ihateregex](https://ihateregex.io/) - match condition and flow chart
+  
+`regex`
+  - [ihateregex](https://ihateregex.io/) - match condition and flow chart
     
 `Storybook`
   - react-doc-gen
