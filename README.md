@@ -27,11 +27,12 @@
     - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - explanation with gif
     - [S版剑指offer题解](https://github.com/luvsunlight/js-offer-algo)
     - [leetcode解题之路](https://github.com/azl397985856/leetcode) - very detail by azl397985856
-
+    - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - by jwasham
             
 ## clean code
 `function programming`
   - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
+  - [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide) - by MostlyAdequate
  
 `design pattern`
   - [重学Java设计模式](https://github.com/fuzhengwei/itstack-demo-design) - 互联网真实案例实践书籍
@@ -152,6 +153,7 @@
   - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)  
   - fontawesome  
   - [iCSS](https://github.com/chokcoco/iCSS) - 国服第一切图仔, very good
+  - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
 
 `Svelte`
   - theory
