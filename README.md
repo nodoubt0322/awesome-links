@@ -125,13 +125,14 @@
       - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next my-app (start Svelte project template)  
   - React  
     - state management  
-      - redux
-      - MobX
-      - Context
-      - Hooks
-      - Zustand
-      - Jotai, Recoil
-      - useSelectedContext  
+      - [redux](https://github.com/reduxjs/redux) - 2015
+      - [MobX](https://github.com/mobxjs/mobx) - 2016 
+      - [Context](https://reactjs.org/docs/context.html) - 2018
+      - [Hooks](https://reactjs.org/docs/hooks-intro.html) - 2019
+      - [Zustand](https://github.com/pmndrs/zustand) - 2019
+      - [Jotai](https://github.com/pmndrs/jotai) - 2020
+      - [Recoil](https://github.com/facebookexperimental/Recoil) - 2020
+      - useSelectedContext - 2021
     - UI framework
     - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later  
     - react-testing-library  
