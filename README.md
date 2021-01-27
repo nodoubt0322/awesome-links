@@ -225,7 +225,8 @@
   - [sentry onpremise](https://github.com/getsentry/onpremise) - self-host with docker-compose
 
  `performance`  
-  - [前端性能優化](https://www.yuque.com/roadup/frontend/ropvuh)  
+  - [前端性能優化](https://www.yuque.com/roadup/frontend/ropvuh)
+  - [web.dev](https://web.dev/) - sites and apps with useful guidance and analysis, by google
 
  `devtools`
   - [The definitive guide to JavaScript Debugging [2021 Edition]](https://dev.to/atapas/the-definitive-guide-to-javascript-debugging-2021-edition-116n)  
@@ -410,6 +411,7 @@
 ## inspiration  
 `website`  
   - [angel of darkness](https://the-alienist-s2.us.dev.monkapps.com/)
+  - [bruno-simon](https://bruno-simon.com/)
     
 ## UI  
 `tools`  
@@ -493,7 +495,12 @@
       - [Cloud Academy](https://www.youtube.com/c/Cloudacademy/videos)
       - [Linux Academy](https://www.youtube.com/c/LinuxAcademycom/videos)
       - [That DevOps Guy](https://www.youtube.com/c/MarcelDempers/videos)
-        
+
+## blockchain
+`podcast`  
+  - [forkit](https://forkit.fm/)
+
+
 ## building project  
 `youtube`  
   - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - at youtube by SonnySangha
@@ -513,6 +520,7 @@
   - [carbon](https://github.com/carbon-app/carbon) - Create code images
   - [pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs. githun plugin
   - [ab](http://httpd.apache.org/docs/2.2/programs/ab.html) - Apache HTTP server benchmarking tool
+  - [ruffle](https://github.com/ruffle-rs/ruffle) - Flash Player emulator written in Rust
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
