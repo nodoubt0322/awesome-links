@@ -38,6 +38,7 @@
   
 `misc`
   - [30secondsofcode](https://www.30secondsofcode.org/)
+  - [youmightnotneedjquery](http://youmightnotneedjquery.com/)
     
 ## toolings
 `typescript`
@@ -107,6 +108,8 @@
   - [ngrok](https://ngrok.com/) - tunnel
   - [JAVASCRIPT AST VISUALIZER](https://resources.jointjs.com/demos/javascript-ast) - by jointjs
   - [astexplorer](https://astexplorer.net/)
+  - [mkcert](https://github.com/FiloSottile/mkcert) - https with any names you'd like
+  - [100 Public APIs for Developer](https://morioh.com/p/60f7f7f254c3?f=5ece1a68f0e6056e36305f65)
       
 ## Frontend
 `interview`   
@@ -119,6 +122,7 @@
   - [frontend ecosystem mind map](https://www.yuque.com/roadup/frontend/slnils)  
   - [瀏覽器原理](https://www.yuque.com/roadup/frontend/io2zp2)  
   - [network](https://www.yuque.com/roadup/frontend/ropvuh)  
+  - [A mostly complete guide to error handling in JavaScript.](https://www.valentinog.com/blog/error/)  
     
  `performance`  
   - [前端性能優化](https://www.yuque.com/roadup/frontend/ropvuh)  
@@ -146,6 +150,7 @@
 
  `GSAP`
   - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
+  - [GSAP 2019 showcase](https://vimeo.com/showcase/7591001/video/370377710) - Sites list in the description
   
  `Three.js`
   - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
@@ -154,65 +159,69 @@
   - [barbajs](https://github.com/barbajs/barba)  
 
  `css`  
+  - Tailwindcss
+    - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - utility-first CSS
+    - [UI devtools](https://ui-devtools.com/)
   - Houdini
     - [houdini.how](https://houdini.how/) 
   - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)  
   - fontawesome  
 
- `javascript`   
-  - js concept  
-    - [A mostly complete guide to error handling in JavaScript.](https://www.valentinog.com/blog/error/)      
-  - Svelte  
-    - UI framework  
-      - [svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - most stared so far  
-    - tools      
-      - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next my-app (start Svelte project template)  
-  - React  
-    - state management  
-      - [redux](https://github.com/reduxjs/redux) - 2015
-      - [MobX](https://github.com/mobxjs/mobx) - 2016 
-      - [Context](https://reactjs.org/docs/context.html) - 2018
-      - [Hooks](https://reactjs.org/docs/hooks-intro.html) - 2019
-      - [Zustand](https://github.com/pmndrs/zustand) - 2019
-      - [Jotai](https://github.com/pmndrs/jotai) - 2020
-      - [Recoil](https://github.com/facebookexperimental/Recoil) - 2020
-      - useSelectedContext - 2021
-    - UI framework
-    - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later  
-    - react-testing-library  
-    - react-transition  
-  - Angular  
-  - Vue  
-    - UI framework  
-      - [element-ui](https://github.com/ElemeFE/element) - for vue2  
-      - [element-plus](https://github.com/element-plus/element-plus) - for vue3 made by Element team
-      - [vuetify](https://github.com/vuetifyjs/vuetify)
-    - SSR
-      - Nuxt.js
-    - SSG
-      - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
-      - [vuepress](https://github.com/vuejs/vuepress) - Vue-powered static site generator     
-    - useful plugin
-      - [vue-tour](https://github.com/pulsardev/vue-tour) - customizable tour plugin
-      - [v-charts](https://github.com/ElemeFE/v-charts) - echart for vue2.0
-    - misc      
-      - [Vueuse](https://vueuse.js.org/) - Collection of essential Vue Composition Utilities
-      - [VueTelescope](https://vuetelescope.com/explore) - Discover websites made with vue
-      - [vuejsexamples](https://vuejsexamples.com/) - website built with vues.js
-      - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
-  - js package
-    - [sanctuary](https://github.com/sanctuary-js/sanctuary) - fp helper, stricter than Ramda
-    - [ramda](https://ramdajs.com/) - fp helper, more popular
-    - [alpine.js](https://github.com/alpinejs/alpine) - Think of it like Tailwind for JavaScript
-    - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx but tiny
-    - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance
-    - [revealjs](https://revealjs.com/) - THE HTML PRESENTATION FRAMEWORK
-    - [iHaveQuestion](http://owo.herokuapp.com/) - HTML Slide透過「我有問題」，即時且匿名發問
-    - [gridstackjs](https://github.com/gridstack/gridstack.js) - draggable, resizable, responsive layouts, pure js
-    - [golden-layout](https://github.com/golden-layout/golden-layout) - multi-screen layout manager for webapps, with jquery dependence
-    - [axios](https://github.com/axios/axios) - most popular  Promise based HTTP client
-    - [tlapse](https://github.com/typicode/tlapse) - take period screenshots with puppeteer, good for record development
-    - [amplitudejs](https://github.com/521dimensions/amplitudejs) - HTML5 Web Audio Library. No dependencies required.
+`Svelte`
+  - UI framework  
+    - [svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - most stared so far  
+  - tools      
+    - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next my-app (start Svelte project template)  
+    
+`React`
+  - state management  
+    - [redux](https://github.com/reduxjs/redux) - 2015
+    - [MobX](https://github.com/mobxjs/mobx) - 2016 
+    - [Context](https://reactjs.org/docs/context.html) - 2018
+    - [Hooks](https://reactjs.org/docs/hooks-intro.html) - 2019
+    - [Zustand](https://github.com/pmndrs/zustand) - 2019
+    - [Jotai](https://github.com/pmndrs/jotai) - 2020
+    - [Recoil](https://github.com/facebookexperimental/Recoil) - 2020
+    - useSelectedContext - 2021
+  - UI framework
+  - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later  
+  - react-testing-library  
+  - react-transition  
+  
+`Angular`
+
+`Vue`
+  - UI framework  
+    - [element-ui](https://github.com/ElemeFE/element) - for vue2  
+    - [element-plus](https://github.com/element-plus/element-plus) - for vue3 made by Element team
+    - [vuetify](https://github.com/vuetifyjs/vuetify)
+  - SSR
+    - Nuxt.js
+  - SSG
+    - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
+    - [vuepress](https://github.com/vuejs/vuepress) - Vue-powered static site generator     
+  - useful plugin
+    - [vue-tour](https://github.com/pulsardev/vue-tour) - customizable tour plugin
+    - [v-charts](https://github.com/ElemeFE/v-charts) - echart for vue2.0
+  - misc      
+    - [Vueuse](https://vueuse.js.org/) - Collection of essential Vue Composition Utilities
+    - [VueTelescope](https://vuetelescope.com/explore) - Discover websites made with vue
+    - [vuejsexamples](https://vuejsexamples.com/) - website built with vues.js
+    - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+    
+`js package`
+  - [sanctuary](https://github.com/sanctuary-js/sanctuary) - fp helper, stricter than Ramda
+  - [ramda](https://ramdajs.com/) - fp helper, more popular
+  - [alpine.js](https://github.com/alpinejs/alpine) - Think of it like Tailwind for JavaScript
+  - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx but tiny
+  - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance
+  - [revealjs](https://revealjs.com/) - THE HTML PRESENTATION FRAMEWORK
+  - [iHaveQuestion](http://owo.herokuapp.com/) - HTML Slide透過「我有問題」，即時且匿名發問
+  - [gridstackjs](https://github.com/gridstack/gridstack.js) - draggable, resizable, responsive layouts, pure js
+  - [golden-layout](https://github.com/golden-layout/golden-layout) - multi-screen layout manager for webapps, with jquery dependence
+  - [axios](https://github.com/axios/axios) - most popular  Promise based HTTP client
+  - [tlapse](https://github.com/typicode/tlapse) - take period screenshots with puppeteer, good for record development
+  - [amplitudejs](https://github.com/521dimensions/amplitudejs) - HTML5 Web Audio Library. No dependencies required.
 
   `app`
    - youtube    
@@ -303,6 +312,7 @@
   - misc
     - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
     - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
+    - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
     
 `deno.js`  
   
@@ -469,9 +479,14 @@
   - [devdocs](https://devdocs.io/) - useful language API documentations 
   - [responsively](https://responsively.app/) - helps in responsive web development, built with electron
   - [pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs. githun plugin
+  - [Inspector iOS](https://developer.apple.com/library/archive/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
+  - [Inspector android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)
+  - [ab](http://httpd.apache.org/docs/2.2/programs/ab.html) - Apache HTTP server benchmarking tool
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
+  - [Mos](https://github.com/Caldis/Mos) - smooth scrolling and set scroll direction independently for your mouse on MacOS
+  - [jetbrain serial](https://juejin.cn/post/6854573215931924488)
 
 `learning resource`  
   - youtube(not js and devops focused)
