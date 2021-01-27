@@ -247,191 +247,191 @@
      - [bxjs weekly](https://www.youtube.com/c/TimErmilov/videos) - js news
 
 ## Backend
-  `Rust`
-    - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
+`Rust`  
+  - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
     
-  `Node.js`
-    - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
-    - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
+`Node.js`  
+  - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
+  - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
     
-  `deno.js`
+`deno.js`  
   
-  `Golang`
-    - [CoolShell](https://coolshell.cn/) - 左耳朵耗子blog
-    - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
-    - [golangresource](https://golangresources.com/) - learning resource
-    - [Go 语言设计与实现](https://draveness.me/golang/) - 
-    - youtube
-      - [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ/videos)
+`Golang`  
+  - [CoolShell](https://coolshell.cn/) - 左耳朵耗子blog
+  - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
+  - [golangresource](https://golangresources.com/) - learning resource
+  - [Go 语言设计与实现](https://draveness.me/golang/) - 
+  - youtube
+    - [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ/videos)
       
-  `Java`
-    - github
-      - [Java工程师进阶知识](https://github.com/doocs/advanced-java) - by doocs
-      - [java学习+面试指南](https://github.com/Snailclimb/JavaGuide) - by Snailclimb
-    - misc
-      - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
-      - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
-      
-  `Haskell`
-    - [Yesod](https://www.yesodweb.com/) - Haskell web framework for productive development of type-safe, RESTful api
+`Java`  
+  - github
+    - [Java工程师进阶知识](https://github.com/doocs/advanced-java) - by doocs
+    - [java学习+面试指南](https://github.com/Snailclimb/JavaGuide) - by Snailclimb
+  - misc
+    - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
+    - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
+
+`Haskell`  
+  - [Yesod](https://www.yesodweb.com/) - Haskell web framework for productive development of type-safe, RESTful api
+
+`python`  
+  - youtube
+    - [Corey Schafer](https://www.youtube.com/c/Coreyms/videos)
+    - [John Philip Jones](https://www.youtube.com/c/johnphilipjones/videos)
+    - [A Plus Coding](https://www.youtube.com/c/APlusCoding/videos)
+    - [real python](https://www.youtube.com/c/realpython/videos)
+    - [CodingEntrepreneurs ](https://www.youtube.com/c/CodingEntrepreneurs/videos)
+    - [Dennis Ivy](https://www.youtube.com/c/DennisIvy/videos)
+    - [Pyplane](https://www.youtube.com/c/Pyplane/videos)
+    - [Pretty Printed](https://www.youtube.com/c/PrettyPrintedTutorials/videos)
+    - [anthonywritescode](https://www.youtube.com/c/anthonywritescode/videos)
+
+`runetime`  
+  - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
     
-  `python`
-    - youtube
-      - [Corey Schafer](https://www.youtube.com/c/Coreyms/videos)
-      - [John Philip Jones](https://www.youtube.com/c/johnphilipjones/videos)
-      - [A Plus Coding](https://www.youtube.com/c/APlusCoding/videos)
-      - [real python](https://www.youtube.com/c/realpython/videos)
-      - [CodingEntrepreneurs ](https://www.youtube.com/c/CodingEntrepreneurs/videos)
-      - [Dennis Ivy](https://www.youtube.com/c/DennisIvy/videos)
-      - [Pyplane](https://www.youtube.com/c/Pyplane/videos)
-      - [Pretty Printed](https://www.youtube.com/c/PrettyPrintedTutorials/videos)
-      - [anthonywritescode](https://www.youtube.com/c/anthonywritescode/videos)
-      
-  `runetime`
-    - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
-    
-## Fullstack
+## Fullstack  
   - meteor
   - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
 
-## game
-  `youtube`
-    - [Unity3dCollege](https://www.youtube.com/c/Unity3dCollege/videos) - unity
-    - [Sykoo](https://www.youtube.com/c/Sykoo/videos) - unity
-    - [FusedVR](https://www.youtube.com/c/FusedVR/videos)
-    - [DaniDev](https://www.youtube.com/c/DaniDev/videos)
-    - [gamefromscratch](https://www.youtube.com/c/gamefromscratch/videos)
-    - [Blackthornprod ](https://www.youtube.com/c/Blackthornprod/videos)
-    - [snomangaming](https://www.youtube.com/user/snomangaming/videos)
-    - [Gdconf](https://www.youtube.com/c/Gdconf/videos)
-    - [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw/videos)
-    - [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ/videos)
-    - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos)
-    - [Molly Rocket](https://www.youtube.com/c/MollyRocket/videos)
-    - [Hopsonn](https://www.youtube.com/c/Hopsonn/videos)
-    - [Gdquest](https://www.youtube.com/c/Gdquest/videos)
-    - [Brackeys](https://www.youtube.com/c/Brackeys/videos)
-  `misc`
-    - [zenva](https://academy.zenva.com/) - phaser.js
+## game  
+`youtube`  
+  - [Unity3dCollege](https://www.youtube.com/c/Unity3dCollege/videos) - unity
+  - [Sykoo](https://www.youtube.com/c/Sykoo/videos) - unity
+  - [FusedVR](https://www.youtube.com/c/FusedVR/videos)
+  - [DaniDev](https://www.youtube.com/c/DaniDev/videos)
+  - [gamefromscratch](https://www.youtube.com/c/gamefromscratch/videos)
+  - [Blackthornprod ](https://www.youtube.com/c/Blackthornprod/videos)
+  - [snomangaming](https://www.youtube.com/user/snomangaming/videos)
+  - [Gdconf](https://www.youtube.com/c/Gdconf/videos)
+  - [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw/videos)
+  - [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ/videos)
+  - [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos)
+  - [Molly Rocket](https://www.youtube.com/c/MollyRocket/videos)
+  - [Hopsonn](https://www.youtube.com/c/Hopsonn/videos)
+  - [Gdquest](https://www.youtube.com/c/Gdquest/videos)
+  - [Brackeys](https://www.youtube.com/c/Brackeys/videos)
+`misc`  
+  - [zenva](https://academy.zenva.com/) - phaser.js
 
-## inspiration
-  `website`
-    - [angel of darkness](https://the-alienist-s2.us.dev.monkapps.com/)
+## inspiration  
+`website`  
+  - [angel of darkness](https://the-alienist-s2.us.dev.monkapps.com/)
   
-## trend
-  - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
+## trend  
+ - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
   
-## UI
-  `tools`
-    - [flinto](https://www.flinto.com/) - create interactive and animated prototypes
-    - sketch
-    - invision
-    - [figma](https://www.figma.com/) - most popular at 2021
-    - AdobeXD
-    
-  `icon`
-    - [loading.io](https://loading.io/) - loading animation    
+## UI  
+`tools`  
+  - [flinto](https://www.flinto.com/) - create interactive and animated prototypes
+  - sketch
+  - invision
+  - [figma](https://www.figma.com/) - most popular at 2021
+  - AdobeXD
 
-## AI
-  `youtube`
-    - [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg/videos)
-    - [Jeremy Howard](https://www.youtube.com/user/howardjeremyp/videos)
-    - [WhatsAI](https://www.youtube.com/c/WhatsAI/videos)
+`icon`  
+  - [loading.io](https://loading.io/) - loading animation    
+
+## AI  
+`youtube`  
+  - [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg/videos)
+  - [Jeremy Howard](https://www.youtube.com/user/howardjeremyp/videos)
+  - [WhatsAI](https://www.youtube.com/c/WhatsAI/videos)
     
-## database
-  `NoSQL`
-    - PostgreSQL
-      - [pg-sql.com](https://pg-sql.com/) - playground
-    - HarperDB
-      - [HarperDB vs MongoDB](https://harperdb.io/harperdb-vs-mongodb/) - 37.9 times faster than mongodb on average
-    - Prisma
-      - [why prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm) - more control and productive
-    - Redis
-      - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
-    - CouchDB
-    - Cassandra
-    
-  `SQL`
+## database  
+`NoSQL`  
+  - PostgreSQL
+    - [pg-sql.com](https://pg-sql.com/) - playground
+  - HarperDB
+    - [HarperDB vs MongoDB](https://harperdb.io/harperdb-vs-mongodb/) - 37.9 times faster than mongodb on average
+  - Prisma
+    - [why prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm) - more control and productive
+  - Redis
+    - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
+  - CouchDB
+  - Cassandra
+
+`SQL`  
   
-## Devops
-  `docker`
-    - [Buildah](https://buildah.io/) - tool facilitates building OCI container images
-    
-  `Kubernetes`
-    - [k8s playground](https://labs.play-with-k8s.com)
-    
-  `monitoring`
-    - grafana
-      - [grafana playground](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1) - official
-      
-  `gateway`
-    - nginx
-    - kong
-      - [kong](https://github.com/Kong/kong) - cloud-native, fast, scalable, and distributed Microservice API Gateway
-      - [Kong 在好大夫的落地实践](https://www.infoq.cn/article/i7ypjly3fquydleoehcp)
-      - [微服务 API 网关 Kong 实践](https://segmentfault.com/a/1190000022843318)
-      
-  `CI/CD`
-    - [zenhub](https://www.zenhub.com/) - better way to manage github but charged
-    
-  `misc`
-    - [rocky](https://github.com/rocky-linux/rocky) - replace centos , centos8 only supported till 2021/12/31
-    
-  `learning resource`
-    - youtube
-      - Kubernetes
-        - [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana/videos)
-        - [wenkatn-justmeandopensource](https://www.youtube.com/c/wenkatn-justmeandopensource/videos)
-        - [KodeKloud](https://www.youtube.com/c/KodeKloud/videos)
-      - misc
-        - [David Bombal](https://www.youtube.com/c/DavidBombal/videos)
-        - [InfoQ](https://www.youtube.com/nctv/videos)
-        - [Cloud Academy](https://www.youtube.com/c/Cloudacademy/videos)
-        - [Linux Academy](https://www.youtube.com/c/LinuxAcademycom/videos)
-        - [That DevOps Guy](https://www.youtube.com/c/MarcelDempers/videos)
+## Devops  
+`docker`  
+  - [Buildah](https://buildah.io/) - tool facilitates building OCI container images
+
+`Kubernetes`  
+  - [k8s playground](https://labs.play-with-k8s.com)
+
+`monitoring`  
+  - grafana
+    - [grafana playground](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1) - official
+
+`gateway`  
+  - nginx
+  - kong
+    - [kong](https://github.com/Kong/kong) - cloud-native, fast, scalable, and distributed Microservice API Gateway
+    - [Kong 在好大夫的落地实践](https://www.infoq.cn/article/i7ypjly3fquydleoehcp)
+    - [微服务 API 网关 Kong 实践](https://segmentfault.com/a/1190000022843318)
+
+`CI/CD`  
+  - [zenhub](https://www.zenhub.com/) - better way to manage github but charged
+
+`misc`  
+  - [rocky](https://github.com/rocky-linux/rocky) - replace centos , centos8 only supported till 2021/12/31
+
+`learning resource`  
+  - youtube
+    - Kubernetes
+      - [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana/videos)
+      - [wenkatn-justmeandopensource](https://www.youtube.com/c/wenkatn-justmeandopensource/videos)
+      - [KodeKloud](https://www.youtube.com/c/KodeKloud/videos)
+    - misc
+      - [David Bombal](https://www.youtube.com/c/DavidBombal/videos)
+      - [InfoQ](https://www.youtube.com/nctv/videos)
+      - [Cloud Academy](https://www.youtube.com/c/Cloudacademy/videos)
+      - [Linux Academy](https://www.youtube.com/c/LinuxAcademycom/videos)
+      - [That DevOps Guy](https://www.youtube.com/c/MarcelDempers/videos)
         
-## building project
-  `youtube`
-    - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - at youtube by SonnySangha
-    
-  `github`
-    - [realworld](https://github.com/gothinkster/realworld)
-    - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
-    - [电商系统](https://github.com/macrozheng/mall) - 前台(vuejs)商城系统及后台管理系统(SpringBoot+MyBatis), by macrozheng
+## building project  
+`youtube`  
+  - [Gmail clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) - at youtube by SonnySangha
+
+`github`  
+  - [realworld](https://github.com/gothinkster/realworld)
+  - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+  - [电商系统](https://github.com/macrozheng/mall) - 前台(vuejs)商城系统及后台管理系统(SpringBoot+MyBatis), by macrozheng
   
 ## other
-  `misc`
-    - [fiverr](https://www.fiverr.com/) - freelancer
-    
-  `learning resource`
-    - youtube(not js and devops focused)
-      - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
-      - [CodeSheep程序羊](https://www.youtube.com/channel/UC9PZ_j30JhfgjOrJZAtYzRw/videos) -- java
-      - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/videos) - java
-      - [programmingwithmosh](https://www.youtube.com/c/programmingwithmosh/videos) -- python    
-      - [Coding Tech](https://www.youtube.com/c/CodingTech/videos)
-      - [the roadmap](https://www.youtube.com/c/theroadmap/videos)
-      - [Derek Banas](https://www.youtube.com/c/derekbanas/videos)
-      - [代码真香](https://www.youtube.com/c/biezhi/videos) - 中文
-      - [CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&app=desktop) - Computer Science series
-      - [TechPrimers](https://www.youtube.com/c/TechPrimers/videos)
-      - [TechWithTim](https://www.youtube.com/c/TechWithTim/videos)
-      - [Dani Krossing](https://www.youtube.com/c/TheCharmefis/videos)
-      - [ProgrammingKnowledge](https://www.youtube.com/c/ProgrammingKnowledge/videos)
-      - [MTECHVIRAL](https://www.youtube.com/c/MTechViral/videos)
-      - [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey/videos)
-      - [codepunk](https://www.youtube.com/c/codepunk/videos)
-      - [CoffeeBeforeArch](https://www.youtube.com/c/CoffeeBeforeArch/videos)
-      - [webslesson](https://www.youtube.com/c/webslesson/videos) - php
-      - [The Codeholic](https://www.youtube.com/c/TheCodeholic/videos) - php
-      - [CodeLitDev](https://www.youtube.com/c/CodeLitDev/videos)
-      - [Telusko](https://www.youtube.com/c/Telusko/videos)
-      - [kudvenkat ](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot/videos)
-      - [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
-      - [Alessandro Castellani](https://www.youtube.com/c/AlessandroCastellani/videos)
-      - [ContextFree](https://www.youtube.com/c/ContextFree/videos)
-      - [SimpleSnippets](https://www.youtube.com/c/SimpleSnippets/videos)
-      - [Scaler Academy](https://www.youtube.com/c/ScalerAcademy/videos)
-      - [NetworkChuck](https://www.youtube.com/c/NetworkChuck/videos)
-      - [More Bits inside by René Rebe](https://www.youtube.com/c/MoreReneRebe/videos)
+`misc`  
+  - [fiverr](https://www.fiverr.com/) - freelancer
+
+`learning resource`  
+  - youtube(not js and devops focused)
+    - [尚硅谷](https://www.youtube.com/channel/UCIgDN-g8qBfjtcu0UfkgdEA/videos)
+    - [CodeSheep程序羊](https://www.youtube.com/channel/UC9PZ_j30JhfgjOrJZAtYzRw/videos) -- java
+    - [Java Brains](https://www.youtube.com/c/JavaBrainsChannel/videos) - java
+    - [programmingwithmosh](https://www.youtube.com/c/programmingwithmosh/videos) -- python    
+    - [Coding Tech](https://www.youtube.com/c/CodingTech/videos)
+    - [the roadmap](https://www.youtube.com/c/theroadmap/videos)
+    - [Derek Banas](https://www.youtube.com/c/derekbanas/videos)
+    - [代码真香](https://www.youtube.com/c/biezhi/videos) - 中文
+    - [CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&app=desktop) - Computer Science series
+    - [TechPrimers](https://www.youtube.com/c/TechPrimers/videos)
+    - [TechWithTim](https://www.youtube.com/c/TechWithTim/videos)
+    - [Dani Krossing](https://www.youtube.com/c/TheCharmefis/videos)
+    - [ProgrammingKnowledge](https://www.youtube.com/c/ProgrammingKnowledge/videos)
+    - [MTECHVIRAL](https://www.youtube.com/c/MTechViral/videos)
+    - [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey/videos)
+    - [codepunk](https://www.youtube.com/c/codepunk/videos)
+    - [CoffeeBeforeArch](https://www.youtube.com/c/CoffeeBeforeArch/videos)
+    - [webslesson](https://www.youtube.com/c/webslesson/videos) - php
+    - [The Codeholic](https://www.youtube.com/c/TheCodeholic/videos) - php
+    - [CodeLitDev](https://www.youtube.com/c/CodeLitDev/videos)
+    - [Telusko](https://www.youtube.com/c/Telusko/videos)
+    - [kudvenkat ](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot/videos)
+    - [Amigoscode](https://www.youtube.com/c/amigoscode/videos)
+    - [Alessandro Castellani](https://www.youtube.com/c/AlessandroCastellani/videos)
+    - [ContextFree](https://www.youtube.com/c/ContextFree/videos)
+    - [SimpleSnippets](https://www.youtube.com/c/SimpleSnippets/videos)
+    - [Scaler Academy](https://www.youtube.com/c/ScalerAcademy/videos)
+    - [NetworkChuck](https://www.youtube.com/c/NetworkChuck/videos)
+    - [More Bits inside by René Rebe](https://www.youtube.com/c/MoreReneRebe/videos)
       
