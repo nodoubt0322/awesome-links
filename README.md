@@ -51,7 +51,7 @@
   - webpack
     - [深入淺出線上版](http://webpack.wuhaolin.cn/)
   - vite
-  - parcel
+  - [parcel](https://github.com/parcel-bundler/parcel) - dont need config
   - rollup
   - [snowpack](https://github.com/snowpackjs/snowpack) - leverage javascript native esm module
   - [esbuild](https://github.com/evanw/esbuild) - built by golang
@@ -87,7 +87,10 @@
   - [json-server](https://github.com/typicode/json-server) - fake REST API server
   - [lowdb](https://github.com/typicode/lowdb) - JSON database powered by Lodash
   - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) - online fake REST API 
-    
+
+`Document`
+  - [docsify](https://docsify.js.org/#/) - documentation site generator
+
 `sandbox`  
   - [codesandbox](https://codesandbox.io/) - support react, vue, angular etc.., best so far
   - [codepen](https://codepen.io/) - nice community
@@ -155,8 +158,12 @@
       - [vuetify](https://github.com/vuetifyjs/vuetify)
     - SSR
       - Nuxt.js
+    - SSG
+      - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
+      - [vuepress](https://github.com/vuejs/vuepress) - Vue-powered static site generator     
     - useful plugin
       - [vue-tour](https://github.com/pulsardev/vue-tour) - customizable tour plugin
+      - [v-charts](https://github.com/ElemeFE/v-charts) - echart for vue2.0
     - misc      
       - [Vueuse](https://vueuse.js.org/) - Collection of essential Vue Composition Utilities
       - [VueTelescope](https://vuetelescope.com/explore) - Discover websites made with vue
@@ -352,6 +359,7 @@
   - invision
   - [figma](https://www.figma.com/) - most popular at 2021
   - AdobeXD
+  - [photopea](https://www.photopea.com/) - online photo editor
 
 `icon`  
   - [loading.io](https://loading.io/) - loading animation    
@@ -401,6 +409,7 @@
 `misc`  
   - [rocky](https://github.com/rocky-linux/rocky) - replace centos , centos8 only supported till 2021/12/31
   - [gotop](https://github.com/xxxserxxx/gotop) - terminal based graphical activity monitor written in Go
+  - [cors-anywhere](https://github.com/Rob--W/cors-anywhere/) - NodeJS proxy
 
 `learning resource`  
   - youtube
@@ -425,13 +434,17 @@
   - [电商系统](https://github.com/macrozheng/mall) - 前台(vuejs)商城系统及后台管理系统(SpringBoot+MyBatis), by macrozheng
   
 ## other
-`misc`  
+`coding relad`  
   - [fiverr](https://www.fiverr.com/) - freelancer
   - [upwork](https://www.upwork.com/) - freelancer
   - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
   - [github search](https://github.com/search/advanced)  
   - [gifer](https://gifer.com/en/) - gif search engine
   - [carbon](https://github.com/carbon-app/carbon) - Create code images
+  - [devdocs](https://devdocs.io/) - useful language API documentations 
+
+`misc`  
+  - (https://www.needtomeet.com/)
 
 `learning resource`  
   - youtube(not js and devops focused)
