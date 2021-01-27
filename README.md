@@ -171,6 +171,7 @@
     - [VueTelescope](https://vuetelescope.com/explore) - Discover websites made with vue
     - [vuejsexamples](https://vuejsexamples.com/) - website built with vues.js
     - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+    - [awesomejs.dev](https://github.com/Akryum/awesomejs.dev) - Find awesome packages for the framework you are using, by Akryum
 
 `Angular`
 
@@ -187,6 +188,8 @@
   - [axios](https://github.com/axios/axios) - most popular  Promise based HTTP client
   - [tlapse](https://github.com/typicode/tlapse) - take period screenshots with puppeteer, good for record development
   - [amplitudejs](https://github.com/521dimensions/amplitudejs) - HTML5 Web Audio Library. No dependencies required.
+  - [cropperjs](https://github.com/fengyuanchen/cropperjs) - image cropper, native js
+  - [etherpad](https://github.com/ether/etherpad-lite) -  real-time collaborative editor
 
  `testing`
   - unit test
@@ -223,6 +226,7 @@
   
  `Three.js`
   - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
+  - [shadertoy](https://www.shadertoy.com/) - shader codepen-like
   
  `animation`
   - [barbajs](https://github.com/barbajs/barba)  
@@ -395,6 +399,7 @@
 
 `icon`  
   - [loading.io](https://loading.io/) - loading animation    
+  - [iconfont](https://www.iconfont.cn/) - powered by alibaba, recommended
 
 ## AI  
 `youtube`  
