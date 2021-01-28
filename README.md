@@ -61,13 +61,14 @@
   - [bit](https://bit.dev/) - a scalable and collaborative way to build and reuse components  
   
 `bundler`
-  - webpack
+  - [webpack](https://github.com/webpack/webpack)
     - [深入淺出線上版](http://webpack.wuhaolin.cn/)
-  - vite
+  - [vite](https://github.com/vitejs/vite) - 
   - [parcel](https://github.com/parcel-bundler/parcel) - dont need config
-  - rollup
+  - [rollup](https://github.com/rollup/rollup)
   - [snowpack](https://github.com/snowpackjs/snowpack) - leverage javascript native esm module
   - [esbuild](https://github.com/evanw/esbuild) - built by golang
+  - [wmr](https://github.com/preactjs/wmr) - tiny all-in-one development tool, only 2mb with no dependencies, by preactjs team
   - [rome](https://github.com/rome/tools) - designed to replace Babel, ESLint, webpack, Prettier, Jest, and others.
   
 `compiler`
@@ -171,6 +172,15 @@
   - fontawesome  
   - [iCSS](https://github.com/chokcoco/iCSS) - 国服第一切图仔, very good
   - [one-line-dark-mode-using-css](https://dev.to/akhilarjun/one-line-dark-mode-using-css-24li) - by akhilarjun
+  - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
+  - [material-components-web](https://github.com/material-components/material-components-web)
+  - [bulma](https://github.com/jgthms/bulma)
+
+ `css in javascript`  
+  - [styled-components](https://github.com/styled-components/styled-components)
+  - [Twin](https://github.com/ben-rogerson/twin.macro) - Twin blends the magic of Tailwind with the flexibility of css-in-js at build time.
+  - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
+  - [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 
 `Svelte`
   - theory
@@ -212,10 +222,13 @@
   - [react-testing-library](https://github.com/testing-library/react-testing-library) - React DOM testing utilities
   - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - React hooks testing utilities
   - [vidact](https://github.com/mohebifar/vidact) - compiler that converts React codes to VanillaJS, similar to Svelte, but unlike Svelte
+  - [headlessui](https://github.com/tailwindlabs/headlessui) - unstyled, accessible UI components, integrate  with Tailwind CSS, by tailwind
 
 `React Native`
   - theory
     - [React Native之原理浅析](http://blog.poetries.top/2019/10/02/rn-yuanli/) - by yuanli
+  - misc
+    - [expo](https://github.com/expo/expo) - platform for making universal native apps that run on Android, iOS, and the web
 
 `Vue`
   - UI framework  
