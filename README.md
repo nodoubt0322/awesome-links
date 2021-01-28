@@ -23,6 +23,7 @@
   - github
     - [CS-Notes](https://github.com/CyC2018/CS-Notes) - Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++ ,  by CyC2018  
     - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go) - golang
+    - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - javascript version, by trekhleb
     - [leetcode-with-javascript](https://github.com/zenghongtu/leetcode-with-javascript) - javascript
     - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - explanation with gif
     - [S版剑指offer题解](https://github.com/luvsunlight/js-offer-algo)
@@ -33,6 +34,7 @@
 `function programming`
   - [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/) learning resource
   - [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide) - by MostlyAdequate
+  - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - getify
   - [joelthoms blog](https://hackernoon.com/u/joelthoms) - read later
  
 `design pattern`
@@ -44,6 +46,7 @@
 `misc`
   - [30secondsofcode](https://www.30secondsofcode.org/)
   - [youmightnotneedjquery](http://youmightnotneedjquery.com/)
+  - [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - by kettanaito
 
 ## learning sourcecode
   - [若川 blog](https://lxchuan12.gitee.io/) - jquery, sentry, lodash, koa, vuex, underscore, recommended
@@ -175,6 +178,7 @@
   - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
   - [material-components-web](https://github.com/material-components/material-components-web)
   - [bulma](https://github.com/jgthms/bulma)
+  - [whirl](https://github.com/jh3y/whirl) - CSS loading animations
 
  `css in javascript`  
   - [styled-components](https://github.com/styled-components/styled-components)
@@ -187,6 +191,8 @@
     - [deep-dive-into-svelte](https://lihautan.com/deep-dive-into-svelte/)
     - [compile-svelte-in-your-head-part-1](https://lihautan.com/compile-svelte-in-your-head-part-1/)
     - [the-svelte-compiler-handbook](https://lihautan.com/the-svelte-compiler-handbook/)
+  - SSR
+    - [sapper](https://github.com/sveltejs/sapper) - official
   - UI framework  
     - [svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - most stared so far  
   - tools      
@@ -223,6 +229,7 @@
   - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - React hooks testing utilities
   - [vidact](https://github.com/mohebifar/vidact) - compiler that converts React codes to VanillaJS, similar to Svelte, but unlike Svelte
   - [headlessui](https://github.com/tailwindlabs/headlessui) - unstyled, accessible UI components, integrate  with Tailwind CSS, by tailwind
+  - [react-rnd](https://github.com/bokuweb/react-rnd) - resizable and draggable component for React
 
 `React Native`
   - theory
@@ -349,7 +356,8 @@
 
  `learning resource`
    - github
-     - [awesome-learning](https://github.com/afontcu/awesome-learning) - A living curated list of awesome learning material      
+     - [awesome-learning](https://github.com/afontcu/awesome-learning) - A living curated list of awesome learning material
+     - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
    - youtube
      - [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers/videos) - build beautiful stuff
      - [DarkCode](https://www.youtube.com/c/DarkCodeOnline/videos) - animation focus
@@ -445,6 +453,7 @@
     - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
     - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
     - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - by goldbergyoni
+    - [amplication](https://github.com/amplication/amplication) - Visual data models, generate code, build with Nest.js and  GraphQL, react Admin UI, swagger
     
 `deno.js`  
   
@@ -548,6 +557,9 @@
   - Cassandra
 
 `SQL`  
+
+`Misc`
+  - [supabase](https://github.com/supabase/supabase) - open source Firebase alternative. using enterprise-grade open source tools. early stage back by mozilla
   
 ## Devops  
 `docker`  
