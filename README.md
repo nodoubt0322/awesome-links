@@ -206,8 +206,9 @@
   - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
   - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
   - [swr](https://github.com/vercel/swr) - React Hooks library for remote data fetching
-  - react-testing-library  
-  - react-transition  
+  - [react-testing-library](https://github.com/testing-library/react-testing-library) - React DOM testing utilities
+  - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - React hooks testing utilities
+  - [rax](https://github.com/alibaba/rax) - progressive React framework for building universal application, by alibaba
 
 `React Native`
   - theory
@@ -258,6 +259,7 @@
     - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx but tiny
     - [preact](https://github.com/preactjs/preact) - 3kB React alternative with the same modern API. Components & Virtual DOM.  
     - [moon](https://github.com/kbrsh/moon) - tiny, functional user interfaces, by kbrsh    
+    - [hyperapp](https://github.com/jorgebucaran/hyperapp) - tiny framework for building hypertext applications, by jorgebucaran
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
