@@ -24,7 +24,8 @@
     - [CS-Notes](https://github.com/CyC2018/CS-Notes) - Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++ ,  by CyC2018  
     - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go) - golang
     - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - javascript version, by trekhleb
-    - [leetcode-with-javascript](https://github.com/zenghongtu/leetcode-with-javascript) - javascript
+    - [leetcode-with-javascript](https://github.com/zenghongtu/leetcode-with-javascript) - by zenghongtu
+    - [Javascript Algorithms](https://github.com/TheAlgorithms/Javascript) - by Algorithms
     - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - explanation with gif
     - [S版剑指offer题解](https://github.com/luvsunlight/js-offer-algo)
     - [leetcode解题之路](https://github.com/azl397985856/leetcode) - very detail by azl397985856
@@ -47,6 +48,9 @@
   - [30secondsofcode](https://www.30secondsofcode.org/)
   - [youmightnotneedjquery](http://youmightnotneedjquery.com/)
   - [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - by kettanaito
+  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - by airbnb
+  - [google style guide](https://github.com/google/styleguide)
+  - [standard](https://github.com/standard/standard)
 
 ## learning sourcecode
   - [若川 blog](https://lxchuan12.gitee.io/) - jquery, sentry, lodash, koa, vuex, underscore, recommended
@@ -54,6 +58,7 @@
 
 ## toolings
 `typescript`
+  - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - high quality TypeScript type definitions
   
 `lint`
   - eslint
@@ -76,6 +81,7 @@
   
 `compiler`
   - babel
+    - [babel-handbook](https://github.com/jamiebuilds/babel-handbook) - by jamiebuilds
   
 `git`
   - [gitflow](https://github.com/nvie/gitflow) - git flow command
@@ -107,6 +113,7 @@
   - [json-server](https://github.com/typicode/json-server) - fake REST API server
   - [lowdb](https://github.com/typicode/lowdb) - JSON database powered by Lodash
   - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) - online fake REST API 
+  - [public-apis](https://github.com/public-apis/public-apis) - public-apis
 
 `Document`
   - [docsify](https://docsify.js.org/#/) - documentation site generator
@@ -134,6 +141,7 @@
   - [lerna](https://github.com/lerna/lerna) - managing JavaScript projects with multiple packages
 
 `misc`
+  - [typescript-cheatsheets](https://github.com/typescript-cheatsheets)
   - [polyfill.io](https://polyfill.io/v3/url-builder/) - polyfill-sets. very useful, study sourcecode?
   - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
   - [purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS
@@ -287,6 +295,8 @@
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
+    - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - build stuff with vanillaJS by bradtraversy
+    - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - by jamiebuilds
 
  `testing`
   - concept
@@ -493,9 +503,6 @@
 `runetime`  
   - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
     
-## Fullstack  
-
-
 ## game  
 `youtube`  
   - [Unity3dCollege](https://www.youtube.com/c/Unity3dCollege/videos) - unity
@@ -538,10 +545,14 @@
   - [tablericons](https://tablericons.com/)
 
 ## AI  
+
 `youtube`  
   - [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg/videos)
   - [Jeremy Howard](https://www.youtube.com/user/howardjeremyp/videos)
   - [WhatsAI](https://www.youtube.com/c/WhatsAI/videos)
+  
+`misc`    
+  - [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design)
     
 ## database  
 `NoSQL`  
@@ -557,6 +568,8 @@
   - Cassandra
 
 `SQL`  
+  - PostgreSQL
+    - [realtime](https://github.com/supabase/realtime) - PostgreSQL database in realtime via websockets, by supabase
 
 `Misc`
   - [supabase](https://github.com/supabase/supabase) - open source Firebase alternative. using enterprise-grade open source tools. early stage back by mozilla
@@ -589,6 +602,7 @@
   - [circleci](https://circleci.com/)
   - [drone CI](https://www.drone.io/) - container base
   - [zenhub](https://www.zenhub.com/) - better way to manage github but charged
+  - [danger-js](https://github.com/danger/danger-js) - Danger runs after your CI, automating your team's conventions surrounding code review
 
 `code quality`  
   - [phabricator](https://github.com/phacility/phabricator) - code review, repository hosting, bug tracking, project management
@@ -626,6 +640,7 @@
   - [realworld](https://github.com/gothinkster/realworld)
   - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
   - [电商系统](https://github.com/macrozheng/mall) - 前台(vuejs)商城系统及后台管理系统(SpringBoot+MyBatis), by macrozheng
+  - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - admin dashboard template based on Bootstrap 4 and jquery
   
 ## other
 `coding relad`  
@@ -643,6 +658,8 @@
   - [ruffle](https://github.com/ruffle-rs/ruffle) - Flash Player emulator written in Rust
   - [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager , study source code
   - [hyper](https://github.com/vercel/hyper) - terminal built on electron
+  - [verdaccio](https://github.com/verdaccio/verdaccio) - lightweight private proxy registry build in Node.js
+  - [cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
