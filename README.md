@@ -265,6 +265,7 @@
   - [echarts](https://github.com/apache/echarts/) - data visualization library by apache
 
  `GraphQL`  
+  - [type-graphql](https://github.com/MichalLytek/type-graphql) - use graphQL with typescript
  
  `rxjs`
   - [presentation from maxwell](https://docs.google.com/presentation/d/1Js18_A0ph2q2LH4KgZtmw7WA4fY3TNYp-N6edVuPLGI/edit#slide=id.g33163b3175_0_45)
@@ -504,6 +505,8 @@
     - [微服务 API 网关 Kong 实践](https://segmentfault.com/a/1190000022843318)
 
 `CI/CD`  
+  - [circleci](https://circleci.com/)
+  - [drone CI](https://www.drone.io/) - container base
   - [zenhub](https://www.zenhub.com/) - better way to manage github but charged
 
 `code quality`  
@@ -514,6 +517,7 @@
   - [gotop](https://github.com/xxxserxxx/gotop) - terminal based graphical activity monitor written in Go
   - [edex-ui](https://github.com/GitSquared/edex-ui) - fullscreen, cross-platform terminal emulator and system monitor
   - [termshark](https://github.com/gcla/termshark) - terminal user-interface for tshark
+  - [ranger](https://github.com/ranger/ranger) - console file manager with VI key bindings
 
 `learning resource`  
   - youtube
