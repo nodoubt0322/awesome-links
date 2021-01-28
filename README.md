@@ -169,6 +169,7 @@
   - fontawesome  
   - [iCSS](https://github.com/chokcoco/iCSS) - 国服第一切图仔, very good
   - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
+  - [one-line-dark-mode-using-css](https://dev.to/akhilarjun/one-line-dark-mode-using-css-24li) - by akhilarjun
 
 `Svelte`
   - theory
