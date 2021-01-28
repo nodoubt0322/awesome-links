@@ -183,6 +183,7 @@
     - [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) - npx create-svelte@next my-app (start Svelte project template)  
     
 `React`
+  - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later
   - state management  
     - [redux](https://github.com/reduxjs/redux) - 2015
     - [MobX](https://github.com/mobxjs/mobx) - 2016 
@@ -196,19 +197,21 @@
     - [ant-design](https://github.com/ant-design/ant-design)
     - [material-ui](https://github.com/mui-org/material-ui)
     - [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later  
+    - [react-admin](https://github.com/marmelab/react-admin) - Powered by material-ui, redux, react-final-form, react-route
+  - [umi](https://github.com/umijs/umi) - Pluggable enterprise-level react application framework
+  - [create-react-app](https://github.com/facebook/create-react-app)  
+  - [next.js](https://github.com/vercel/next.js) - ssr
+  - [dva](https://github.com/dvajs/dva) - Lightweight front-end framework based on redux, redux-saga and react-router, 
   - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks. Port of libreact
   - [libreact](https://github.com/streamich/libreact) - Collection of useful React components
   - [awesome-styleguides](https://github.com/streamich/awesome-styleguides) - About A curated list of UI styleguides, by streamich 
-  - [next.js](https://github.com/vercel/next.js) - ssr
   - [gatsby](https://github.com/gatsbyjs/gatsby) - 
-  - [create-react-app](https://github.com/facebook/create-react-app)
   - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
   - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
   - [swr](https://github.com/vercel/swr) - React Hooks library for remote data fetching
   - [react-testing-library](https://github.com/testing-library/react-testing-library) - React DOM testing utilities
   - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - React hooks testing utilities
-  - [rax](https://github.com/alibaba/rax) - progressive React framework for building universal application, by alibaba
+  - [vidact](https://github.com/mohebifar/vidact) - compiler that converts React codes to VanillaJS, similar to Svelte, but unlike Svelte
 
 `React Native`
   - theory
@@ -260,6 +263,7 @@
     - [preact](https://github.com/preactjs/preact) - 3kB React alternative with the same modern API. Components & Virtual DOM.  
     - [moon](https://github.com/kbrsh/moon) - tiny, functional user interfaces, by kbrsh    
     - [hyperapp](https://github.com/jorgebucaran/hyperapp) - tiny framework for building hypertext applications, by jorgebucaran
+    - [polka](https://github.com/lukeed/polka) - Polka is an extremely minimal, highly performant Express.js alternative
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
@@ -291,6 +295,7 @@
   - [antv](https://antv.vision/) - 螞蟻數據可視化
   - [d3](https://github.com/d3/d3) - data to life with SVG, Canvas and HTML
   - [echarts](https://github.com/apache/echarts/) - data visualization library by apache
+  - [visx](https://github.com/airbnb/visx) - collection of low-level visualization primitives for React, by airbnb
 
  `GraphQL`  
   - [type-graphql](https://github.com/MichalLytek/type-graphql) - use graphQL with typescript
@@ -312,11 +317,16 @@
  `Three.js`
   - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
   - [shadertoy](https://www.shadertoy.com/) - shader codepen-like
+  - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for Three.js (web and react-native)
   
  `animation`
   - [barbajs](https://github.com/barbajs/barba)  
+  - [motion](https://github.com/framer/motion) - production-ready animation and gesture library for Reac, by farmer
 
   `app`
+   - hybrid
+     - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework, by Tencent
+     - [rax](https://github.com/alibaba/rax) - Write Once, Run Anywhere: write one codebase, run with Web, Weex, Node.js, Alibaba MiniApp, WeChat MiniProgram     
    - youtube    
      - [flutterdev](https://www.youtube.com/c/flutterdev/videos) - official, flutter
      - [FilledStacks](https://www.youtube.com/c/FilledStacks/videos)
@@ -403,9 +413,22 @@
 `Node.js`  
   - headless CMS
     - [strapi](https://github.com/strapi/strapi) - headless CMS to build powerful APIs with no effort
+    - [keystone](https://github.com/keystonejs/keystone) - headless CMS for Node.js — built with GraphQL and React
   - misc
+    - meteor
+    - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
+    - jamstack
+      - [redwood.js](https://github.com/redwoodjs/redwood)  
     - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
-    - [nest](https://github.com/nestjs/nest) - 
+    - [nest](https://github.com/nestjs/nest)
+    - [fastify](https://github.com/fastify/fastify)
+    - [koa](https://github.com/koajs/koa)
+    - [egg.js](https://github.com/eggjs/egg) - build better enterprise frameworks and apps with Node.js & Koa
+    - [adonisjs](https://github.com/adonisjs/core) - laravel-like nodejs
+    - [feathers](https://github.com/feathersjs/feathers) - framework for real-time applications and REST APIs with JavaScript and TypeScript
+      - [awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs)
+    - [hapi](https://github.com/hapijs/hapi)
+    - [loopback](https://github.com/strongloop/loopback-next) - by ibm
     - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
     - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
     - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - by goldbergyoni
@@ -449,10 +472,7 @@
   - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
     
 ## Fullstack  
-  - meteor
-  - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
-  - jamstack
-    - [redwood.js](https://github.com/redwoodjs/redwood)
+
 
 ## game  
 `youtube`  
@@ -584,12 +604,13 @@
   
 ## other
 `coding relad`  
+  - [risingstars.js](https://risingstars.js.org/2020/en)
+  - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
+  - [github search](https://github.com/search/advanced)    
   - [record-badass-screencasts-for-egghead-io](https://egghead.io/courses/record-badass-screencasts-for-egghead-io)
   - [fiverr](https://www.fiverr.com/) - freelancer
   - [upwork](https://www.upwork.com/) - freelancer
   - [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
-  - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
-  - [github search](https://github.com/search/advanced)  
   - [gifer](https://gifer.com/en/) - gif search engine
   - [carbon](https://github.com/carbon-app/carbon) - Create code images
   - [pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs. githun plugin
