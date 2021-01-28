@@ -68,6 +68,7 @@
   - rollup
   - [snowpack](https://github.com/snowpackjs/snowpack) - leverage javascript native esm module
   - [esbuild](https://github.com/evanw/esbuild) - built by golang
+  - [rome](https://github.com/rome/tools) - designed to replace Babel, ESLint, webpack, Prettier, Jest, and others.
   
 `compiler`
   - babel
@@ -105,6 +106,7 @@
 
 `Document`
   - [docsify](https://docsify.js.org/#/) - documentation site generator
+  - [docusaurus](https://github.com/facebook/docusaurus) - by facebook
 
 `collaboration`
   - [飛書](https://www.feishu.cn/) - really strong service by bytedance
@@ -192,7 +194,19 @@
     - [Recoil](https://github.com/facebookexperimental/Recoil) - 2020
     - useSelectedContext - 2021
   - UI framework
+    - [ant-design](https://github.com/ant-design/ant-design)
+    - [material-ui](https://github.com/mui-org/material-ui)
+    - [chakra-ui](https://github.com/chakra-ui/chakra-ui)
   - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later  
+  - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks. Port of libreact
+  - [libreact](https://github.com/streamich/libreact) - Collection of useful React components
+  - [awesome-styleguides](https://github.com/streamich/awesome-styleguides) - About A curated list of UI styleguides, by streamich 
+  - [next.js](https://github.com/vercel/next.js) - ssr
+  - [gatsby](https://github.com/gatsbyjs/gatsby) - 
+  - [create-react-app](https://github.com/facebook/create-react-app)
+  - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
+  - [swr](https://github.com/vercel/swr) - React Hooks library for remote data fetching
   - react-testing-library  
   - react-transition  
 
@@ -246,6 +260,8 @@
     - jest
   - e2e test
     - [Playwright](https://playwright.dev/) - Support for all browsers
+    - [puppeteer](https://github.com/puppeteer/puppeteer) - API to control Chrome. Puppeteer runs headless by default
+    - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 
  `monitoring`  
   - [前端监控方案](https://www.yuque.com/roadup/frontend/bk4ewd)
@@ -266,7 +282,10 @@
 
  `GraphQL`  
   - [type-graphql](https://github.com/MichalLytek/type-graphql) - use graphQL with typescript
- 
+
+ `electron`
+  - [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
  `rxjs`
   - [presentation from maxwell](https://docs.google.com/presentation/d/1Js18_A0ph2q2LH4KgZtmw7WA4fY3TNYp-N6edVuPLGI/edit#slide=id.g33163b3175_0_45)
   - [RxJS - 封裝程式的藝術](https://www.slideshare.net/ssuserb9c983/rxjs-81598692) - from 洪名辰
@@ -372,6 +391,7 @@
     - [strapi](https://github.com/strapi/strapi) - headless CMS to build powerful APIs with no effort
   - misc
     - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
+    - [nest](https://github.com/nestjs/nest) - 
     - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum
     - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
     - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - by goldbergyoni
@@ -458,6 +478,8 @@
 `icon`  
   - [loading.io](https://loading.io/) - loading animation    
   - [iconfont](https://www.iconfont.cn/) - powered by alibaba, recommended
+  - [heroicons](https://heroicons.dev/)
+  - [tablericons](https://tablericons.com/)
 
 ## AI  
 `youtube`  
@@ -560,6 +582,7 @@
   - [ab](http://httpd.apache.org/docs/2.2/programs/ab.html) - Apache HTTP server benchmarking tool
   - [ruffle](https://github.com/ruffle-rs/ruffle) - Flash Player emulator written in Rust
   - [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager , study source code
+  - [hyper](https://github.com/vercel/hyper) - terminal built on electron
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
