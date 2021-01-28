@@ -170,7 +170,6 @@
   - [Draw elonmusk using CSS](https://twitter.com/asyrafhussin4/status/1351740905821069312?s=20)  
   - fontawesome  
   - [iCSS](https://github.com/chokcoco/iCSS) - 国服第一切图仔, very good
-  - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
   - [one-line-dark-mode-using-css](https://dev.to/akhilarjun/one-line-dark-mode-using-css-24li) - by akhilarjun
 
 `Svelte`
@@ -234,14 +233,13 @@
     - [vuejsexamples](https://vuejsexamples.com/) - website built with vues.js
     - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
     - [awesomejs.dev](https://github.com/Akryum/awesomejs.dev) - Find awesome packages for the framework you are using, by Akryum
+    
 
 `Angular`
 
 `js package`
   - [sanctuary](https://github.com/sanctuary-js/sanctuary) - fp helper, stricter than Ramda
   - [ramda](https://ramdajs.com/) - fp helper, more popular
-  - [alpine.js](https://github.com/alpinejs/alpine) - Think of it like Tailwind for JavaScript
-  - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx but tiny
   - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance
   - [revealjs](https://revealjs.com/) - THE HTML PRESENTATION FRAMEWORK
   - [iHaveQuestion](http://owo.herokuapp.com/) - HTML Slide透過「我有問題」，即時且匿名發問
@@ -252,6 +250,17 @@
   - [amplitudejs](https://github.com/521dimensions/amplitudejs) - HTML5 Web Audio Library. No dependencies required.
   - [cropperjs](https://github.com/fengyuanchen/cropperjs) - image cropper, native js
   - [etherpad](https://github.com/ether/etherpad-lite) -  real-time collaborative editor
+  - [stencil](https://github.com/ionic-team/stencil) - Web Component compiler for building fast, reusable UI components, by ionic
+
+ `for study source code`
+  - js
+    - [alpine.js](https://github.com/alpinejs/alpine) - Think of it like Tailwind for JavaScript
+    - [forgo.js](https://github.com/forgojs/forgo) - react-like jsx but tiny
+    - [preact](https://github.com/preactjs/preact) - 3kB React alternative with the same modern API. Components & Virtual DOM.  
+    - [moon](https://github.com/kbrsh/moon) - tiny, functional user interfaces, by kbrsh    
+  - css
+    - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
+    - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
 
  `testing`
   - concept
@@ -261,6 +270,7 @@
   - e2e test
     - [Playwright](https://playwright.dev/) - Support for all browsers
     - [puppeteer](https://github.com/puppeteer/puppeteer) - API to control Chrome. Puppeteer runs headless by default
+    - [headless-recorder](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda) - Chrome extension for recording browser interaction and generating Puppeteer & Playwright scripts
     - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 
  `monitoring`  
@@ -282,6 +292,8 @@
 
  `GraphQL`  
   - [type-graphql](https://github.com/MichalLytek/type-graphql) - use graphQL with typescript
+  - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - by chentsulin
+  - [relay](https://github.com/facebook/relay) - grphQL client, by facebook
 
  `electron`
   - [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
