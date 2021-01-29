@@ -120,6 +120,7 @@
   - [lowdb](https://github.com/typicode/lowdb) - JSON database powered by Lodash
   - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) - online fake REST API 
   - [public-apis](https://github.com/public-apis/public-apis) - public-apis
+  - [msw](https://github.com/mswjs/msw) - API mocking library for browser and Node
 
 `Document`
   - [docsify](https://docsify.js.org/#/) - documentation site generator
@@ -232,9 +233,10 @@
     - [material-ui](https://github.com/mui-org/material-ui)
     - [chakra-ui](https://github.com/chakra-ui/chakra-ui)
     - [react-admin](https://github.com/marmelab/react-admin) - Powered by material-ui, redux, react-final-form, react-route
+  - [next.js](https://github.com/vercel/next.js)
+    - [next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
   - [umi](https://github.com/umijs/umi) - Pluggable enterprise-level react application framework
   - [create-react-app](https://github.com/facebook/create-react-app)  
-  - [next.js](https://github.com/vercel/next.js) - ssr
   - [dva](https://github.com/dvajs/dva) - Lightweight front-end framework based on redux, redux-saga and react-router, 
   - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks. Port of libreact
   - [libreact](https://github.com/streamich/libreact) - Collection of useful React components
@@ -248,6 +250,8 @@
   - [vidact](https://github.com/mohebifar/vidact) - compiler that converts React codes to VanillaJS, similar to Svelte, but unlike Svelte
   - [headlessui](https://github.com/tailwindlabs/headlessui) - unstyled, accessible UI components, integrate  with Tailwind CSS, by tailwind
   - [react-rnd](https://github.com/bokuweb/react-rnd) - resizable and draggable component for React
+  - [hooks](https://github.com/alibaba/hooks) - react hook library by alibaba
+  - [next-i18next](https://github.com/isaachinman/next-i18next) - asiest way to translate your NextJs apps
 
 `React Native`
   - theory
@@ -291,6 +295,9 @@
   - [cropperjs](https://github.com/fengyuanchen/cropperjs) - image cropper, native js
   - [etherpad](https://github.com/ether/etherpad-lite) -  real-time collaborative editor
   - [stencil](https://github.com/ionic-team/stencil) - Web Component compiler for building fast, reusable UI components, by ionic
+  - [sheetjs](https://github.com/SheetJS/sheetjs) - Parser and writer for various spreadsheet formats
+  - [jexcel](https://github.com/jspreadsheet/jexcel) - vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets
+  - [monaco-editor](https://github.com/microsoft/monaco-editor) - browser based code editor
 
  `for study source code`
   - js
@@ -300,6 +307,13 @@
     - [moon](https://github.com/kbrsh/moon) - tiny, functional user interfaces, by kbrsh    
     - [hyperapp](https://github.com/jorgebucaran/hyperapp) - tiny framework for building hypertext applications, by jorgebucaran
     - [polka](https://github.com/lukeed/polka) - Polka is an extremely minimal, highly performant Express.js alternative
+    - [elevator.js](https://github.com/tholman/elevator.js) - back to top behaves like a real elevator
+    - [dom-animator](https://github.com/tholman/dom-animator) - show small ASCII animations within comments in your dom
+    - [snabbdom](https://github.com/snabbdom/snabbdom) - virtual DOM library
+    - [formily](https://github.com/alibaba/formily) - Unified Form Solution by alibaba
+    - [lazysizes](https://github.com/aFarkas/lazysizes) - lazy loader for images
+    - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+    - [monaco-editor](https://github.com/microsoft/monaco-editor) - browser based code editor    
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
@@ -484,6 +498,8 @@
     - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
     - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - by goldbergyoni
     - [amplication](https://github.com/amplication/amplication) - Visual data models, generate code, build with Nest.js and  GraphQL, react Admin UI, swagger
+    - [winston](https://github.com/winstonjs/winston) - nodejs logger
+    - [webdriverio](https://github.com/webdriverio/webdriverio) - browser and mobile automation test framework for Node.js
     
 `deno.js`  
   
@@ -526,6 +542,9 @@
   - [GraalVM](https://www.graalvm.org/) - designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++
     
 ## game  
+`github`  
+  - [phaser](https://github.com/photonstorm/phaser) - HTML5 game framework that offers WebGL and Canvas
+  
 `youtube`  
   - [Unity3dCollege](https://www.youtube.com/c/Unity3dCollege/videos) - unity
   - [Sykoo](https://www.youtube.com/c/Sykoo/videos) - unity
@@ -542,8 +561,10 @@
   - [Hopsonn](https://www.youtube.com/c/Hopsonn/videos)
   - [Gdquest](https://www.youtube.com/c/Gdquest/videos)
   - [Brackeys](https://www.youtube.com/c/Brackeys/videos)
+  
 `misc`  
   - [zenva](https://academy.zenva.com/) - phaser.js
+  
 
 ## inspiration  
 `website`  
@@ -605,6 +626,8 @@
   - [k9s](https://github.com/derailed/k9s) -  terminal UI to interact with your Kubernetes clusters
   - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes
   - [kubernetes for fullstack](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) - by digitalocean
+  - [lens](https://github.com/lensapp/lens) - k8s ide
+  - [lens-extensions](https://github.com/lensapp/lens-extensions)
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
@@ -635,6 +658,7 @@
   - [edex-ui](https://github.com/GitSquared/edex-ui) - fullscreen, cross-platform terminal emulator and system monitor
   - [termshark](https://github.com/gcla/termshark) - terminal user-interface for tshark
   - [ranger](https://github.com/ranger/ranger) - console file manager with VI key bindings
+  - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - list of network web applications hosted, by awesome-selfhosted
 
 `learning resource`  
   - youtube
@@ -683,6 +707,7 @@
   - [hyper](https://github.com/vercel/hyper) - terminal built on electron
   - [verdaccio](https://github.com/verdaccio/verdaccio) - lightweight private proxy registry build in Node.js
   - [cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
+  - [gatsby-simplefolio](https://github.com/cobidev/gatsby-simplefolio) - Gatsby portfolio template
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
