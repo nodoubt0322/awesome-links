@@ -45,6 +45,7 @@
   - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - by yanmcdermott
   
 `misc`
+  - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - set of best practices for JavaScript projects, by elsewhencode
   - [30secondsofcode](https://www.30secondsofcode.org/)
   - [youmightnotneedjquery](http://youmightnotneedjquery.com/)
   - [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - by kettanaito
@@ -82,6 +83,11 @@
 `compiler`
   - babel
     - [babel-handbook](https://github.com/jamiebuilds/babel-handbook) - by jamiebuilds
+    - [swc](https://github.com/swc-project/swc) - uper-fast compiler written in rust
+    - [reason](https://github.com/reasonml/reason) - fp, type safe code that leverages the JavaScript & OCaml ecosystems
+    - [flow](https://github.com/facebook/flow) - by facebook
+    - [purescript](https://github.com/purescript/purescript) - fp style
+    - [elm](https://github.com/elm/compiler) - fp
   
 `git`
   - [gitflow](https://github.com/nvie/gitflow) - git flow command
@@ -168,6 +174,8 @@
     - [frontend interview question](https://github.com/qq449245884/xiaozhi) - by xiaozhi
 
  `concept`
+  - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - by thedaviddias
+  - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - by thedaviddias
   - [frontend ecosystem mind map](https://www.yuque.com/roadup/frontend/slnils)  
   - [瀏覽器原理](https://www.yuque.com/roadup/frontend/io2zp2)  
   - [network](https://www.yuque.com/roadup/frontend/ropvuh)  
@@ -209,6 +217,8 @@
 `React`
   - [react key concept](https://www.yuque.com/roadup/frontend/pgk1ae) - read later
   - state management  
+    - [immer](https://github.com/immerjs/immer) - immutable state by mutating the current one
+    - [unstated-next](https://github.com/jamiebuilds/unstated-next) - by jamiebuilds, babel author
     - [redux](https://github.com/reduxjs/redux) - 2015
     - [MobX](https://github.com/mobxjs/mobx) - 2016 
     - [Context](https://reactjs.org/docs/context.html) - 2018
@@ -229,7 +239,7 @@
   - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks. Port of libreact
   - [libreact](https://github.com/streamich/libreact) - Collection of useful React components
   - [awesome-styleguides](https://github.com/streamich/awesome-styleguides) - About A curated list of UI styleguides, by streamich 
-  - [gatsby](https://github.com/gatsbyjs/gatsby) - 
+  - [gatsby](https://github.com/gatsbyjs/gatsby) - popular
   - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
   - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
   - [swr](https://github.com/vercel/swr) - React Hooks library for remote data fetching
@@ -250,12 +260,10 @@
     - [element-ui](https://github.com/ElemeFE/element) - for vue2  
     - [element-plus](https://github.com/element-plus/element-plus) - for vue3 made by Element team
     - [vuetify](https://github.com/vuetifyjs/vuetify)
+    - [cube-ui](https://github.com/didi/cube-ui) - for mobile
   - SSR
     - Nuxt.js
-    - [Nuxt.js cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf?fbclid=IwAR0YMNKXC8u6Ip6zfNxELHPExCUlBlh3dSsE59hDwM8mp1lTmiKI7a0FWRY)
-  - SSG
-    - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
-    - [vuepress](https://github.com/vuejs/vuepress) - Vue-powered static site generator     
+    - [Nuxt.js cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf?fbclid=IwAR0YMNKXC8u6Ip6zfNxELHPExCUlBlh3dSsE59hDwM8mp1lTmiKI7a0FWRY)     
   - useful plugin
     - [vue-tour](https://github.com/pulsardev/vue-tour) - customizable tour plugin
     - [v-charts](https://github.com/ElemeFE/v-charts) - echart for vue2.0
@@ -328,6 +336,7 @@
   - [visx](https://github.com/airbnb/visx) - collection of low-level visualization primitives for React, by airbnb
 
  `GraphQL`  
+  - [odyssey.apollographql](https://odyssey.apollographql.com/) - official graphql appllo learning platform
   - [type-graphql](https://github.com/MichalLytek/type-graphql) - use graphQL with typescript
   - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - by chentsulin
   - [relay](https://github.com/facebook/relay) - grphQL client, by facebook
@@ -350,13 +359,19 @@
   - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for Three.js (web and react-native)
   
  `animation`
-  - [barbajs](https://github.com/barbajs/barba)  
-  - [motion](https://github.com/framer/motion) - production-ready animation and gesture library for Reac, by farmer
+  - github  
+    - [barbajs](https://github.com/barbajs/barba)  
+    - [motion](https://github.com/framer/motion) - production-ready animation and gesture library for Reac, by farmer
+  - misc
+    - [motiontricks](https://www.motiontricks.com/) - awesome
 
   `app`
    - hybrid
      - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework, by Tencent
-     - [rax](https://github.com/alibaba/rax) - Write Once, Run Anywhere: write one codebase, run with Web, Weex, Node.js, Alibaba MiniApp, WeChat MiniProgram     
+     - [rax](https://github.com/alibaba/rax) - Write Once, Run Anywhere: write one codebase, run with Web, Weex, Node.js, Alibaba MiniApp, WeChat MiniProgram 
+     - [quasar](https://github.com/quasarframework/quasar) - VueJS for SPA, SSR Apps, PWAs, extensions, Hybrid and Electron. using the same codebase!
+     - [ionic](https://github.com/ionic-team/ionic-framework) - cross-platform UI toolkit for native iOS, Android, and PWA with HTML, CSS, and JavaScript
+     - [NativeScript](https://github.com/NativeScript/NativeScript) - access native APIs from JavaScript directly.
    - youtube    
      - [flutterdev](https://www.youtube.com/c/flutterdev/videos) - official, flutter
      - [FilledStacks](https://www.youtube.com/c/FilledStacks/videos)
@@ -448,8 +463,13 @@
   - misc
     - meteor
     - [Blitz](https://blitzjs.com/) - blitzjs built in next.js, prisma2, react query. first commit at Feb, 2020
+    - ssg
+      - [eleventy](https://github.com/11ty/eleventy/)
+      - [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
+      - [vuepress](https://github.com/vuejs/vuepress) - Vue-powered static site generator      
     - jamstack
-      - [redwood.js](https://github.com/redwoodjs/redwood)  
+      - [redwood.js](https://github.com/redwoodjs/redwood)
+      - [gridsome](https://github.com/gridsome/gridsome) - for vuejs
     - [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js
     - [nest](https://github.com/nestjs/nest)
     - [fastify](https://github.com/fastify/fastify)
@@ -471,9 +491,11 @@
   - [CoolShell](https://coolshell.cn/) - 左耳朵耗子blog
   - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
   - [golangresource](https://golangresources.com/) - learning resource
-  - [Go 语言设计与实现](https://draveness.me/golang/) - 
+  - [Go 语言设计与实现](https://draveness.me/golang/) 
   - youtube
     - [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ/videos)
+  - github
+    - [delve](https://github.com/go-delve/delve/) - debugger for the Go
       
 `Java`  
   - github
@@ -650,6 +672,7 @@
   - [record-badass-screencasts-for-egghead-io](https://egghead.io/courses/record-badass-screencasts-for-egghead-io)
   - [fiverr](https://www.fiverr.com/) - freelancer
   - [upwork](https://www.upwork.com/) - freelancer
+  - [hiring-without-whiteboards](https://github.com/elsewhencode/hiring-without-whiteboards) - Companies that don't have a broken hiring process
   - [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   - [gifer](https://gifer.com/en/) - gif search engine
   - [carbon](https://github.com/carbon-app/carbon) - Create code images
