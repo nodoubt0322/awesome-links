@@ -114,6 +114,8 @@
   - react-doc-gen
   
 `API`
+  - [restfulapi](https://restfulapi.net/) - the right definition about restful
+  - [protocol spec](https://www.w3.org/Protocols/rfc2616/rfc2616.txt) - section 9, methods
   - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
   - [mock.js](https://github.com/nuysoft/Mock) - simulation data generator
   - [json-server](https://github.com/typicode/json-server) - fake REST API server
@@ -196,6 +198,7 @@
   - [material-components-web](https://github.com/material-components/material-components-web)
   - [bulma](https://github.com/jgthms/bulma)
   - [whirl](https://github.com/jh3y/whirl) - CSS loading animations
+  - [animate.css](https://github.com/animate-css/animate.css) - cross-browser library of CSS animations
 
  `css in javascript`  
   - [styled-components](https://github.com/styled-components/styled-components)
@@ -297,7 +300,10 @@
   - [stencil](https://github.com/ionic-team/stencil) - Web Component compiler for building fast, reusable UI components, by ionic
   - [sheetjs](https://github.com/SheetJS/sheetjs) - Parser and writer for various spreadsheet formats
   - [jexcel](https://github.com/jspreadsheet/jexcel) - vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets
+  - [handsontable](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look
+  - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - web-based JavaScript（canvas） spreadsheet
   - [monaco-editor](https://github.com/microsoft/monaco-editor) - browser based code editor
+  - [video.js](https://github.com/videojs/video.js) - HTML5 & Flash video player  
 
  `for study source code`
   - js
@@ -314,6 +320,9 @@
     - [lazysizes](https://github.com/aFarkas/lazysizes) - lazy loader for images
     - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
     - [monaco-editor](https://github.com/microsoft/monaco-editor) - browser based code editor    
+    - [outline](https://github.com/outline/outline) - wiki built using React and Node.js.
+    - [wiki](https://github.com/Requarks/wiki) - wiki app built on Node.js
+    - [mdx](https://github.com/mdx-js/mdx) - JSX in Markdown     
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
@@ -469,6 +478,7 @@
 `Rust`  
   - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
   - [在生产中使用 Rust 的著名公司及他们选择 Rust 的理由](https://www.infoq.cn/article/19SAqvrcT5YM3jjBbsc8)
+  - [Rocket](https://github.com/SergioBenitez/Rocket) - web framework for Rust
     
 `Node.js`  
   - headless CMS
@@ -586,6 +596,7 @@
   - [iconfont](https://www.iconfont.cn/) - powered by alibaba, recommended
   - [heroicons](https://heroicons.dev/)
   - [tablericons](https://tablericons.com/)
+  - [tabler-icons](https://github.com/tabler/tabler-icons)
 
 ## AI  
 
