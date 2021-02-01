@@ -600,6 +600,9 @@
 
 ## AI  
 
+`github`  
+  - [tensorflow](https://github.com/tensorflow/tensorflow) - js Machine Learning Framework
+
 `youtube`  
   - [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg/videos)
   - [Jeremy Howard](https://www.youtube.com/user/howardjeremyp/videos)
@@ -719,6 +722,7 @@
   - [verdaccio](https://github.com/verdaccio/verdaccio) - lightweight private proxy registry build in Node.js
   - [cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
   - [gatsby-simplefolio](https://github.com/cobidev/gatsby-simplefolio) - Gatsby portfolio template
+  - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - github profile template, by kautukkundan
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
