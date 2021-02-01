@@ -5,6 +5,7 @@
     - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome) - by xingshaocheng
     - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - by kamranahmedse
     - [system-design-primer](https://github.com/donnemartin/system-design-primer) - design large-scale systems, by donnemartin
+    - [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - by veeral-patel
         
 ## algorithm
  `website`
@@ -150,6 +151,7 @@
 `Monorepo`
   - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - by korfuri
   - [lerna](https://github.com/lerna/lerna) - managing JavaScript projects with multiple packages
+  - [nx](https://github.com/nrwl/nx) - Extensible Dev Tools for Monorepos
 
 `misc`
   - [typescript-cheatsheets](https://github.com/typescript-cheatsheets)
@@ -189,6 +191,7 @@
  `css`  
   - [Tailwindcss](https://github.com/tailwindlabs/tailwindcss) - utility-first CSS
     - [UI devtools](https://ui-devtools.com/)
+    - [tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks, by mertJF
   - Houdini
     - [houdini.how](https://houdini.how/) 
   - [A Complete Guide to Dark Mode](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/) - by css-tricks
@@ -289,6 +292,7 @@
 `Angular`
 
 `js package`
+  - [xstate](https://github.com/davidkpiano/xstate) - finite state machines and statecharts for the modern web, by davidkpiano
   - [sanctuary](https://github.com/sanctuary-js/sanctuary) - fp helper, stricter than Ramda
   - [ramda](https://ramdajs.com/) - fp helper, more popular
   - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance
@@ -313,6 +317,8 @@
   - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript, by niklasvh
   - [stencil](https://github.com/ionic-team/stencil) -  compiler for ssg and pwa Components, by ionic
   - [fullcalendar](https://github.com/fullcalendar/fullcalendar) - drag & drop event calendar, by fullcalendar
+  - [gpu.js](https://github.com/gpujs/gpu.js) - JavaScript Acceleration library for General purpose computing on GPUs in JavaScript for Web and Node
+  - [moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! div , by daybrush
   
  `for study source code`
   - js
@@ -333,11 +339,13 @@
     - [wiki](https://github.com/Requarks/wiki) - wiki app built on Node.js
     - [mdx](https://github.com/mdx-js/mdx) - JSX in Markdown    
     - [flowy](https://github.com/alyssaxuu/flowy) -  library to create flowcharts , by alyssaxuu
+    - [tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
     - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - build stuff with vanillaJS by bradtraversy
     - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - by jamiebuilds
+    - [halfmoon](https://github.com/halfmoonui/halfmoon) - built-in dark mode and full customizability using CSS variables
 
  `testing`
   - concept
@@ -386,10 +394,11 @@
   - [GSAP 2020 showcase](https://vimeo.com/502788725) - Sites list in the description
   - [GSAP 2019 showcase](https://vimeo.com/showcase/7591001/video/370377710) - Sites list in the description
   
- `Three.js`
+ `WebGL`
   - [bruno three.js journey](https://threejs-journey.xyz/) - The ultimate Three.js course
   - [shadertoy](https://www.shadertoy.com/) - shader codepen-like
   - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for Three.js (web and react-native)
+  - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - webgl web rendering engines
   
  `animation`
   - github  
@@ -406,6 +415,7 @@
      - [ionic](https://github.com/ionic-team/ionic-framework) - cross-platform UI toolkit for native iOS, Android, and PWA with HTML, CSS, and JavaScript
      - [NativeScript](https://github.com/NativeScript/NativeScript) - access native APIs from JavaScript directly.
      - [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop electron application, by nativefier
+     - [fiddle](https://github.com/electron/fiddle) - Electron Fiddle lets you create and play with small Electron experiments
    - youtube    
      - [flutterdev](https://www.youtube.com/c/flutterdev/videos) - official, flutter
      - [FilledStacks](https://www.youtube.com/c/FilledStacks/videos)
