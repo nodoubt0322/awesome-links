@@ -61,6 +61,7 @@
 ## toolings
 `typescript`
   - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - high quality TypeScript type definitions
+  - [tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development, by formium
   
 `lint`
   - eslint
@@ -340,6 +341,7 @@
     - [mdx](https://github.com/mdx-js/mdx) - JSX in Markdown    
     - [flowy](https://github.com/alyssaxuu/flowy) -  library to create flowcharts , by alyssaxuu
     - [tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme
+    - [jsQR](https://github.com/cozmo/jsQR) - avascript QR code reading library, by cozmo
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
@@ -604,6 +606,7 @@
     
 ## UI  
 `tools`  
+  - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - by bradtraversy
   - [flinto](https://www.flinto.com/) - create interactive and animated prototypes
   - sketch
   - invision
