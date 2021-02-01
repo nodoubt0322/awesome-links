@@ -72,6 +72,7 @@
 `bundler`
   - [webpack](https://github.com/webpack/webpack)
     - [深入淺出線上版](http://webpack.wuhaolin.cn/)
+    - [webpack-obfuscator](https://github.com/javascript-obfuscator/webpack-obfuscator) - javascript-obfuscator plugin for Webpack    
   - [vite](https://github.com/vitejs/vite) - 
   - [parcel](https://github.com/parcel-bundler/parcel) - dont need config
   - [rollup](https://github.com/rollup/rollup)
@@ -106,7 +107,8 @@
     - [sdras.vue-vscode-extensionpack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack) - collection of Vue extensions by Sdras
     - [Form Generator Plugin](https://marketplace.visualstudio.com/items?itemName=jakHuang.form-generator-plugin) - Element UI可视化表单设计及代码生成器
   - Vim
-  
+    - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - file type icons to Vim plugins, by ryanoasis
+    
 `regex`
   - [ihateregex](https://ihateregex.io/) - match condition and flow chart
     
@@ -255,6 +257,8 @@
   - [react-rnd](https://github.com/bokuweb/react-rnd) - resizable and draggable component for React
   - [hooks](https://github.com/alibaba/hooks) - react hook library by alibaba
   - [next-i18next](https://github.com/isaachinman/next-i18next) - asiest way to translate your NextJs apps
+  - [draft-js](https://github.com/facebook/draft-js) - react text editor framework, by facebook
+  - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 
 `React Native`
   - theory
@@ -304,7 +308,12 @@
   - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - web-based JavaScript（canvas） spreadsheet
   - [monaco-editor](https://github.com/microsoft/monaco-editor) - browser based code editor
   - [video.js](https://github.com/videojs/video.js) - HTML5 & Flash video player  
-
+  - [peerjs](https://github.com/peers/peerjs) - provides API built on top of WebRTC, supporting data channels and media streams.
+  - [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - obfuscator for JavaScript and Node.js
+  - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript, by niklasvh
+  - [stencil](https://github.com/ionic-team/stencil) -  compiler for ssg and pwa Components, by ionic
+  - [fullcalendar](https://github.com/fullcalendar/fullcalendar) - drag & drop event calendar, by fullcalendar
+  
  `for study source code`
   - js
     - [alpine.js](https://github.com/alpinejs/alpine) - Think of it like Tailwind for JavaScript
@@ -322,7 +331,8 @@
     - [monaco-editor](https://github.com/microsoft/monaco-editor) - browser based code editor    
     - [outline](https://github.com/outline/outline) - wiki built using React and Node.js.
     - [wiki](https://github.com/Requarks/wiki) - wiki app built on Node.js
-    - [mdx](https://github.com/mdx-js/mdx) - JSX in Markdown     
+    - [mdx](https://github.com/mdx-js/mdx) - JSX in Markdown    
+    - [flowy](https://github.com/alyssaxuu/flowy) -  library to create flowcharts , by alyssaxuu
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
@@ -395,6 +405,7 @@
      - [quasar](https://github.com/quasarframework/quasar) - VueJS for SPA, SSR Apps, PWAs, extensions, Hybrid and Electron. using the same codebase!
      - [ionic](https://github.com/ionic-team/ionic-framework) - cross-platform UI toolkit for native iOS, Android, and PWA with HTML, CSS, and JavaScript
      - [NativeScript](https://github.com/NativeScript/NativeScript) - access native APIs from JavaScript directly.
+     - [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop electron application, by nativefier
    - youtube    
      - [flutterdev](https://www.youtube.com/c/flutterdev/videos) - official, flutter
      - [FilledStacks](https://www.youtube.com/c/FilledStacks/videos)
@@ -723,6 +734,8 @@
   - [cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
   - [gatsby-simplefolio](https://github.com/cobidev/gatsby-simplefolio) - Gatsby portfolio template
   - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - github profile template, by kautukkundan
+  - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes, by anuraghazra
+  - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources using the RSS feed, by gautamkrishnar
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
