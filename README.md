@@ -326,7 +326,7 @@
   - [gpu.js](https://github.com/gpujs/gpu.js) - JavaScript Acceleration library for General purpose computing on GPUs in JavaScript for Web and Node
   - [moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! div , by daybrush
   - [carbon](https://github.com/carbon-design-system/carbon) - design system built by IBM,  got angular/vue/svelte version
-  - 
+ 
   
  `for study source code`
   - js
@@ -351,6 +351,7 @@
     - [jsQR](https://github.com/cozmo/jsQR) - avascript QR code reading library, by cozmo
     - [umami](https://github.com/mikecao/umami) - website analytics alternative to Google Analytics.
     - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor, by summernote
+    - [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
@@ -361,6 +362,7 @@
  `testing`
   - concept
     - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - by goldbergyoni
+    - [howtheytest](https://github.com/abhivaikar/howtheytest) - A collection how software companies test their software, by abhivaikar
   - unit test
     - jest
   - e2e test
@@ -656,6 +658,7 @@
     - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
   - CouchDB
   - Cassandra
+  - [rxdb](https://github.com/pubkey/rxdb) - realtime Database for JavaScript Applications, by pubkey
 
 `SQL`  
   - PostgreSQL
