@@ -242,11 +242,13 @@
     - [material-ui](https://github.com/mui-org/material-ui)
     - [chakra-ui](https://github.com/chakra-ui/chakra-ui)
     - [react-admin](https://github.com/marmelab/react-admin) - Powered by material-ui, redux, react-final-form, react-route
+    - [ice](https://github.com/alibaba/ice) - The Progressive Framework Based On React, by alibaba    
+    - [umi](https://github.com/umijs/umi) - Pluggable enterprise-level react application framework    
+    - [dva](https://github.com/dvajs/dva) - Lightweight front-end framework based on redux, redux-saga and react-router,     
+    - [primereact](https://github.com/primefaces/primereact) - React UI Component Library, by primefaces
   - [next.js](https://github.com/vercel/next.js)
     - [next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
-  - [umi](https://github.com/umijs/umi) - Pluggable enterprise-level react application framework
   - [create-react-app](https://github.com/facebook/create-react-app)  
-  - [dva](https://github.com/dvajs/dva) - Lightweight front-end framework based on redux, redux-saga and react-router, 
   - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks. Port of libreact
   - [libreact](https://github.com/streamich/libreact) - Collection of useful React components
   - [awesome-styleguides](https://github.com/streamich/awesome-styleguides) - About A curated list of UI styleguides, by streamich 
@@ -276,6 +278,7 @@
     - [element-plus](https://github.com/element-plus/element-plus) - for vue3 made by Element team
     - [vuetify](https://github.com/vuetifyjs/vuetify)
     - [cube-ui](https://github.com/didi/cube-ui) - for mobile
+    - [primevue](https://github.com/primefaces/primevue) - Vue UI Component Library, by primefaces
   - SSR
     - Nuxt.js
     - [Nuxt.js cheatsheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf?fbclid=IwAR0YMNKXC8u6Ip6zfNxELHPExCUlBlh3dSsE59hDwM8mp1lTmiKI7a0FWRY)     
@@ -291,6 +294,8 @@
     
 
 `Angular`
+  - UI framework  
+    - [primeng](https://github.com/primefaces/primeng) - Angular UI Component Library, by primefaces
 
 `js package`
   - [xstate](https://github.com/davidkpiano/xstate) - finite state machines and statecharts for the modern web, by davidkpiano
@@ -320,6 +325,8 @@
   - [fullcalendar](https://github.com/fullcalendar/fullcalendar) - drag & drop event calendar, by fullcalendar
   - [gpu.js](https://github.com/gpujs/gpu.js) - JavaScript Acceleration library for General purpose computing on GPUs in JavaScript for Web and Node
   - [moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! div , by daybrush
+  - [carbon](https://github.com/carbon-design-system/carbon) - design system built by IBM,  got angular/vue/svelte version
+  - 
   
  `for study source code`
   - js
@@ -342,6 +349,8 @@
     - [flowy](https://github.com/alyssaxuu/flowy) -  library to create flowcharts , by alyssaxuu
     - [tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme
     - [jsQR](https://github.com/cozmo/jsQR) - avascript QR code reading library, by cozmo
+    - [umami](https://github.com/mikecao/umami) - website analytics alternative to Google Analytics.
+    - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor, by summernote
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
@@ -658,6 +667,7 @@
 ## Devops  
 `docker`  
   - [Buildah](https://buildah.io/) - tool facilitates building OCI container images
+  - [portainer](https://github.com/portainer/portainer) - Docker and Kubernetes management UI
 
 `Kubernetes`  
   - [k8s playground](https://labs.play-with-k8s.com)
