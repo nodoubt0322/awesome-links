@@ -571,6 +571,8 @@
   - [Yesod](https://www.yesodweb.com/) - Haskell web framework for productive development of type-safe, RESTful api
 
 `python`  
+  - github
+    - [awesome-python](https://github.com/vinta/awesome-python) - list of awesome Python  resources. by vinta
   - youtube
     - [Corey Schafer](https://www.youtube.com/c/Coreyms/videos)
     - [John Philip Jones](https://www.youtube.com/c/johnphilipjones/videos)
@@ -637,6 +639,7 @@
 
 `github`  
   - [tensorflow](https://github.com/tensorflow/tensorflow) - js Machine Learning Framework
+  - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - ist of awesome Machine Learning resource. by josephmisiti
 
 `youtube`  
   - [Yury Kashnitsky](https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg/videos)
