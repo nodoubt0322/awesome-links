@@ -429,6 +429,7 @@
      - [NativeScript](https://github.com/NativeScript/NativeScript) - access native APIs from JavaScript directly.
      - [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop electron application, by nativefier
      - [fiddle](https://github.com/electron/fiddle) - Electron Fiddle lets you create and play with small Electron experiments
+     - [react-nodegui](https://github.com/nodegui/react-nodegui) - Build native and cross-platform desktop applications with React, by nodegui
    - youtube    
      - [flutterdev](https://www.youtube.com/c/flutterdev/videos) - official, flutter
      - [FilledStacks](https://www.youtube.com/c/FilledStacks/videos)
