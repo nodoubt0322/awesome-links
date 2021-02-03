@@ -110,6 +110,8 @@
     - [Form Generator Plugin](https://marketplace.visualstudio.com/items?itemName=jakHuang.form-generator-plugin) - Element UI可视化表单设计及代码生成器
   - Vim
     - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - file type icons to Vim plugins, by ryanoasis
+    - [vim.so](https://www.vim.so/) - help you master vim with interactive exercises.
+    - [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
     
 `regex`
   - [ihateregex](https://ihateregex.io/) - match condition and flow chart
@@ -265,6 +267,7 @@
   - [next-i18next](https://github.com/isaachinman/next-i18next) - asiest way to translate your NextJs apps
   - [draft-js](https://github.com/facebook/draft-js) - react text editor framework, by facebook
   - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+  - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) -  drag and drop for lists with React, by Atlassian
 
 `React Native`
   - theory
@@ -326,7 +329,10 @@
   - [gpu.js](https://github.com/gpujs/gpu.js) - JavaScript Acceleration library for General purpose computing on GPUs in JavaScript for Web and Node
   - [moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! div , by daybrush
   - [carbon](https://github.com/carbon-design-system/carbon) - design system built by IBM,  got angular/vue/svelte version
- 
+  - [eleventy](https://github.com/11ty/eleventy) -  static site generator, by 11ty
+  - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - supports more features and has a better scroll perfermance
+  - [swiper](https://github.com/nolimits4web/swiper) - mobile touch slider with hardware accelerated transitions
+  
   
  `for study source code`
   - js
@@ -352,12 +358,19 @@
     - [umami](https://github.com/mikecao/umami) - website analytics alternative to Google Analytics.
     - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor, by summernote
     - [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
+    - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser, 
+    - [react-pro-sidebar](https://github.com/azouaoui-med/react-pro-sidebar) - Customizable and responsive react sidebar library with dropdown menus
+    - [dayjs](https://github.com/iamkun/dayjs) - 2KB immutable date-time library
+    - [survey-library](https://github.com/surveyjs/survey-library) - Survey and Form Library
+    - [admin-bro](https://github.com/SoftwareBrothers/admin-bro) - admin panel for apps written in node.js
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
     - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - build stuff with vanillaJS by bradtraversy
     - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - by jamiebuilds
     - [halfmoon](https://github.com/halfmoonui/halfmoon) - built-in dark mode and full customizability using CSS variables
+    - [hamburgers](https://github.com/jonsuh/hamburgers) -  CSS-animated Hamburgers, by jonsuh
+    - [Hover](https://github.com/IanLunn/Hover) - collection of CSS3 powered hover effects, by IanLunn
 
  `testing`
   - concept
@@ -545,6 +558,7 @@
     - [amplication](https://github.com/amplication/amplication) - Visual data models, generate code, build with Nest.js and  GraphQL, react Admin UI, swagger
     - [winston](https://github.com/winstonjs/winston) - nodejs logger
     - [webdriverio](https://github.com/webdriverio/webdriverio) - browser and mobile automation test framework for Node.js
+    - [admin-bro](https://github.com/SoftwareBrothers/admin-bro) - admin panel for apps written in node.js
     
 `deno.js`  
   
