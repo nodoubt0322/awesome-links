@@ -561,7 +561,9 @@
     - [webdriverio](https://github.com/webdriverio/webdriverio) - browser and mobile automation test framework for Node.js
     - [admin-bro](https://github.com/SoftwareBrothers/admin-bro) - admin panel for apps written in node.js
     - [brakes](https://github.com/awolden/brakes) - springcloud Hystrix-like JS implementation
+    - [circuit-breaker-js](https://github.com/yammer/circuit-breaker-js) - springcloud Hystrix-like circuit breaker for JavaScript. by yammer
     - [eureka-js-client](https://github.com/jquatier/eureka-js-client) - springcloud Eureka-like JS implementation
+    - [feignjs](https://github.com/feignjs/feignjs) - springcloud feign-like JS implementation
     
 `deno.js`  
   
