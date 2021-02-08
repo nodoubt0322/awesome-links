@@ -564,6 +564,7 @@
     - [circuit-breaker-js](https://github.com/yammer/circuit-breaker-js) - springcloud Hystrix-like circuit breaker for JavaScript. by yammer
     - [eureka-js-client](https://github.com/jquatier/eureka-js-client) - springcloud Eureka-like JS implementation
     - [feignjs](https://github.com/feignjs/feignjs) - springcloud feign-like JS implementation
+    - [nodeclub](https://github.com/cnodejs/nodeclub) - Node.js 和 MongoDB 开发的社区系统
     
 `deno.js`  
   
