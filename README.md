@@ -703,6 +703,7 @@
   - [kubernetes for fullstack](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) - by digitalocean
   - [lens](https://github.com/lensapp/lens) - k8s ide
   - [lens-extensions](https://github.com/lensapp/lens-extensions)
+  - [want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring](https://medium.com/cloudlego/want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring-6eea25e50a69) - medium article by CloudLego
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
