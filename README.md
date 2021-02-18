@@ -175,6 +175,7 @@
   - [Inspector iOS](https://developer.apple.com/library/archive/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
   - [Inspector android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)  
   - [runjs](https://runjs.app/) - Explore and experiment with JavaScript and TypeScript
+  - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) -  CV Made with Vue, by salomonelli
       
 ## Frontend
 `interview`   
@@ -295,6 +296,9 @@
     - [vuejsexamples](https://vuejsexamples.com/) - website built with vues.js
     - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
     - [awesomejs.dev](https://github.com/Akryum/awesomejs.dev) - Find awesome packages for the framework you are using, by Akryum
+    - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - vue + typescript +element-ui admin template, by Armour
+    - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/) - vue + element ui admin template, by PanJiaChen
+    - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) - Vue progressive image loading plugin, by MatteoGabriele
     
 
 `Angular`
@@ -364,6 +368,7 @@
     - [dayjs](https://github.com/iamkun/dayjs) - 2KB immutable date-time library
     - [survey-library](https://github.com/surveyjs/survey-library) - Survey and Form Library
     - [admin-bro](https://github.com/SoftwareBrothers/admin-bro) - admin panel for apps written in node.js
+    - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) - Vue progressive image loading plugin, by MatteoGabriele
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
@@ -530,6 +535,8 @@
   - [Rocket](https://github.com/SergioBenitez/Rocket) - web framework for Rust
     
 `Node.js`  
+  - concept
+    - [the-node-js-architecture](https://medium.com/datadriveninvestor/the-node-js-architecture-f86e2337bcd2) - explain nodejs architecture, by Aditya Channe
   - headless CMS
     - [strapi](https://github.com/strapi/strapi) - headless CMS to build powerful APIs with no effort
     - [keystone](https://github.com/keystonejs/keystone) - headless CMS for Node.js — built with GraphQL and React
