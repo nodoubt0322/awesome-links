@@ -417,6 +417,7 @@
 
  `electron`
   - [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+  - [tauri](https://github.com/tauri-apps/tauri) - electron alternative, made by rust
 
  `rxjs`
   - [presentation from maxwell](https://docs.google.com/presentation/d/1Js18_A0ph2q2LH4KgZtmw7WA4fY3TNYp-N6edVuPLGI/edit#slide=id.g33163b3175_0_45)
