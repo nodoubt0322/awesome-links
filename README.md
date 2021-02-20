@@ -835,4 +835,5 @@
     - [Scaler Academy](https://www.youtube.com/c/ScalerAcademy/videos)
     - [NetworkChuck](https://www.youtube.com/c/NetworkChuck/videos)
     - [More Bits inside by René Rebe](https://www.youtube.com/c/MoreReneRebe/videos)
+    - [jserv](https://www.youtube.com/c/GUTS4tech/videos) - jserv youtube channel
       
