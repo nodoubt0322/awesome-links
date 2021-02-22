@@ -798,6 +798,7 @@
   - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - github profile template, by kautukkundan
   - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes, by anuraghazra
   - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources using the RSS feed, by gautamkrishnar
+  - [cloc](https://github.com/AlDanial/cloc) - counts blank lines, comment lines, and physical lines of source code
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
