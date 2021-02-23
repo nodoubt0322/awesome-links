@@ -839,4 +839,5 @@
     - [NetworkChuck](https://www.youtube.com/c/NetworkChuck/videos)
     - [More Bits inside by René Rebe](https://www.youtube.com/c/MoreReneRebe/videos)
     - [jserv](https://www.youtube.com/c/GUTS4tech/videos) - jserv youtube channel
+    - [javascript the hard part series](https://www.youtube.com/watch?v=ZVXrJ4dnUxM&list=PLWrQZnG8l0E5hMTpzCK8WjP3nJ93jUEyk&index=1&ab_channel=Codesmith) - by codesmith
       
