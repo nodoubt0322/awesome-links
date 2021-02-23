@@ -715,6 +715,7 @@
   - [lens](https://github.com/lensapp/lens) - k8s ide
   - [lens-extensions](https://github.com/lensapp/lens-extensions)
   - [want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring](https://medium.com/cloudlego/want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring-6eea25e50a69) - medium article by CloudLego
+  - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Kubernetes Certified Security Specialist resource
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
@@ -799,6 +800,7 @@
   - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes, by anuraghazra
   - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources using the RSS feed, by gautamkrishnar
   - [cloc](https://github.com/AlDanial/cloc) - counts blank lines, comment lines, and physical lines of source code
+  - [repo in web vscode](https://twitter.com/chriskalmar/status/1363759778858729482?s=20) - replace github to github1s
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
