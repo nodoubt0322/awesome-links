@@ -23,7 +23,7 @@
     - [abrarisme](https://www.youtube.com/c/abrarisme/videos) - interview
   - github
     - [CS-Notes](https://github.com/CyC2018/CS-Notes) - Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++ ,  by CyC2018  
-    - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go) - golang
+    - [LeetCode in Go](https://github.com/halfrost/LeetCode-Go) - by halfrost, really good
     - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - javascript version, by trekhleb
     - [leetcode-with-javascript](https://github.com/zenghongtu/leetcode-with-javascript) - by zenghongtu
     - [Javascript Algorithms](https://github.com/TheAlgorithms/Javascript) - by Algorithms
