@@ -159,6 +159,7 @@
 
 `misc`
   - [typescript-cheatsheets](https://github.com/typescript-cheatsheets)
+  - [jsdelivr](https://www.jsdelivr.com/) - free npm package CDN
   - [polyfill.io](https://polyfill.io/v3/url-builder/) - polyfill-sets. very useful, study sourcecode?
   - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
   - [purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS
