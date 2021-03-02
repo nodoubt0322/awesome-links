@@ -300,7 +300,7 @@
     - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - vue + typescript +element-ui admin template, by Armour
     - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/) - vue + element ui admin template, by PanJiaChen
     - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) - Vue progressive image loading plugin, by MatteoGabriele
-    
+    - [volar](https://github.com/johnsoncodehk/volar) - vue3 support for vscode, by johnsoncodehk, supprted by evan you
 
 `Angular`
   - UI framework  
