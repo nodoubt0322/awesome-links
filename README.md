@@ -802,6 +802,7 @@
   - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources using the RSS feed, by gautamkrishnar
   - [cloc](https://github.com/AlDanial/cloc) - counts blank lines, comment lines, and physical lines of source code
   - [repo in web vscode](https://twitter.com/chriskalmar/status/1363759778858729482?s=20) - replace github to github1s
+  - [史上最爛的開發項目](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/690678/)
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
