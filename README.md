@@ -178,6 +178,7 @@
   - [Inspector android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)  
   - [runjs](https://runjs.app/) - Explore and experiment with JavaScript and TypeScript
   - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) -  CV Made with Vue, by salomonelli
+  - [clone-wars](https://github.com/GorvGoyl/clone-wars) - 70+ open-source clones of popular sites, by GorvGoyl
       
 ## Frontend
 `interview`   
