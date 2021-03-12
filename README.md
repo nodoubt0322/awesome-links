@@ -177,8 +177,6 @@
   - [Inspector iOS](https://developer.apple.com/library/archive/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
   - [Inspector android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging)  
   - [runjs](https://runjs.app/) - Explore and experiment with JavaScript and TypeScript
-  - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) -  CV Made with Vue, by salomonelli
-  - [clone-wars](https://github.com/GorvGoyl/clone-wars) - 70+ open-source clones of popular sites, by GorvGoyl
       
 ## Frontend
 `interview`   
@@ -804,6 +802,9 @@
   - [cloc](https://github.com/AlDanial/cloc) - counts blank lines, comment lines, and physical lines of source code
   - [repo in web vscode](https://twitter.com/chriskalmar/status/1363759778858729482?s=20) - replace github to github1s
   - [史上最爛的開發項目](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/690678/)
+  - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) -  CV Made with Vue, by salomonelli
+  - [clone-wars](https://github.com/GorvGoyl/clone-wars) - 70+ open-source clones of popular sites, by GorvGoyl
+  - [hashnode](https://hashnode.com/) - developer blogging platform
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
