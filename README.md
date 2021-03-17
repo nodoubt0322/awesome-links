@@ -370,6 +370,7 @@
     - [survey-library](https://github.com/surveyjs/survey-library) - Survey and Form Library
     - [admin-bro](https://github.com/SoftwareBrothers/admin-bro) - admin panel for apps written in node.js
     - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) - Vue progressive image loading plugin, by MatteoGabriele
+    - [vhr](https://github.com/lenve/vhr) - 前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
