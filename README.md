@@ -813,6 +813,7 @@
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
   - [Mos](https://github.com/Caldis/Mos) - smooth scrolling and set scroll direction independently for your mouse on MacOS
   - [jetbrain serial](https://juejin.cn/post/6854573215931924488)
+  - [miro](https://miro.com/) - The online collaborative whiteboard platform
   - infographic
     - [visme](https://www.visme.co/) 
     - [infogram](https://infogram.com/) - got better chart
