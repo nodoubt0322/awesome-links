@@ -210,6 +210,7 @@
   - [bulma](https://github.com/jgthms/bulma)
   - [whirl](https://github.com/jh3y/whirl) - CSS loading animations
   - [animate.css](https://github.com/animate-css/animate.css) - cross-browser library of CSS animations
+  - [windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework
 
  `css in javascript`  
   - [styled-components](https://github.com/styled-components/styled-components)
@@ -699,6 +700,7 @@
 `SQL`  
   - PostgreSQL
     - [realtime](https://github.com/supabase/realtime) - PostgreSQL database in realtime via websockets, by supabase
+    - [postgres observability](https://pgstats.dev/)
 
 `Misc`
   - [supabase](https://github.com/supabase/supabase) - open source Firebase alternative. using enterprise-grade open source tools. early stage back by mozilla
