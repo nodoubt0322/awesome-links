@@ -373,6 +373,7 @@
     - [admin-bro](https://github.com/SoftwareBrothers/admin-bro) - admin panel for apps written in node.js
     - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) - Vue progressive image loading plugin, by MatteoGabriele
     - [vhr](https://github.com/lenve/vhr) - 前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+    - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - music program built with election, by lyswhut
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
@@ -722,6 +723,8 @@
   - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Kubernetes Certified Security Specialist resource
   - [k8siuse](https://k8siuse.com/) - k8s caniuse version
   - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts
+  - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - development container definitions for the VS Code Remot
+  - [helm-best-practices](https://codefresh.io/docs/docs/new-helm/helm-best-practices/)
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
