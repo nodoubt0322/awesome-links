@@ -720,6 +720,8 @@
   - [lens-extensions](https://github.com/lensapp/lens-extensions)
   - [want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring](https://medium.com/cloudlego/want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring-6eea25e50a69) - medium article by CloudLego
   - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Kubernetes Certified Security Specialist resource
+  - [k8siuse](https://k8siuse.com/) - k8s caniuse version
+  - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
