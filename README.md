@@ -725,6 +725,7 @@
   - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts
   - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - development container definitions for the VS Code Remot
   - [helm-best-practices](https://codefresh.io/docs/docs/new-helm/helm-best-practices/)
+  - [codefresh](https://codefresh.io/) - automation platform for Kubernetes apps
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
