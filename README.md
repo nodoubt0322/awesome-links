@@ -211,6 +211,7 @@
   - [whirl](https://github.com/jh3y/whirl) - CSS loading animations
   - [animate.css](https://github.com/animate-css/animate.css) - cross-browser library of CSS animations
   - [windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework
+  - [chartscss](https://chartscss.org/) -  CSS framework for data visualization
 
  `css in javascript`  
   - [styled-components](https://github.com/styled-components/styled-components)
