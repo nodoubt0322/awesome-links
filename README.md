@@ -687,8 +687,6 @@
     
 ## database  
 `NoSQL`  
-  - PostgreSQL
-    - [pg-sql.com](https://pg-sql.com/) - playground
   - HarperDB
     - [HarperDB vs MongoDB](https://harperdb.io/harperdb-vs-mongodb/) - 37.9 times faster than mongodb on average
   - Prisma
@@ -705,7 +703,7 @@
   - PostgreSQL
     - [realtime](https://github.com/supabase/realtime) - PostgreSQL database in realtime via websockets, by supabase
     - [postgres observability](https://pgstats.dev/)
-
+    - [pg-sql.com](https://pg-sql.com/) - playground
 `Misc`
   - [supabase](https://github.com/supabase/supabase) - open source Firebase alternative. using enterprise-grade open source tools. early stage back by mozilla
   
