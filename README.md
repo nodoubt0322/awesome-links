@@ -303,6 +303,8 @@
     - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/) - vue + element ui admin template, by PanJiaChen
     - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) - Vue progressive image loading plugin, by MatteoGabriele
     - [volar](https://github.com/johnsoncodehk/volar) - vue3 support for vscode, by johnsoncodehk, supprted by evan you
+    - [madewithvuejs](https://madewithvuejs.com/) - project made with vue.js
+    - [jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql, by Datlyfe
 
 `Angular`
   - UI framework  
