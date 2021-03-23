@@ -157,6 +157,9 @@
   - [lerna](https://github.com/lerna/lerna) - managing JavaScript projects with multiple packages
   - [nx](https://github.com/nrwl/nx) - Extensible Dev Tools for Monorepos
 
+`Boilerplate`
+  - [fes.js](https://github.com/WeBankFinTech/fes.js) - 中后台前端解决方案, by WeBankFinTech
+
 `misc`
   - [typescript-cheatsheets](https://github.com/typescript-cheatsheets)
   - [jsdelivr](https://www.jsdelivr.com/) - free npm package CDN
