@@ -732,6 +732,7 @@
   - [helm-best-practices](https://codefresh.io/docs/docs/new-helm/helm-best-practices/)
   - [codefresh](https://codefresh.io/) - automation platform for Kubernetes apps
   - [rancher](https://rancher.com/) - Platform for Kubernetes Management
+  - [100​ Days Of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV) - by Anais Urlichs
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
