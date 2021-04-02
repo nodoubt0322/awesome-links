@@ -167,6 +167,7 @@
   - [ecmascript compatibility table](http://kangax.github.io/compat-table/es6/)
   - [purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS
   - [n](https://github.com/tj/n) - Node version management by tj
+  - [nvs](https://github.com/jasongin/nvs) - node version switcher for windows
   - [serve](https://github.com/vercel/serve) - by vercel and name credit by TJ 
   - [ngrok](https://ngrok.com/) - tunnel
   - [JAVASCRIPT AST VISUALIZER](https://resources.jointjs.com/demos/javascript-ast) - by jointjs
@@ -585,7 +586,6 @@
     - [nodeclub](https://github.com/cnodejs/nodeclub) - Node.js 和 MongoDB 开发的社区系统
     - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - team communications Solution, built by meteor.js
     - [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - fluent API to FFMPEG
-    - [nvs](https://github.com/jasongin/nvs) - node version switcher for windows
     
 `deno.js`  
   
