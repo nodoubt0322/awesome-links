@@ -823,6 +823,7 @@
   - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) -  CV Made with Vue, by salomonelli
   - [clone-wars](https://github.com/GorvGoyl/clone-wars) - 70+ open-source clones of popular sites, by GorvGoyl
   - [hashnode](https://hashnode.com/) - developer blogging platform
+  - [recommended-books](https://github.com/woai3c/recommended-books) - 電子書, at github by woai3c
 
 `misc`  
   - [needtomeet](https://www.needtomeet.com/) - Find a time that works for everyone
