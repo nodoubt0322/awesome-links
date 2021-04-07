@@ -595,6 +595,7 @@
   - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
   - [golangresource](https://golangresources.com/) - learning resource
   - [Go 语言设计与实现](https://draveness.me/golang/) 
+  - [goreman](https://github.com/mattn/goreman) - 多进程管理工具, foreman clone written in go language
   - youtube
     - [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ/videos)
   - github
