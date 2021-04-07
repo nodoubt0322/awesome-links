@@ -388,6 +388,7 @@
     - [halfmoon](https://github.com/halfmoonui/halfmoon) - built-in dark mode and full customizability using CSS variables
     - [hamburgers](https://github.com/jonsuh/hamburgers) -  CSS-animated Hamburgers, by jonsuh
     - [Hover](https://github.com/IanLunn/Hover) - collection of CSS3 powered hover effects, by IanLunn
+    - [cssbattle](https://cssbattle.dev/) - css leetcode
 
  `testing`
   - concept
