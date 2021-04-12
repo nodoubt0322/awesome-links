@@ -382,6 +382,7 @@
     - [vhr](https://github.com/lenve/vhr) - 前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
     - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - music program built with election, by lyswhut
     - [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) - you dont need series (lodash, jquery etc...)
+    - [pinia](https://pinia.esm.dev/) - Vue Store alternative
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
