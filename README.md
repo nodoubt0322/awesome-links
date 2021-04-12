@@ -298,6 +298,7 @@
     - [vue-tour](https://github.com/pulsardev/vue-tour) - customizable tour plugin
     - [v-charts](https://github.com/ElemeFE/v-charts) - echart for vue2.0
   - misc      
+    - [pinia](https://pinia.esm.dev/) - Vue Store alternative
     - [Vueuse](https://vueuse.js.org/) - Collection of essential Vue Composition Utilities
     - [VueTelescope](https://vuetelescope.com/explore) - Discover websites made with vue
     - [vuejsexamples](https://vuejsexamples.com/) - website built with vues.js
