@@ -383,7 +383,7 @@
     - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - music program built with election, by lyswhut
     - [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) - you dont need series (lodash, jquery etc...)
     - [pinia](https://pinia.esm.dev/) - Vue Store alternative
-    - [es6 ~ ](https://www.readfog.com/a/1632742674251485184?fbclid=IwAR037kRPiNFVfiTkSKJiM0GGnKKWOX1q7RWJtgTjHMbWds2meciyMJr6NY0)
+    - [es6 ~ es12](https://www.readfog.com/a/1632742674251485184?fbclid=IwAR037kRPiNFVfiTkSKJiM0GGnKKWOX1q7RWJtgTjHMbWds2meciyMJr6NY0)
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
