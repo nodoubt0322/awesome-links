@@ -347,8 +347,8 @@
   - [eleventy](https://github.com/11ty/eleventy) -  static site generator, by 11ty
   - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - supports more features and has a better scroll perfermance
   - [swiper](https://github.com/nolimits4web/swiper) - mobile touch slider with hardware accelerated transitions
-  
-  
+  - [aos](https://github.com/michalsnik/aos) - Animate on scroll library
+    
  `for study source code`
   - js
     - [alpine.js](https://github.com/alpinejs/alpine) - Think of it like Tailwind for JavaScript
