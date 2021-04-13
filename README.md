@@ -429,6 +429,7 @@
   - [type-graphql](https://github.com/MichalLytek/type-graphql) - use graphQL with typescript
   - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - by chentsulin
   - [relay](https://github.com/facebook/relay) - grphQL client, by facebook
+  - [fauna](https://fauna.com/) - Fauna is a flexible, developer-friendly, transactional database available as a secure, cloud API with native GraphQL.
 
  `electron`
   - [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
