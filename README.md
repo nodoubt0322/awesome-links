@@ -769,7 +769,11 @@
   - [drone CI](https://www.drone.io/) - container base
   - [zenhub](https://www.zenhub.com/) - better way to manage github but charged
   - [danger-js](https://github.com/danger/danger-js) - Danger runs after your CI, automating your team's conventions surrounding code review
+   
 
+`issue tracker`
+  - [linear](https://linear.app/) - The issue tracking tool you'll enjoy using
+  
 `code quality`  
   - [phabricator](https://github.com/phacility/phabricator) - code review, repository hosting, bug tracking, project management
   - [gerrit](https://www.gerritcodereview.com/) - Code Review
