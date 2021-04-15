@@ -748,6 +748,7 @@
   - [cilium](https://editor.cilium.io/) -  visualise and practice k8s Network policies
   - [CKA-StudyGuide](https://github.com/David-VTUK/CKA-StudyGuide) - by David-VTUK
   - [artifacthub](https://artifacthub.io/) - Artifact Hub is a web-based application that enables finding, and publishing packages and configurations for CNCF projects
+  - [kubernetes-overview-diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html) - 
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
