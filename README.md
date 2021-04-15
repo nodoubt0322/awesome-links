@@ -785,6 +785,7 @@
   - [termshark](https://github.com/gcla/termshark) - terminal user-interface for tshark
   - [ranger](https://github.com/ranger/ranger) - console file manager with VI key bindings
   - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - list of network web applications hosted, by awesome-selfhosted
+  - [gitui](https://github.com/extrawurst/gitui) -  terminal-ui for git written in rust
 
 `learning resource`  
   - youtube
