@@ -820,6 +820,7 @@
   
 ## other
 `coding relad`  
+  - [how-to-create-a-kickass-github-profile-page](https://catalins.tech/how-to-create-a-kickass-github-profile-page)
   - [risingstars.js](https://risingstars.js.org/2020/en)
   - [moiva](https://moiva.io/) - Measure and compare JavaScript libraries
   - [github search](https://github.com/search/advanced)    
