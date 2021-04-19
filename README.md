@@ -613,6 +613,7 @@
     - [java学习+面试指南](https://github.com/Snailclimb/JavaGuide) - by Snailclimb
     - [Effective Java v3](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - 中譯, by clxering
     - [On Java 8](https://github.com/LingCoder/OnJava8) - 中文, by LingCoder
+    - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) - by YunaiV, Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、MQ
   - misc
     - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
     - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
