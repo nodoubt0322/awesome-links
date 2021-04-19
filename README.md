@@ -161,6 +161,7 @@
   - [fes.js](https://github.com/WeBankFinTech/fes.js) - 中后台前端解决方案, by WeBankFinTech
 
 `misc`
+  - [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - by carloscuesta, interactive command line tool for using emojis on git commits
   - [typescript-cheatsheets](https://github.com/typescript-cheatsheets)
   - [jsdelivr](https://www.jsdelivr.com/) - free npm package CDN
   - [polyfill.io](https://polyfill.io/v3/url-builder/) - polyfill-sets. very useful, study sourcecode?
@@ -552,6 +553,7 @@
   - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
   - [在生产中使用 Rust 的著名公司及他们选择 Rust 的理由](https://www.infoq.cn/article/19SAqvrcT5YM3jjBbsc8)
   - [Rocket](https://github.com/SergioBenitez/Rocket) - web framework for Rust
+  - [crates.io](https://crates.io/) - Rust community’s crate registry
     
 `Node.js`  
   - concept
