@@ -769,6 +769,11 @@
   - [artifacthub](https://artifacthub.io/) - Artifact Hub is a web-based application that enables finding, and publishing packages and configurations for CNCF projects
   - [kubernetes-overview-diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html) - 
 
+`chaos engineering`
+  - [chaos-engineering-the-history-principles-and-practice](https://www.infoq.cn/article/chaos-engineering-the-history-principles-and-practice)
+  - [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - by dastergon, A curated list of Chaos Engineering
+  - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - resiliency tool that helps applications tolerate random instance failures
+
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
 
