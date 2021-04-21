@@ -719,7 +719,11 @@
   - Prisma
     - [why prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/is-prisma-an-orm) - more control and productive
   - Redis
-    - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
+    - codis
+      - [codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution
+      - [4000余字为你讲透Codis内部工作原理](https://segmentfault.com/a/1190000021361786) - 
+    - misc
+      - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
   - CouchDB
   - Cassandra
   - [rxdb](https://github.com/pubkey/rxdb) - realtime Database for JavaScript Applications, by pubkey
