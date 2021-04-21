@@ -550,6 +550,15 @@
      - [bxjs weekly](https://www.youtube.com/c/TimErmilov/videos) - js news
 
 ## Backend
+`broker`  
+  - rabbitMQ
+  - kafka
+    - [node-rdkafka](https://github.com/Blizzard/node-rdkafka) - nodejs client for kafka, by blizzard
+  - activeMQ
+  - rocketMQ
+
+
+
 `Rust`  
   - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
   - [在生产中使用 Rust 的著名公司及他们选择 Rust 的理由](https://www.infoq.cn/article/19SAqvrcT5YM3jjBbsc8)
