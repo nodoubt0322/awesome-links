@@ -687,6 +687,7 @@
   - sketch
   - invision
   - [figma](https://www.figma.com/) - most popular at 2021
+  - [figjam](https://www.figma.com/figjam/) - whiteboard for team
   - AdobeXD
   - [photopea](https://www.photopea.com/) - online photo editor
   - [sketch.land](http://sketch.land/) - sketch plugin resource
