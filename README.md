@@ -628,6 +628,7 @@
     - [On Java 8](https://github.com/LingCoder/OnJava8) - 中文, by LingCoder
     - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) - by YunaiV, Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、MQ
   - misc
+    - [sa-token](https://github.com/dromara/sa-token) - by dromara, 史上功能最全的Java权限认证框架
     - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
     - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
 
