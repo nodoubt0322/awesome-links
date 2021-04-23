@@ -814,6 +814,7 @@
   - [ranger](https://github.com/ranger/ranger) - console file manager with VI key bindings
   - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - list of network web applications hosted, by awesome-selfhosted
   - [gitui](https://github.com/extrawurst/gitui) -  terminal-ui for git written in rust
+  - [nnn](https://github.com/jarun/nnn) - by jarun, terminal file manager
 
 `learning resource`  
   - youtube
