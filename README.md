@@ -194,6 +194,7 @@
     - [frontend interview question](https://github.com/qq449245884/xiaozhi) - by xiaozhi
 
  `concept`
+  - [尤雨溪 - 在框架设计中寻求平衡 | JSConf.Asia 2019](https://www.bilibili.com/video/av80042358?from=search&seid=17425026665332701435) - 甘貨滿滿
   - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - by thedaviddias
   - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - by thedaviddias
   - [frontend ecosystem mind map](https://www.yuque.com/roadup/frontend/slnils)  
