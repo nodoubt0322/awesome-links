@@ -57,7 +57,7 @@
 ## learning sourcecode
   - [若川 blog](https://lxchuan12.gitee.io/) - jquery, sentry, lodash, koa, vuex, underscore, recommended
   - [冴羽](https://github.com/mqyqingfeng/) - JavaScript深入系列、JavaScript专题系列、ES6系列、React系列
-  - [lq782655835 blog](https://lq782655835.github.io/blogs/) - really good
+  - [springleo's blog](https://lq782655835.github.io/blogs/) - 蠻多乾貨的
 
 ## toolings
 `typescript`
