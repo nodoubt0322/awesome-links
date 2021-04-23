@@ -94,6 +94,7 @@
     - [elm](https://github.com/elm/compiler) - fp
   
 `git`
+  - [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - by carloscuesta, interactive command line tool for using emojis on git commits
   - [gitflow](https://github.com/nvie/gitflow) - git flow command
   - [introduction to Git Flow](https://vimeo.com/16018419) - video by Mark Derricutt
   - [husky](https://github.com/typicode/husky) - Git hooks
@@ -162,7 +163,6 @@
   - [fes.js](https://github.com/WeBankFinTech/fes.js) - 中后台前端解决方案, by WeBankFinTech
 
 `misc`
-  - [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - by carloscuesta, interactive command line tool for using emojis on git commits
   - [typescript-cheatsheets](https://github.com/typescript-cheatsheets)
   - [jsdelivr](https://www.jsdelivr.com/) - free npm package CDN
   - [polyfill.io](https://polyfill.io/v3/url-builder/) - polyfill-sets. very useful, study sourcecode?
