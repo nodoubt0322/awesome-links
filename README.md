@@ -6,6 +6,8 @@
     - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - by kamranahmedse
     - [system-design-primer](https://github.com/donnemartin/system-design-primer) - design large-scale systems, by donnemartin
     - [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - by veeral-patel
+  - misc
+    - [grokking-the-system-design-interview](https://www.educative.io/courses/grokking-the-system-design-interview/) - educative.io course
         
 ## algorithm
  `website`
