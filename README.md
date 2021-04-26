@@ -284,6 +284,7 @@
   - [draft-js](https://github.com/facebook/draft-js) - react text editor framework, by facebook
   - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
   - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) -  drag and drop for lists with React, by Atlassian
+  - [formik](https://github.com/formium/formik) - form validation in react, by formium
 
 `React Native`
   - theory
