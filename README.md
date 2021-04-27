@@ -774,7 +774,8 @@
   - [cilium](https://editor.cilium.io/) -  visualise and practice k8s Network policies
   - [CKA-StudyGuide](https://github.com/David-VTUK/CKA-StudyGuide) - by David-VTUK
   - [artifacthub](https://artifacthub.io/) - Artifact Hub is a web-based application that enables finding, and publishing packages and configurations for CNCF projects
-  - [kubernetes-overview-diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html) - 
+  - [kubernetes-overview-diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
+  - [kubeacademy](https://kube.academy/) - from vmware, learning k8s (vod)
 
 `chaos engineering`
   - [chaos-engineering-the-history-principles-and-practice](https://www.infoq.cn/article/chaos-engineering-the-history-principles-and-practice)
