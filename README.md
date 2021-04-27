@@ -757,6 +757,7 @@
 `Kubernetes`  
   - [k8s playground](https://labs.play-with-k8s.com)
   - [k9s](https://github.com/derailed/k9s) -  terminal UI to interact with your Kubernetes clusters
+  - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
   - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes
   - [kubernetes for fullstack](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) - by digitalocean
   - [lens](https://github.com/lensapp/lens) - k8s ide
