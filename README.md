@@ -139,7 +139,8 @@
   - [docusaurus](https://github.com/facebook/docusaurus) - by facebook
 
 `collaboration`
-  - [飛書](https://www.feishu.cn/) - really strong service by bytedance
+  - [飛書](https://www.feishu.cn/) - really strong service by bytedance, 需要中國電話去註冊
+  - [larksuite](https://www.larksuite.com/) - 飛書國際版
 
 `sandbox`  
   - [codesandbox](https://codesandbox.io/) - support react, vue, angular etc.., best so far
