@@ -760,8 +760,15 @@
   - [podman](https://github.com/containers/podman) - managing OCI containers and pods
 
 `Kubernetes`  
-  - [k8s playground](https://labs.play-with-k8s.com)
-  - [kind](https://kind.sigs.k8s.io/) -  tool for running local Kubernetes clusters using Docker container “nodes”
+  - tools
+    - [kind](https://kind.sigs.k8s.io/) -  tool for running local Kubernetes clusters using Docker container “nodes”
+    - [rancher](https://rancher.com/) - Platform for Kubernetes Management
+    - [helm](https://github.com/helm/helm) - Kubernetes Package Manager
+    - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
+    - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+
+  - misc
+  - [k8s playground](https://labs.play-with-k8s.com)  
   - [k9s](https://github.com/derailed/k9s) -  terminal UI to interact with your Kubernetes clusters
   - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
   - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes
@@ -775,7 +782,7 @@
   - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - development container definitions for the VS Code Remot
   - [helm-best-practices](https://codefresh.io/docs/docs/new-helm/helm-best-practices/)
   - [codefresh](https://codefresh.io/) - automation platform for Kubernetes apps
-  - [rancher](https://rancher.com/) - Platform for Kubernetes Management
+  
   - [100​ Days Of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV) - by Anais Urlichs
   - [cloud code](https://cloud.google.com/code?hl=zh-tw) - 在vscode中設定k8s
   - [cilium](https://editor.cilium.io/) -  visualise and practice k8s Network policies
