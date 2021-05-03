@@ -419,6 +419,7 @@
   - [前端监控方案](https://www.yuque.com/roadup/frontend/bk4ewd)
   - [sentry](https://github.com/getsentry/sentry) - cross-platform application monitoring, with a focus on error reporting.
   - [sentry onpremise](https://github.com/getsentry/onpremise) - self-host with docker-compose
+  - [firebase crashlytics](https://firebase.google.com/products/crashlytics) - a real time crash reporting tool,  integrates into your Android, iOS apps.
 
  `performance`  
   - [前端性能優化](https://www.yuque.com/roadup/frontend/ropvuh)
