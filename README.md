@@ -771,6 +771,7 @@
 
   - misc
   - [k8s playground](https://labs.play-with-k8s.com)  
+  - [o'reilly kubernetes](https://www.katacoda.com/courses/kubernetes) - Interactive Browser-Based learning kubernetes , by o'reilly 
   - [k9s](https://github.com/derailed/k9s) -  terminal UI to interact with your Kubernetes clusters
   - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
   - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes
