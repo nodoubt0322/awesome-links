@@ -763,6 +763,7 @@
 `Kubernetes`  
   - tools
     - [kind](https://kind.sigs.k8s.io/) -  tool for running local Kubernetes clusters using Docker container “nodes”
+    - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally, by kubernetes
     - [rancher](https://rancher.com/) - Platform for Kubernetes Management
     - [helm](https://github.com/helm/helm) - Kubernetes Package Manager
     - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
