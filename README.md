@@ -762,6 +762,7 @@
 
 `Kubernetes`  
   - tools
+    - [kubeadm](https://github.com/kubernetes/kubeadm) - tool built to provide best-practice "fast paths" for creating Kubernetes clusters
     - [kind](https://kind.sigs.k8s.io/) -  tool for running local Kubernetes clusters using Docker container “nodes”
     - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally, by kubernetes
     - [rancher](https://rancher.com/) - Platform for Kubernetes Management
@@ -770,7 +771,7 @@
     - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 
   - misc
-  - [k8s playground](https://labs.play-with-k8s.com)  
+  - [k8s playground](https://labs.play-with-k8s.com)
   - [o'reilly kubernetes](https://www.katacoda.com/courses/kubernetes) - Interactive Browser-Based learning kubernetes , by o'reilly 
   - [k9s](https://github.com/derailed/k9s) -  terminal UI to interact with your Kubernetes clusters
   - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
