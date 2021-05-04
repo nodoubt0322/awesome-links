@@ -736,6 +736,8 @@
       - [cachecloud](https://github.com/sohutv/cachecloud) - Redis云管理平台, 支持Standalone、Sentinel、Cluster架構
   - CouchDB
   - Cassandra
+  - [Hbase](https://github.com/apache/hbase)
+  - [neo4j](https://github.com/neo4j/neo4j) - Graph Database
   - [rxdb](https://github.com/pubkey/rxdb) - realtime Database for JavaScript Applications, by pubkey
   - Mongodb
     - [MongoDB Certification Study Guide / MongoDB 認證指南 重點整理（上）](https://askstw.medium.com/mongodb-study-guide-mongodb-%E5%82%99%E8%80%83-%E8%A6%81%E9%BB%9E-%E4%B8%8A-6cd3259a6bbf) 
