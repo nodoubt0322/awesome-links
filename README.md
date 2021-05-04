@@ -12,7 +12,6 @@
 ## algorithm
  `website`
   - [hackerrank](https://www.hackerrank.com/)
-  
 `learning resource`
   - youtube
     - [CS Dojo](https://www.youtube.com/c/CSDojo/videos)
@@ -773,30 +772,35 @@
     - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 
   - misc
-  - [k8s playground](https://labs.play-with-k8s.com)
-  - [o'reilly kubernetes](https://www.katacoda.com/courses/kubernetes) - Interactive Browser-Based learning kubernetes , by o'reilly 
-  - [k9s](https://github.com/derailed/k9s) -  terminal UI to interact with your Kubernetes clusters
-  - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-  - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes
-  - [kubernetes for fullstack](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) - by digitalocean
-  - [lens](https://github.com/lensapp/lens) - k8s ide
-  - [lens-extensions](https://github.com/lensapp/lens-extensions)
-  - [want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring](https://medium.com/cloudlego/want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring-6eea25e50a69) - medium article by CloudLego
-  - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Kubernetes Certified Security Specialist resource
-  - [k8siuse](https://k8siuse.com/) - k8s caniuse version
-  - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts
-  - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - development container definitions for the VS Code Remot
-  - [helm-best-practices](https://codefresh.io/docs/docs/new-helm/helm-best-practices/)
-  - [codefresh](https://codefresh.io/) - automation platform for Kubernetes apps
-  
-  - [100​ Days Of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV) - by Anais Urlichs
-  - [cloud code](https://cloud.google.com/code?hl=zh-tw) - 在vscode中設定k8s
-  - [cilium](https://editor.cilium.io/) -  visualise and practice k8s Network policies
-  - [CKA-StudyGuide](https://github.com/David-VTUK/CKA-StudyGuide) - by David-VTUK
-  - [artifacthub](https://artifacthub.io/) - Artifact Hub is a web-based application that enables finding, and publishing packages and configurations for CNCF projects
-  - [kubernetes-overview-diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
-  - [kubeacademy](https://kube.academy/) - from vmware, learning k8s (vod)
-  - [Kubernetes-Learning-Resources](https://github.com/kubernauts/Kubernetes-Learning-Resources) - by kubernauts
+    - [k8s playground](https://labs.play-with-k8s.com)
+    - [o'reilly kubernetes](https://www.katacoda.com/courses/kubernetes) - Interactive Browser-Based learning kubernetes , by o'reilly 
+    - [k9s](https://github.com/derailed/k9s) -  terminal UI to interact with your Kubernetes clusters
+    - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
+    - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes
+    - [kubernetes for fullstack](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) - by digitalocean
+    - [lens](https://github.com/lensapp/lens) - k8s ide
+    - [lens-extensions](https://github.com/lensapp/lens-extensions)
+    - [want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring](https://medium.com/cloudlego/want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring-6eea25e50a69) - medium article by CloudLego
+    - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Kubernetes Certified Security Specialist resource
+    - [k8siuse](https://k8siuse.com/) - k8s caniuse version
+    - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts
+    - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - development container definitions for the VS Code Remot
+    - [helm-best-practices](https://codefresh.io/docs/docs/new-helm/helm-best-practices/)
+    - [codefresh](https://codefresh.io/) - automation platform for Kubernetes apps
+
+    - [100​ Days Of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV) - by Anais Urlichs
+    - [cloud code](https://cloud.google.com/code?hl=zh-tw) - 在vscode中設定k8s
+    - [cilium](https://editor.cilium.io/) -  visualise and practice k8s Network policies
+    - [CKA-StudyGuide](https://github.com/David-VTUK/CKA-StudyGuide) - by David-VTUK
+    - [artifacthub](https://artifacthub.io/) - Artifact Hub is a web-based application that enables finding, and publishing packages and configurations for CNCF projects
+    - [kubernetes-overview-diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
+    - [kubeacademy](https://kube.academy/) - from vmware, learning k8s (vod)
+    - [Kubernetes-Learning-Resources](https://github.com/kubernauts/Kubernetes-Learning-Resources) - by kubernauts
+
+`tracing system`
+    - [zipkin](https://github.com/openzipkin/zipkin) - distributed tracing system
+    - [Sleuth 链路追踪 Zipkin界面分析](https://www.youtube.com/watch?v=4bMKAodps1c) - 電商案例, by尚硅谷IT培训学校
+    - [jaeger](https://github.com/jaegertracing/jaeger) - Distributed Tracing Platform, by cncf
 
 `chaos engineering`
   - [chaos-engineering-the-history-principles-and-practice](https://www.infoq.cn/article/chaos-engineering-the-history-principles-and-practice)
