@@ -798,6 +798,7 @@
     - [kubernetes-overview-diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
     - [kubeacademy](https://kube.academy/) - from vmware, learning k8s (vod)
     - [Kubernetes-Learning-Resources](https://github.com/kubernauts/Kubernetes-Learning-Resources) - by kubernauts
+    - [Civo Kubernetes](https://www.civo.com/) - Kubernetes provider
 
 `tracing system`
     - [zipkin](https://github.com/openzipkin/zipkin) - distributed tracing system
@@ -838,6 +839,7 @@
   - [gerrit](https://www.gerritcodereview.com/) - Code Review
 
 `misc`  
+  - [sosumi](https://github.com/popey/sosumi-snap) - Download and install macOS in a VM”. It works on Ubuntu, Fedora, Debian
   - [rocky](https://github.com/rocky-linux/rocky) - replace centos , centos8 only supported till 2021/12/31
   - [gotop](https://github.com/xxxserxxx/gotop) - terminal based graphical activity monitor written in Go
   - [edex-ui](https://github.com/GitSquared/edex-ui) - fullscreen, cross-platform terminal emulator and system monitor
