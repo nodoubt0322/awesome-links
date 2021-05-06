@@ -61,6 +61,10 @@
   - [springleo's blog](https://lq782655835.github.io/blogs/) - 蠻多乾貨的
 
 ## toolings
+`github readme`
+  - [Awesome GitHub Profile READMEs](https://awesomegithubprofile.tech/)
+  - [readme-a-makeover-story](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de) - tutorial
+
 `typescript`
   - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - high quality TypeScript type definitions
   - [tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development, by formium
@@ -194,7 +198,6 @@
     - [front-end-face-questions](https://github.com/dolymood/front-end-face-questions) - 史上最全 前端开发面试问题及答案整理, by dolymood
     - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - by h5bp
     - [frontend interview question](https://github.com/qq449245884/xiaozhi) - by xiaozhi
-    - [Awesome GitHub Profile READMEs](https://awesomegithubprofile.tech/)
 
  `concept`
   - [尤雨溪 - 在框架设计中寻求平衡 | JSConf.Asia 2019](https://www.bilibili.com/video/av80042358?from=search&seid=17425026665332701435) - 甘貨滿滿
