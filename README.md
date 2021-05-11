@@ -619,6 +619,7 @@
 `deno.js`  
   
 `Golang`  
+  - [go 标准库和部分第三方包的包中文文档](https://github.com/polaris1119/pkgdoc)
   - [CoolShell](https://coolshell.cn/) - 左耳朵耗子blog
   - [Go编程模式](https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f) - by 左耳朵耗子
   - [golangresource](https://golangresources.com/) - learning resource
