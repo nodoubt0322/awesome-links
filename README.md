@@ -777,6 +777,7 @@
     - [helm](https://github.com/helm/helm) - Kubernetes Package Manager
     - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
     - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+    - [cilium editor](https://editor.cilium.io/) - network policy editor
 
   - misc
     - [k8s playground](https://labs.play-with-k8s.com)
