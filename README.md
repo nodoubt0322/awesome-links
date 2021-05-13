@@ -626,6 +626,7 @@
   - [golangresource](https://golangresources.com/) - learning resource
   - [Go 语言设计与实现](https://draveness.me/golang/) 
   - [goreman](https://github.com/mattn/goreman) - 多进程管理工具, foreman clone written in go language
+  - [go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架
   - youtube
     - [The Exception Handler](https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ/videos)
   - github
