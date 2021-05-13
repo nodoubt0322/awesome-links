@@ -777,7 +777,6 @@
     - [helm](https://github.com/helm/helm) - Kubernetes Package Manager
     - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
     - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-    - [cilium editor](https://editor.cilium.io/) - network policy editor
 
   - misc
     - [k8s playground](https://labs.play-with-k8s.com)
@@ -798,7 +797,7 @@
 
     - [100​ Days Of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV) - by Anais Urlichs
     - [cloud code](https://cloud.google.com/code?hl=zh-tw) - 在vscode中設定k8s
-    - [cilium](https://editor.cilium.io/) -  visualise and practice k8s Network policies
+    - [cilium editor](https://editor.cilium.io/) -  visualise and practice k8s Network policies
     - [CKA-StudyGuide](https://github.com/David-VTUK/CKA-StudyGuide) - by David-VTUK
     - [artifacthub](https://artifacthub.io/) - Artifact Hub is a web-based application that enables finding, and publishing packages and configurations for CNCF projects
     - [kubernetes-overview-diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
@@ -806,15 +805,22 @@
     - [Kubernetes-Learning-Resources](https://github.com/kubernauts/Kubernetes-Learning-Resources) - by kubernauts
     - [Civo Kubernetes](https://www.civo.com/) - Kubernetes provider
 
-`tracing system`
+`tracing system`  
     - [zipkin](https://github.com/openzipkin/zipkin) - distributed tracing system
     - [Sleuth 链路追踪 Zipkin界面分析](https://www.youtube.com/watch?v=4bMKAodps1c) - 電商案例, by尚硅谷IT培训学校
     - [jaeger](https://github.com/jaegertracing/jaeger) - Distributed Tracing Platform, by cncf
 
-`chaos engineering`
+`chaos engineering`  
   - [chaos-engineering-the-history-principles-and-practice](https://www.infoq.cn/article/chaos-engineering-the-history-principles-and-practice)
   - [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - by dastergon, A curated list of Chaos Engineering
   - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - resiliency tool that helps applications tolerate random instance failures
+  - [kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
+  - [chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
+  - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
+  - [litmus](https://github.com/litmuschaos/litmus) - Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way
+  - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - Chaos Engineering Experiments Automation & Orchestration
+  - [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamified Chaos Engineering Tool for Kubernetes
+
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
