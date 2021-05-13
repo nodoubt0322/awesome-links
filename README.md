@@ -574,6 +574,7 @@
   - [在生产中使用 Rust 的著名公司及他们选择 Rust 的理由](https://www.infoq.cn/article/19SAqvrcT5YM3jjBbsc8)
   - [Rocket](https://github.com/SergioBenitez/Rocket) - web framework for Rust
   - [crates.io](https://crates.io/) - Rust community’s crate registry
+  - [pretzelhammer rust-blog](https://github.com/pretzelhammer/rust-blog) - got Tour of Rust's Standard Library Traits
     
 `Node.js`  
   - concept
