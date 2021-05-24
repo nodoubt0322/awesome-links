@@ -853,6 +853,9 @@
   - [gerrit](https://www.gerritcodereview.com/) - Code Review, open source
   - [upsource](https://www.jetbrains.com/upsource/) - charge, by jetbrains
   - [codeclimate](https://codeclimate.com/) - 四人以下免費
+  - [Crucible](https://www.atlassian.com/software/crucible/pricing) - 5人以下10美元, 可以跟jira之類的整合, by atlassian
+  - [collaborator](https://smartbear.com/product/collaborator) - smartbear collaborator, expensive
+  - [rhodecode](https://rhodecode.com/) - self host free
 
 `misc`  
   - [sosumi](https://github.com/popey/sosumi-snap) - Download and install macOS in a VM”. It works on Ubuntu, Fedora, Debian
