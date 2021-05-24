@@ -848,9 +848,11 @@
 `issue tracker`
   - [linear](https://linear.app/) - The issue tracking tool you'll enjoy using
   
-`code quality`  
+`code review`  
   - [phabricator](https://github.com/phacility/phabricator) - code review, repository hosting, bug tracking, project management
-  - [gerrit](https://www.gerritcodereview.com/) - Code Review
+  - [gerrit](https://www.gerritcodereview.com/) - Code Review, open source
+  - [upsource](https://www.jetbrains.com/upsource/) - charge, by jetbrains
+  - [codeclimate](https://codeclimate.com/) - 四人以下免費
 
 `misc`  
   - [sosumi](https://github.com/popey/sosumi-snap) - Download and install macOS in a VM”. It works on Ubuntu, Fedora, Debian
