@@ -767,6 +767,7 @@
   - [Buildah](https://buildah.io/) - tool facilitates building OCI container images
   - [portainer](https://github.com/portainer/portainer) - Docker and Kubernetes management UI
   - [podman](https://github.com/containers/podman) - managing OCI containers and pods
+  - [harbor](https://github.com/goharbor/harbor) - open source trusted cloud native registry project that stores, signs, and scans content
 
 `Kubernetes`  
   - tools
