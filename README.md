@@ -396,6 +396,7 @@
     - [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) - you dont need series (lodash, jquery etc...)
     - [pinia](https://pinia.esm.dev/) - Vue Store alternative
     - [es6 ~ es12](https://www.readfog.com/a/1632742674251485184?fbclid=IwAR037kRPiNFVfiTkSKJiM0GGnKKWOX1q7RWJtgTjHMbWds2meciyMJr6NY0)
+    - [crx-selection-translate](https://github.com/lmk123/crx-selection-translate) - chrome extension翻譯
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
