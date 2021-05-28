@@ -781,6 +781,10 @@
     - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
     - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 
+  - 認證相關
+    - [killer](https://killer.sh/) - CKS CKA CKAD Simulator
+    - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Kubernetes Certified Security Specialist resource 
+
   - misc
     - [k8s playground](https://labs.play-with-k8s.com)
     - [o'reilly kubernetes](https://www.katacoda.com/courses/kubernetes) - Interactive Browser-Based learning kubernetes , by o'reilly 
@@ -791,13 +795,11 @@
     - [lens](https://github.com/lensapp/lens) - k8s ide
     - [lens-extensions](https://github.com/lensapp/lens-extensions)
     - [want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring](https://medium.com/cloudlego/want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring-6eea25e50a69) - medium article by CloudLego
-    - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Kubernetes Certified Security Specialist resource
     - [k8siuse](https://k8siuse.com/) - k8s caniuse version
     - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts
     - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - development container definitions for the VS Code Remot
     - [helm-best-practices](https://codefresh.io/docs/docs/new-helm/helm-best-practices/)
     - [codefresh](https://codefresh.io/) - automation platform for Kubernetes apps
-
     - [100​ Days Of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV) - by Anais Urlichs
     - [cloud code](https://cloud.google.com/code?hl=zh-tw) - 在vscode中設定k8s
     - [cilium editor](https://editor.cilium.io/) -  visualise and practice k8s Network policies
