@@ -565,8 +565,11 @@
   - rabbitMQ
   - kafka
     - [node-rdkafka](https://github.com/Blizzard/node-rdkafka) - nodejs client for kafka, by blizzard
+  - pulsar
+    - [从 Kafka 到 Pulsar，华为云物联网上云之旅](https://www.infoq.cn/article/pYL93ahACjrHskbhkRgC)
   - activeMQ
   - rocketMQ
+  - 
 
 
 
@@ -837,6 +840,7 @@
 
 `gateway`  
   - nginx
+    - [nginx限流](https://zhaox.github.io/nginx/2019/09/05/explain-nginx-rate-limit)
   - kong
     - [kong](https://github.com/Kong/kong) - cloud-native, fast, scalable, and distributed Microservice API Gateway
     - [Kong 在好大夫的落地实践](https://www.infoq.cn/article/i7ypjly3fquydleoehcp)
