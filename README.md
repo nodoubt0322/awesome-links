@@ -360,6 +360,8 @@
   - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - supports more features and has a better scroll perfermance
   - [swiper](https://github.com/nolimits4web/swiper) - mobile touch slider with hardware accelerated transitions
   - [aos](https://github.com/michalsnik/aos) - Animate on scroll library
+  - [async.js](https://github.com/caolan/async) - Async utilities for node and the browser
+  - [modern-async](https://github.com/nicolas-van/modern-async) - library for asynchronous operations using async/await and promises
     
  `for study source code`
   - js
@@ -397,6 +399,8 @@
     - [pinia](https://pinia.esm.dev/) - Vue Store alternative
     - [es6 ~ es12](https://www.readfog.com/a/1632742674251485184?fbclid=IwAR037kRPiNFVfiTkSKJiM0GGnKKWOX1q7RWJtgTjHMbWds2meciyMJr6NY0)
     - [crx-selection-translate](https://github.com/lmk123/crx-selection-translate) - chrome extension翻譯
+    - [async.js](https://github.com/caolan/async) - Async utilities for node and the browser
+    - [modern-async](https://github.com/nicolas-van/modern-async) - library for asynchronous operations using async/await and promises    
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
