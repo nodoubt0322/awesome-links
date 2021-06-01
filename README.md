@@ -841,6 +841,8 @@
 `monitoring`  
   - grafana
     - [grafana playground](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1) - official
+  - [signoz](https://github.com/SigNoz/signoz) - an open-source alternative to DataDog, NewRelic
+  - [opentelemetry](https://opentelemetry.io/) - portable telemetry a built-in feature of cloud-native software.
 
 `gateway`  
   - nginx
@@ -849,6 +851,7 @@
     - [kong](https://github.com/Kong/kong) - cloud-native, fast, scalable, and distributed Microservice API Gateway
     - [Kong 在好大夫的落地实践](https://www.infoq.cn/article/i7ypjly3fquydleoehcp)
     - [微服务 API 网关 Kong 实践](https://segmentfault.com/a/1190000022843318)
+  - [easegress](https://github.com/megaease/easegress) - An all-rounder traffic orchestration system, by 左耳朵 
 
 `CI/CD`  
   - [circleci](https://circleci.com/)
