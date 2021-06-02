@@ -834,6 +834,10 @@
   - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - Chaos Engineering Experiments Automation & Orchestration
   - [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamified Chaos Engineering Tool for Kubernetes
 
+`infrastructure as code`
+  - [pulumi](https://github.com/pulumi/pulumi) - Modern Infrastructure as Code. Any cloud, any language
+  - [terraform](https://github.com/hashicorp/terraform) - tool for building, changing, and versioning infrastructure safely and efficiently
+  - [ansible](https://github.com/ansible/ansible) - automation platform that makes your applications and systems easier to deploy and maintain
 
 `image storage`  
   - [zimg](https://github.com/buaazp/zimg) - lightweight and high performance image storage and processing system
