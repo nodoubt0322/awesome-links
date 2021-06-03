@@ -573,10 +573,7 @@
     - [从 Kafka 到 Pulsar，华为云物联网上云之旅](https://www.infoq.cn/article/pYL93ahACjrHskbhkRgC)
   - activeMQ
   - rocketMQ
-  - 
-
-
-
+  
 `Rust`  
   - [Rust Magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) - by 張漢東
   - [在生产中使用 Rust 的著名公司及他们选择 Rust 的理由](https://www.infoq.cn/article/19SAqvrcT5YM3jjBbsc8)
@@ -650,7 +647,8 @@
   - misc
     - [sa-token](https://github.com/dromara/sa-token) - by dromara, 史上功能最全的Java权限认证框架
     - [Spring Native for GraalVM 0.8.3 available now](https://spring.io/blog/2020/11/23/spring-native-for-graalvm-0-8-3-available-now)
-    - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)    
+    - [install GraalVM for spring boot 2.4](https://juejin.cn/post/6909333730075082765)
+    - [wildfirechat](https://github.com/wildfirechat/server) - 即时通讯(IM)系统
 
 `Haskell`  
   - [Yesod](https://www.yesodweb.com/) - Haskell web framework for productive development of type-safe, RESTful api
@@ -658,6 +656,8 @@
 `python`  
   - github
     - [awesome-python](https://github.com/vinta/awesome-python) - list of awesome Python  resources. by vinta
+  - misc
+    - [Jcrontab](https://github.com/iopsgroup/Jcrontab) - 基于python3.6+django1.8开发实现的前后台界面化的定时任务系统
   - youtube
     - [Corey Schafer](https://www.youtube.com/c/Coreyms/videos)
     - [John Philip Jones](https://www.youtube.com/c/johnphilipjones/videos)
@@ -788,6 +788,7 @@
     - [helm](https://github.com/helm/helm) - Kubernetes Package Manager
     - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
     - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+    - [kdash](https://github.com/kdash-rs/kdash) - simple terminal dashboard for Kubernetes built with Rust
 
   - 認證相關
     - [killer](https://killer.sh/) - CKS CKA CKAD Simulator
