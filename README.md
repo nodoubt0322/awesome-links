@@ -776,6 +776,7 @@
   - [portainer](https://github.com/portainer/portainer) - Docker and Kubernetes management UI
   - [podman](https://github.com/containers/podman) - managing OCI containers and pods
   - [harbor](https://github.com/goharbor/harbor) - open source trusted cloud native registry project that stores, signs, and scans content
+  - [docker-compose-viz](https://github.com/pmsipilot/docker-compose-viz) - docker-compose-viz
 
 `Kubernetes`  
   - tools
