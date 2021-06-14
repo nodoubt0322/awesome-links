@@ -621,6 +621,7 @@
     - [nodeclub](https://github.com/cnodejs/nodeclub) - Node.js 和 MongoDB 开发的社区系统
     - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - team communications Solution, built by meteor.js
     - [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - fluent API to FFMPEG
+    - [NodeJs-backend-structure](https://github.com/AlaaMezian/NodeJs-backend-structure) - nodejs scaffold project , by AlaaMezian
     
 `deno.js`  
   
