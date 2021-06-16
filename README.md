@@ -768,6 +768,8 @@
     - [pg-sql.com](https://pg-sql.com/) - playground
   - MySQL
     - [Atlas](https://github.com/Qihoo360/Atlas) - proxy for MySQ, by Qihoo360
+  - Distributed SQL
+    - [cockroachdb](https://github.com/cockroachdb/cockroach) - cloud-native distributed SQL database
     
 `Misc`  
   - [supabase](https://github.com/supabase/supabase) - open source Firebase alternative. using enterprise-grade open source tools. early stage back by mozilla
