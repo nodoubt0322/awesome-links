@@ -775,6 +775,13 @@
   - [supabase](https://github.com/supabase/supabase) - open source Firebase alternative. using enterprise-grade open source tools. early stage back by mozilla
   
 ## Devops  
+`Service mesh`
+  - Istio
+    - [Istio](https://github.com/istio/istio) - Connect, secure, control, and observe services
+  - Linkerd
+    - [linkerd](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes
+  - Consul Connect
+
 `docker`  
   - [Buildah](https://buildah.io/) - tool facilitates building OCI container images
   - [portainer](https://github.com/portainer/portainer) - Docker and Kubernetes management UI
@@ -822,12 +829,12 @@
     - [kubernetes-overview-diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
     - [kubeacademy](https://kube.academy/) - from vmware, learning k8s (vod)
     - [Kubernetes-Learning-Resources](https://github.com/kubernauts/Kubernetes-Learning-Resources) - by kubernauts
-    - [Civo Kubernetes](https://www.civo.com/) - Kubernetes provider
+    - [Civo Kubernetes](https://www.civo.com/) - Kubernetes provider  
 
 `tracing system`  
-    - [zipkin](https://github.com/openzipkin/zipkin) - distributed tracing system
-    - [Sleuth 链路追踪 Zipkin界面分析](https://www.youtube.com/watch?v=4bMKAodps1c) - 電商案例, by尚硅谷IT培训学校
-    - [jaeger](https://github.com/jaegertracing/jaeger) - Distributed Tracing Platform, by cncf
+  - [zipkin](https://github.com/openzipkin/zipkin) - distributed tracing system  
+  - [Sleuth 链路追踪 Zipkin界面分析](https://www.youtube.com/watch?v=4bMKAodps1c) - 電商案例, by尚硅谷IT培训学校  
+  - [jaeger](https://github.com/jaegertracing/jaeger) - Distributed Tracing Platform, by cncf  
 
 `chaos engineering`  
   - [chaos-engineering-the-history-principles-and-practice](https://www.infoq.cn/article/chaos-engineering-the-history-principles-and-practice)
