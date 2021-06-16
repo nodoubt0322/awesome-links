@@ -580,6 +580,7 @@
   - [Rocket](https://github.com/SergioBenitez/Rocket) - web framework for Rust
   - [crates.io](https://crates.io/) - Rust community’s crate registry
   - [pretzelhammer rust-blog](https://github.com/pretzelhammer/rust-blog) - got Tour of Rust's Standard Library Traits
+  - [ruffle](https://github.com/ruffle-rs/ruffle) - Flash Player emulator written in Rust
     
 `Node.js`  
   - concept
