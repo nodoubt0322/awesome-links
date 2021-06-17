@@ -569,6 +569,7 @@
   - rabbitMQ
   - kafka
     - [node-rdkafka](https://github.com/Blizzard/node-rdkafka) - nodejs client for kafka, by blizzard
+    - [kafka-eagle](https://github.com/smartloli/kafka-eagle) - monitoring and management of kafka cluster
   - pulsar
     - [从 Kafka 到 Pulsar，华为云物联网上云之旅](https://www.infoq.cn/article/pYL93ahACjrHskbhkRgC)
   - activeMQ
