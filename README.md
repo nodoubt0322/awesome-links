@@ -127,6 +127,7 @@
   - react-doc-gen
   
 `API`
+  - [mockoon](https://github.com/mockoon/mockoon) - the easiest and quickest way to run mock APIs locally
   - [restfulapi](https://restfulapi.net/) - the right definition about restful
   - [protocol spec](https://www.w3.org/Protocols/rfc2616/rfc2616.txt) - section 9, methods
   - [Insomnia](https://insomnia.rest/) - postman-like but more powerful
