@@ -405,6 +405,7 @@
     - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) - online fake REST API server
     - [xv](https://github.com/typicode/xv) - Super fast and lightweight test runner
     - [json-server](https://github.com/typicode/json-server) - full fake REST API with zero coding in less than 30 seconds
+    - [cheatsheets](https://github.com/rstacruz/cheatsheets) - by rstacruz => make github page
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
