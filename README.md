@@ -401,7 +401,10 @@
     - [es6 ~ es12](https://www.readfog.com/a/1632742674251485184?fbclid=IwAR037kRPiNFVfiTkSKJiM0GGnKKWOX1q7RWJtgTjHMbWds2meciyMJr6NY0)
     - [crx-selection-translate](https://github.com/lmk123/crx-selection-translate) - chrome extension翻譯
     - [async.js](https://github.com/caolan/async) - Async utilities for node and the browser
-    - [modern-async](https://github.com/nicolas-van/modern-async) - library for asynchronous operations using async/await and promises    
+    - [modern-async](https://github.com/nicolas-van/modern-async) - library for asynchronous operations using async/await and promises
+    - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) - online fake REST API server
+    - [xv](https://github.com/typicode/xv) - Super fast and lightweight test runner
+    - [json-server](https://github.com/typicode/json-server) - full fake REST API with zero coding in less than 30 seconds
   - css
     - [aqua.css](https://github.com/alphardex/aqua.css) - tiny, for study sourcecode
     - [wing](https://github.com/kbrsh/wing) - tiny, for study sourcecode
