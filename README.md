@@ -885,7 +885,10 @@
 
 `issue tracker`
   - [linear](https://linear.app/) - The issue tracking tool you'll enjoy using
-  
+
+`code quality`
+  - [sonarqube](https://github.com/SonarSource/sonarqube)
+
 `code review`  
   - [phabricator](https://github.com/phacility/phabricator) - code review, repository hosting, bug tracking, project management
   - [gerrit](https://www.gerritcodereview.com/) - Code Review, open source
