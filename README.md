@@ -127,6 +127,7 @@
   - react-doc-gen
   
 `API`
+  - [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
   - [mockoon](https://github.com/mockoon/mockoon) - the easiest and quickest way to run mock APIs locally
   - [restfulapi](https://restfulapi.net/) - the right definition about restful
   - [protocol spec](https://www.w3.org/Protocols/rfc2616/rfc2616.txt) - section 9, methods
