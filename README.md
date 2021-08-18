@@ -1,7 +1,7 @@
 ## architecture
  `learning resource`
   - github
-    - [ddia中文版](https://github.com/Vonng/ddia) - Designing Data-Intensive Application中文翻译
+    - [ddia中文版](https://github.com/Vonng/ddia) - Designing Data-Intensive Application中文翻译1
     - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome) - by xingshaocheng
     - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - by kamranahmedse
     - [system-design-primer](https://github.com/donnemartin/system-design-primer) - design large-scale systems, by donnemartin
